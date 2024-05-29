@@ -2,29 +2,27 @@
 	<Info>
 		<FileType>Battery 3 quick load sample data</FileType>
 		<Ext>NOV</Ext>
-		<Mime>application/octet-stream</Mime>
 		<ExtraInfo>
 			<Rem></Rem>
-			<RefURL>https://www.native-instruments.com/</RefURL>
+			<RefURL>http://www.native-instruments.com/#/en/products/producer/battery-3/</RefURL>
 		</ExtraInfo>
 		<User>Marco Pontello</User>
 		<E-Mail>marcopon@gmail.com</E-Mail>
-		<Home>https://mark0.net</Home>
+		<Home>http://mark0.net</Home>
 	</Info>
 	<General>
-		<FileNum>201</FileNum>
-		<Refine>2 by Marco Pontello</Refine>
+		<FileNum>199</FileNum>
 		<Date>
-			<Year>2024</Year>
-			<Month>4</Month>
-			<Day>27</Day>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
 		</Date>
 		<Time>
-			<Hour>0</Hour>
-			<Min>20</Min>
-			<Sec>51</Sec>
+			<Hour>17</Hour>
+			<Min>54</Min>
+			<Sec>3</Sec>
 		</Time>
-		<Creator>TrIDScan/Py v2.02</Creator>
+		<Creator>TrIDScan/Py v1.80</Creator>
 	</General>
 	<FrontBlock>
 		<Pattern>

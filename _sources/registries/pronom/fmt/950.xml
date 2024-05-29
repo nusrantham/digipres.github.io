@@ -24,8 +24,9 @@
       <ProvenanceSourceID>178</ProvenanceSourceID>
       <ProvenanceName>National Library of New Zealand / National Library of New Zealand</ProvenanceName>
       <ProvenanceSourceDate>22 Jul 2016</ProvenanceSourceDate>
-      <ProvenanceDescription>04/2024 (v.117): Max offset of one BOF sequence increased to 20000. Submitted by Archives New Zealand.</ProvenanceDescription>
-      <LastUpdatedDate>15 Apr 2024</LastUpdatedDate>
+      <ProvenanceDescription>
+      </ProvenanceDescription>
+      <LastUpdatedDate>22 Jul 2016</LastUpdatedDate>
       <FormatNote>
       </FormatNote>
       <FormatRisk>
@@ -57,7 +58,7 @@ Content-(T|t)ype:</SignatureNote>
           <ByteSequenceID>1570</ByteSequenceID>
           <PositionType>Absolute from BOF</PositionType>
           <Offset>0</Offset>
-          <MaxOffset>20000</MaxOffset>
+          <MaxOffset>16384</MaxOffset>
           <IndirectOffsetLocation>
           </IndirectOffsetLocation>
           <IndirectOffsetLength>

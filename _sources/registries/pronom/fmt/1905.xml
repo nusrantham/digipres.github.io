@@ -25,8 +25,9 @@
       <ProvenanceSourceID>180</ProvenanceSourceID>
       <ProvenanceName>The National Archives and Records Administration / The National Archives and Records Administration</ProvenanceName>
       <ProvenanceSourceDate>18 Aug 2023</ProvenanceSourceDate>
-      <ProvenanceDescription>02/2024 (v.117): corrected Wikidata entry. Submitted by Yale University Library.</ProvenanceDescription>
-      <LastUpdatedDate>08 Feb 2024</LastUpdatedDate>
+      <ProvenanceDescription>
+      </ProvenanceDescription>
+      <LastUpdatedDate>18 Aug 2023</LastUpdatedDate>
       <FormatNote>http://fileformats.archiveteam.org/wiki/Universal_Scene_Description</FormatNote>
       <FormatRisk>
       </FormatRisk>
@@ -37,7 +38,7 @@
         <IdentifierType>PUID</IdentifierType>
       </FileFormatIdentifier>
       <FileFormatIdentifier>
-        <Identifier>Q105856757</Identifier>
+        <Identifier>Q60997373</Identifier>
         <IdentifierType>Wikidata QID Identifier</IdentifierType>
       </FileFormatIdentifier>
       <ExternalSignature>

@@ -527,13 +527,6 @@
           <ByteSequenceValue>19{52}001900</ByteSequenceValue>
         </ByteSequence>
       </InternalSignature>
-      <RelatedFormat>
-        <RelationshipType>Has lower priority than</RelationshipType>
-        <RelatedFormatID>2870</RelatedFormatID>
-        <RelatedFormatName>SPIR-V</RelatedFormatName>
-        <RelatedFormatVersion>
-        </RelatedFormatVersion>
-      </RelatedFormat>
     </FileFormat>
     <SearchCriteria>Criteria</SearchCriteria>
   </report_format_detail>
