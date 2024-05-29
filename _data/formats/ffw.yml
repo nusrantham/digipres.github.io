@@ -141,9 +141,9 @@ formats:
   2sf:
     egff: []
     extensions:
+    - '*.mini2sf'
     - '*.smap'
     - '*.2sflib'
-    - '*.mini2sf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -222,8 +222,8 @@ formats:
   3d movie maker:
     egff: []
     extensions:
-    - '*.vmm'
     - '*.3mm'
+    - '*.vmm'
     - '*.nmm'
     fdd: []
     hasMagic: false
@@ -269,9 +269,9 @@ formats:
   3dmf:
     egff: []
     extensions:
-    - '*.3dm'
-    - '*.qd3'
     - '*.3dmf'
+    - '*.qd3'
+    - '*.3dm'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -301,8 +301,8 @@ formats:
     - 3ds
     - Autodesk 3D Studio File Format Summary
     extensions:
-    - '*.max'
     - '*.3ds'
+    - '*.max'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -360,8 +360,8 @@ formats:
   3m printscape:
     egff: []
     extensions:
-    - '*.std'
     - '*.psc'
+    - '*.std'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -467,8 +467,8 @@ formats:
   602pro pc suite:
     egff: []
     extensions:
-    - '*.wpd'
     - '*.wpt'
+    - '*.wpd'
     - '*.wls'
     fdd: []
     hasMagic: false
@@ -547,13 +547,13 @@ formats:
   8-bit sampled voice:
     egff: []
     extensions:
-    - '*.8svx'
     - '*.iff'
+    - '*.8svx'
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/8svx
     - audio/x-8svx
+    - audio/8svx
     name: 8-Bit Sampled Voice
     pronom:
     - fmt/339
@@ -647,8 +647,8 @@ formats:
   aac:
     egff: []
     extensions:
-    - '*.mp4'
     - '*.aac'
+    - '*.mp4'
     - '*.m4a'
     fdd:
     - fdd000114
@@ -745,8 +745,8 @@ formats:
   abbyy finereader:
     egff: []
     extensions:
-    - '*.frdat'
     - '*.pac'
+    - '*.frdat'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -897,8 +897,8 @@ formats:
   ability spreadsheet:
     egff: []
     extensions:
-    - '*.ast'
     - '*.aws'
+    - '*.ast'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -926,8 +926,8 @@ formats:
     egff: []
     extensions:
     - '*.abw'
-    - '*.zabw'
     - '*.abw.gz'
+    - '*.zabw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -941,17 +941,17 @@ formats:
   ableton live:
     egff: []
     extensions:
-    - '*.adv'
-    - '*.alp'
-    - '*.adg'
-    - '*.alc'
-    - '*.agr'
-    - '*.als'
-    - '*.ams'
-    - '*.adp'
     - '*.amxd'
+    - '*.ams'
     - '*.ask'
+    - '*.agr'
+    - '*.alc'
+    - '*.alp'
+    - '*.als'
     - '*.asd'
+    - '*.adg'
+    - '*.adv'
+    - '*.adp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1016,10 +1016,10 @@ formats:
   access:
     egff: []
     extensions:
-    - '*.accdb'
+    - '*.mdb'
     - '*.mde'
     - '*.accde'
-    - '*.mdb'
+    - '*.accdb'
     fdd:
     - fdd000462
     - fdd000463
@@ -1040,8 +1040,8 @@ formats:
   acclaim asf/amc:
     egff: []
     extensions:
-    - '*.amc'
     - '*.asf'
+    - '*.amc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1328,8 +1328,8 @@ formats:
   adaptive multi-rate audio:
     egff: []
     extensions:
-    - '*.3ga'
     - '*.amr'
+    - '*.3ga'
     fdd:
     - fdd000254
     hasMagic: false
@@ -1371,9 +1371,9 @@ formats:
   adaptive transform acoustic coding:
     egff: []
     extensions:
+    - '*.aa3'
     - '*.at3'
     - '*.oma'
-    - '*.aa3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1422,12 +1422,12 @@ formats:
   addressbook (apple):
     egff: []
     extensions:
-    - '*.abcddb'
-    - '*.aclcddb-wal'
-    - '*.aclcddb'
-    - '*.aclcddb-shm'
-    - '*.abcddb-shm'
     - '*.abcddb-wal'
+    - '*.abcddb-shm'
+    - '*.aclcddb'
+    - '*.abcddb'
+    - '*.aclcddb-shm'
+    - '*.aclcddb-wal'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1452,8 +1452,8 @@ formats:
   adf (amiga):
     egff: []
     extensions:
-    - '*.adz'
     - '*.adf'
+    - '*.adz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1512,8 +1512,8 @@ formats:
   adlib tracker ii instrument:
     egff: []
     extensions:
-    - '*.a2f'
     - '*.a2i'
+    - '*.a2f'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1538,8 +1538,8 @@ formats:
   adlib tracker ii module:
     egff: []
     extensions:
-    - '*.a2t'
     - '*.a2m'
+    - '*.a2t'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -1674,8 +1674,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - 3D/vnd.adobe.dn+dcx
     - model/vnd.adobe.dn+dcxucf
+    - 3D/vnd.adobe.dn+dcx
     name: Adobe Dimension
     pronom: []
     released: '2016'
@@ -1819,8 +1819,8 @@ formats:
   adobe type 1:
     egff: []
     extensions:
-    - '*.pfb'
     - '*.afm'
+    - '*.pfb'
     - '*.pfm'
     fdd: []
     hasMagic: false
@@ -1910,10 +1910,10 @@ formats:
   advanced art studio:
     egff: []
     extensions:
-    - '*.ocp'
-    - '*.win'
-    - '*.scr'
     - '*.pal'
+    - '*.win'
+    - '*.ocp'
+    - '*.scr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2090,9 +2090,9 @@ formats:
   afio:
     egff: []
     extensions:
-    - '*.afio'
-    - '*.cpio'
     - '*.af'
+    - '*.cpio'
+    - '*.afio'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2130,8 +2130,8 @@ formats:
   after effects:
     egff: []
     extensions:
-    - '*.aepx'
     - '*.aep'
+    - '*.aepx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2180,10 +2180,10 @@ formats:
   agisoft:
     egff: []
     extensions:
+    - '*.psx'
     - '*.tls'
     - '*.psz'
     - '*.oc3'
-    - '*.psx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2223,12 +2223,12 @@ formats:
   agt:
     egff: []
     extensions:
-    - '*.da3'
-    - '*.da2'
-    - '*.da1'
-    - '*.da5'
     - '*.d$$'
+    - '*.da1'
     - '*.da4'
+    - '*.da2'
+    - '*.da5'
+    - '*.da3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2290,8 +2290,8 @@ formats:
     egff: []
     extensions:
     - '*.aff'
-    - '*.aif'
     - '*.aiff'
+    - '*.aif'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -2395,11 +2395,11 @@ formats:
   alan 2:
     egff: []
     extensions:
+    - '*.ala'
     - '*.i'
     - '*.acd'
-    - '*.alan'
-    - '*.ala'
     - '*.dat'
+    - '*.alan'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2513,8 +2513,8 @@ formats:
   alias pix:
     egff: []
     extensions:
-    - '*.pix'
     - '*.img'
+    - '*.pix'
     - '*.als'
     fdd: []
     hasMagic: false
@@ -2612,8 +2612,8 @@ formats:
     egff: []
     extensions:
     - '*.vig'
-    - '*.sie'
     - '*.sic'
+    - '*.sie'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2827,11 +2827,11 @@ formats:
   amiga hunk:
     egff: []
     extensions:
-    - '*.library'
     - '*.o'
-    - '*.device'
+    - '*.library'
     - '*.lib'
     - '*.datatype'
+    - '*.device'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -2892,8 +2892,8 @@ formats:
   amos ambs:
     egff: []
     extensions:
-    - '*.abk'
     - '*.abs'
+    - '*.abk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3038,8 +3038,8 @@ formats:
   ancestral quest:
     egff: []
     extensions:
-    - '*.ac'
     - '*.aq'
+    - '*.ac'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3119,8 +3119,8 @@ formats:
   android recovery mode backup:
     egff: []
     extensions:
-    - '*.backup'
     - '*.backup3'
+    - '*.backup'
     - '*.backup1'
     - '*.backup2'
     fdd: []
@@ -3172,8 +3172,8 @@ formats:
   anim:
     egff: []
     extensions:
-    - '*.anim'
     - '*.sndanim'
+    - '*.anim'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3199,8 +3199,8 @@ formats:
   anim8or scripting language:
     egff: []
     extensions:
-    - '*.asl'
     - '*.txt'
+    - '*.asl'
     - '*.a8s'
     fdd: []
     hasMagic: false
@@ -3291,8 +3291,8 @@ formats:
   anist:
     egff: []
     extensions:
-    - '*.scr'
     - '*.str'
+    - '*.scr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3412,8 +3412,8 @@ formats:
   ansi music:
     egff: []
     extensions:
-    - '*.ams'
     - '*.mus'
+    - '*.ams'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3512,11 +3512,11 @@ formats:
   ap*:
     egff: []
     extensions:
-    - '*.apc'
     - '*.apa'
     - '*.ap2'
-    - '*.256'
     - '*.plm'
+    - '*.apc'
+    - '*.256'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3599,10 +3599,10 @@ formats:
   aperture library:
     egff: []
     extensions:
-    - '*.apfolder'
-    - '*.apalbum'
-    - '*.apversion'
     - '*.apmaster'
+    - '*.apversion'
+    - '*.apalbum'
+    - '*.apfolder'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3697,10 +3697,10 @@ formats:
   apl workspace:
     egff: []
     extensions:
-    - '*.dws'
-    - '*.dxf'
     - '*.atf'
+    - '*.dxf'
     - '*.apl'
+    - '*.dws'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -3716,8 +3716,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - image/png
     - image/vnd.mozilla.apng
+    - image/png
     name: APNG
     pronom:
     - fmt/935
@@ -3727,8 +3727,8 @@ formats:
   apple dictionary:
     egff: []
     extensions:
-    - '*.dictionary'
     - '*.data'
+    - '*.dictionary'
     - '*.index'
     fdd: []
     hasMagic: false
@@ -3743,10 +3743,10 @@ formats:
   apple disk image:
     egff: []
     extensions:
-    - '*.smi'
-    - '*.dmg'
     - '*.img'
+    - '*.smi'
     - '*.2mg'
+    - '*.dmg'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -3937,9 +3937,9 @@ formats:
   apple motion:
     egff: []
     extensions:
+    - '*.motn'
     - '*.moti'
     - '*.moef'
-    - '*.motn'
     - '*.motr'
     fdd: []
     hasMagic: false
@@ -3953,10 +3953,10 @@ formats:
   apple partition map:
     egff: []
     extensions:
-    - '*.toast'
-    - '*.dmg'
     - '*.cdr'
+    - '*.toast'
     - '*.iso'
+    - '*.dmg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -4009,8 +4009,8 @@ formats:
   applescript:
     egff: []
     extensions:
-    - '*.scpt'
     - '*.applescript'
+    - '*.scpt'
     - '*.scptd'
     fdd: []
     hasMagic: false
@@ -4206,8 +4206,8 @@ formats:
   arc (compression format):
     egff: []
     extensions:
-    - '*.arc'
     - '*.ark'
+    - '*.arc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -4289,8 +4289,8 @@ formats:
     egff: []
     extensions:
     - '*.lpk'
-    - '*.lyrx'
     - '*.lyr'
+    - '*.lyrx'
     - '*.lpkx'
     fdd: []
     hasMagic: false
@@ -4385,9 +4385,9 @@ formats:
     egff: []
     extensions:
     - '*.apa'
+    - '*.apl'
     - '*.apm'
     - '*.apx'
-    - '*.apl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -4534,9 +4534,9 @@ formats:
   arj:
     egff: []
     extensions:
+    - '*.a01'
     - '*.a02'
     - '*.arj'
-    - '*.a01'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -4550,8 +4550,8 @@ formats:
   arj-protect data:
     egff: []
     extensions:
-    - '*.x01'
     - '*.xrj'
+    - '*.x01'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5026,15 +5026,15 @@ formats:
   ascii art:
     egff: []
     extensions:
-    - '*.asc'
     - '*.txt'
+    - '*.asc'
     - '*.ascii'
     fdd: []
     hasMagic: false
     mimetypes:
     - image/ascii-art
-    - text/plain
     - text/x-ascii-art
+    - text/plain
     - text/vnd.ascii-art
     name: ASCII Art
     pronom: []
@@ -5057,9 +5057,9 @@ formats:
   ascii tab:
     egff: []
     extensions:
-    - '*.btab'
-    - '*.tab'
     - '*.txt'
+    - '*.tab'
+    - '*.btab'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5142,8 +5142,8 @@ formats:
   aseprite:
     egff: []
     extensions:
-    - '*.aseprite'
     - '*.ase'
+    - '*.aseprite'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5246,9 +5246,9 @@ formats:
   astound presentation:
     egff: []
     extensions:
-    - '*.asd'
-    - '*.smp'
     - '*.asv'
+    - '*.smp'
+    - '*.asd'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -5303,8 +5303,8 @@ formats:
   asymetrix toolbook:
     egff: []
     extensions:
-    - '*.tbkx'
     - '*.tbk'
+    - '*.tbkx'
     - '*.sbk'
     fdd: []
     hasMagic: false
@@ -5437,12 +5437,12 @@ formats:
   atari st executable:
     egff: []
     extensions:
-    - '*.ovl'
-    - '*.tos'
-    - '*.ttp'
     - '*.prg'
     - '*.app'
     - '*.acc'
+    - '*.ovl'
+    - '*.ttp'
+    - '*.tos'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5478,12 +5478,12 @@ formats:
   ataritools-800:
     egff: []
     extensions:
+    - '*.agp'
+    - '*.acs'
     - '*.4pl'
+    - '*.4pm'
     - '*.pla'
     - '*.mis'
-    - '*.acs'
-    - '*.4pm'
-    - '*.agp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5583,9 +5583,9 @@ formats:
   atrac advanced lossless:
     egff: []
     extensions:
+    - '*.aa3'
     - '*.at3'
     - '*.oma'
-    - '*.aa3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5610,8 +5610,8 @@ formats:
   au:
     egff: []
     extensions:
-    - '*.snd'
     - '*.au'
+    - '*.snd'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -5637,8 +5637,8 @@ formats:
   audacity project format:
     egff: []
     extensions:
-    - '*.aup3'
     - '*.aup'
+    - '*.aup3'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -5657,8 +5657,8 @@ formats:
   audfprint fingerprint file:
     egff: []
     extensions:
-    - '*.afpt'
     - '*.afpk'
+    - '*.afpt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5670,8 +5670,8 @@ formats:
   audible audiobook:
     egff: []
     extensions:
-    - '*.aax'
     - '*.aa'
+    - '*.aax'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5729,8 +5729,8 @@ formats:
   audition:
     egff: []
     extensions:
-    - '*.cdlx'
     - '*.sesx'
+    - '*.cdlx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5875,9 +5875,9 @@ formats:
   autoexec.bat:
     egff: []
     extensions:
-    - '*.bat'
-    - '*.win'
     - '*.dos'
+    - '*.win'
+    - '*.bat'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -5970,8 +5970,8 @@ formats:
   autotools:
     egff: []
     extensions:
-    - '*.ac'
     - '*.in'
+    - '*.ac'
     - '*.am'
     fdd: []
     hasMagic: false
@@ -6054,10 +6054,10 @@ formats:
     - fdd000059
     hasMagic: false
     mimetypes:
-    - video/avi
-    - video/msvideo
-    - video/vnd.avi
     - video/x-msvideo
+    - video/vnd.avi
+    - video/msvideo
+    - video/avi
     name: AVI
     pronom:
     - fmt/5
@@ -6120,8 +6120,8 @@ formats:
   avro:
     egff: []
     extensions:
-    - '*.avro'
     - '*.avsc'
+    - '*.avro'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6134,9 +6134,9 @@ formats:
   avs x image:
     egff: []
     extensions:
-    - '*.avs'
-    - '*.mbfavs'
     - '*.x'
+    - '*.mbfavs'
+    - '*.avs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6148,8 +6148,8 @@ formats:
   award bios logo:
     egff: []
     extensions:
-    - '*.epa'
     - '*.bmp'
+    - '*.epa'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6261,8 +6261,8 @@ formats:
   azw:
     egff: []
     extensions:
-    - '*.azw3'
     - '*.azw'
+    - '*.azw3'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -6300,8 +6300,8 @@ formats:
   b's pro tracker module:
     egff: []
     extensions:
-    - '*.bps'
     - '*.bpm'
+    - '*.bps'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6363,21 +6363,21 @@ formats:
   backos file formats:
     egff: []
     extensions:
-    - '*.uns'
+    - '*.nt'
+    - '*.su'
+    - '*.sp'
+    - '*.wiki'
+    - '*.txt'
+    - '*.ep'
     - '*.sf'
     - '*.scr'
-    - '*.img'
-    - '*.txt'
-    - '*.bos'
     - '*.tb'
-    - '*.fldr'
-    - '*.ep'
-    - '*.su'
-    - '*.wiki'
-    - '*.nt'
     - '*.ma'
+    - '*.img'
     - '*.wbs'
-    - '*.sp'
+    - '*.fldr'
+    - '*.bos'
+    - '*.uns'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6493,8 +6493,8 @@ formats:
   bam (binary alignment map):
     egff: []
     extensions:
-    - '*.bai'
     - '*.bam'
+    - '*.bai'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6563,8 +6563,8 @@ formats:
   barf:
     egff: []
     extensions:
-    - '*.x??'
     - '*.x'
+    - '*.x??'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6706,9 +6706,9 @@ formats:
   batch file:
     egff: []
     extensions:
+    - '*.btm'
     - '*.bat'
     - '*.cmd'
-    - '*.btm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -6782,11 +6782,11 @@ formats:
   bbc micro mode image:
     egff: []
     extensions:
-    - '*.bb1'
     - '*.bb2'
     - '*.bb4'
-    - '*.bb0'
     - '*.bb5'
+    - '*.bb0'
+    - '*.bb1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7171,8 +7171,8 @@ formats:
   bga archive:
     egff: []
     extensions:
-    - '*.gza'
     - '*.bza'
+    - '*.gza'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7258,8 +7258,8 @@ formats:
   bibtex:
     egff: []
     extensions:
-    - '*.bib'
     - '*.bibtex'
+    - '*.bib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7370,8 +7370,8 @@ formats:
   binary ii:
     egff: []
     extensions:
-    - '*.bqy'
     - '*.bny'
+    - '*.bqy'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7418,15 +7418,15 @@ formats:
   binhex:
     egff: []
     extensions:
-    - '*.hqx'
-    - '*.hex'
     - '*.hcx'
+    - '*.hex'
+    - '*.hqx'
     fdd: []
     hasMagic: false
     mimetypes:
     - application/binhex
-    - application/mac-binhex40
     - application/mac-binhex
+    - application/mac-binhex40
     name: BinHex
     pronom:
     - x-fmt/416
@@ -7437,9 +7437,9 @@ formats:
   bink video:
     egff: []
     extensions:
+    - '*.bik2'
     - '*.bk2'
     - '*.bik'
-    - '*.bik2'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -7637,8 +7637,8 @@ formats:
   blazing paddles:
     egff: []
     extensions:
-    - '*.wnd'
     - '*.pi'
+    - '*.wnd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7811,12 +7811,12 @@ formats:
   blorb:
     egff: []
     extensions:
-    - '*.blb'
     - '*.gblorb'
-    - '*.blorb'
-    - '*.zlb'
+    - '*.blb'
     - '*.glb'
+    - '*.blorb'
     - '*.zblorb'
+    - '*.zlb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7875,8 +7875,8 @@ formats:
     egff: []
     extensions:
     - '*.cpi'
-    - '*.clp'
     - '*.clpi'
+    - '*.clp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -7940,9 +7940,9 @@ formats:
     - os2bmp
     - OS/2 Bitmap File Format Summary
     extensions:
+    - '*.bmp'
     - '*.dib'
     - '*.rle'
-    - '*.bmp'
     fdd:
     - fdd000189
     hasMagic: false
@@ -8081,8 +8081,8 @@ formats:
   boinc:
     egff: []
     extensions:
-    - '*.wu'
     - '*.xml'
+    - '*.wu'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8182,8 +8182,8 @@ formats:
   border screen:
     egff: []
     extensions:
-    - '*.bsc'
     - '*.bmc4'
+    - '*.bsc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8439,8 +8439,8 @@ formats:
   brik/head:
     egff: []
     extensions:
-    - '*.head'
     - '*.brik'
+    - '*.head'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8550,9 +8550,9 @@ formats:
   bsarc and bsa:
     egff: []
     extensions:
-    - '*.bsn'
     - '*.bsa'
     - '*.bs2'
+    - '*.bsn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8568,9 +8568,9 @@ formats:
     - Pictor PC Paint File Format Summary
     extensions:
     - '*.pic'
-    - '*.scn'
     - '*.bsv'
     - '*.cgx'
+    - '*.scn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8582,11 +8582,11 @@ formats:
   bsb:
     egff: []
     extensions:
-    - '*.bsb'
     - '*.cap'
-    - '*.bsb.txt'
     - '*.kap'
+    - '*.bsb'
     - '*.kap.txt'
+    - '*.bsb.txt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8786,10 +8786,10 @@ formats:
   bve object formats:
     egff: []
     extensions:
+    - '*.x'
+    - '*.b3d'
     - '*.animated'
     - '*.csv'
-    - '*.b3d'
-    - '*.x'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -8982,8 +8982,8 @@ formats:
   c:
     egff: []
     extensions:
-    - '*.h'
     - '*.c'
+    - '*.h'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9047,13 +9047,13 @@ formats:
   c++:
     egff: []
     extensions:
-    - '*.h'
-    - '*.cc'
-    - '*.c++'
-    - '*.hh'
     - '*.cpp'
-    - '*.cxx'
+    - '*.h'
     - '*.hpp'
+    - '*.cc'
+    - '*.hh'
+    - '*.c++'
+    - '*.cxx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9282,9 +9282,9 @@ formats:
     egff: []
     extensions:
     - '*.t4g'
-    - '*.t2g'
-    - '*.mpg'
     - '*.t3g'
+    - '*.mpg'
+    - '*.t2g'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9491,10 +9491,10 @@ formats:
   calendar creator:
     egff: []
     extensions:
-    - '*.cc3'
-    - '*.cc5'
     - '*.bcc'
     - '*.cce'
+    - '*.cc3'
+    - '*.cc5'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9522,8 +9522,8 @@ formats:
   caligari truespace:
     egff: []
     extensions:
-    - '*.scn'
     - '*.cob'
+    - '*.scn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9563,13 +9563,13 @@ formats:
     - CALS Raster File Format Summary
     extensions:
     - '*.ct2'
-    - '*.ct1'
     - '*.ct3'
-    - '*.ras'
-    - '*.cal'
-    - '*.c4'
-    - '*.ct4'
     - '*.nif'
+    - '*.c4'
+    - '*.ras'
+    - '*.ct4'
+    - '*.cal'
+    - '*.ct1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9761,10 +9761,10 @@ formats:
     egff: []
     extensions:
     - '*.cnv'
-    - '*.cvx'
-    - '*.cv5'
     - '*.cvd'
+    - '*.cv5'
     - '*.cvs'
+    - '*.cvx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9777,11 +9777,11 @@ formats:
   canvas (atari):
     egff: []
     extensions:
-    - '*.cnv'
-    - '*.img'
     - '*.ful'
     - '*.pal'
     - '*.cpt'
+    - '*.cnv'
+    - '*.img'
     - '*.hbl'
     fdd: []
     hasMagic: false
@@ -9845,8 +9845,8 @@ formats:
   car (carcomp):
     egff: []
     extensions:
-    - '*.caz'
     - '*.car'
+    - '*.caz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -9932,8 +9932,8 @@ formats:
   cartesian perceptual compression:
     egff: []
     extensions:
-    - '*.cpi'
     - '*.cpc'
+    - '*.cpi'
     fdd:
     - fdd000007
     hasMagic: false
@@ -10388,8 +10388,8 @@ formats:
   cdl:
     egff: []
     extensions:
-    - '*.pcl'
     - '*.cdl'
+    - '*.pcl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -10524,8 +10524,8 @@ formats:
   certificate revocation list:
     egff: []
     extensions:
-    - '*.crl'
     - '*.pem'
+    - '*.crl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -10728,8 +10728,8 @@ formats:
   champions' interlace:
     egff: []
     extensions:
-    - '*.cci'
     - '*.cin'
+    - '*.cci'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -10936,8 +10936,8 @@ formats:
   chiwriter font:
     egff: []
     extensions:
-    - '*.sft'
     - '*.pft'
+    - '*.sft'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -11340,8 +11340,8 @@ formats:
   clojure:
     egff: []
     extensions:
-    - '*.edn'
     - '*.clj'
+    - '*.edn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -11554,8 +11554,8 @@ formats:
     - cmu
     - CMU Formats File Format Summary
     extensions:
-    - '*.atk'
     - '*.cmu'
+    - '*.atk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -11593,8 +11593,8 @@ formats:
   cmx/bcf:
     egff: []
     extensions:
-    - '*.bcf'
     - '*.cmx'
+    - '*.bcf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -11872,8 +11872,8 @@ formats:
   coffeescript:
     egff: []
     extensions:
-    - '*.coffee'
     - '*.litcoffee'
+    - '*.coffee'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -12037,13 +12037,13 @@ formats:
     - rix
     - RIX File Format Summary
     extensions:
-    - '*.scr'
-    - '*.sc?'
-    - '*.vmg'
     - '*.scf'
+    - '*.vmg'
     - '*.rix'
-    - '*.scx'
+    - '*.sc?'
+    - '*.scr'
     - '*.sci'
+    - '*.scx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12128,8 +12128,8 @@ formats:
   com4mail:
     egff: []
     extensions:
-    - '*.c4m'
     - '*.com'
+    - '*.c4m'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12178,17 +12178,17 @@ formats:
   comic book archive:
     egff: []
     extensions:
-    - '*.cbz'
+    - '*.cb7'
+    - '*.cba'
     - '*.cbt'
     - '*.cbr'
-    - '*.cba'
-    - '*.cb7'
+    - '*.cbz'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/vnd.comicbook+zip
     - application/vnd.comicbook-rar
     - application/x-cbr
+    - application/vnd.comicbook+zip
     name: Comic Book Archive
     pronom: []
     source: Comic_Book_Archive
@@ -12350,8 +12350,8 @@ formats:
   common gateway interface:
     egff: []
     extensions:
-    - '*.cgi'
     - '*.fcgi'
+    - '*.cgi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12377,8 +12377,8 @@ formats:
   common instrument format:
     egff: []
     extensions:
-    - '*.ci1'
     - '*.ci2'
+    - '*.ci1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12404,8 +12404,8 @@ formats:
   common loudspeaker format:
     egff: []
     extensions:
-    - '*.cf2'
     - '*.cf1'
+    - '*.cf2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12420,13 +12420,13 @@ formats:
   commonmark:
     egff: []
     extensions:
-    - '*.md'
     - '*.markdown'
+    - '*.md'
     fdd: []
     hasMagic: false
     mimetypes:
-    - text/markdown
     - text/x-markdown
+    - text/markdown
     name: CommonMark
     pronom: []
     released: '2014'
@@ -12522,8 +12522,8 @@ formats:
   compact pro:
     egff: []
     extensions:
-    - '*.sea'
     - '*.cpt'
+    - '*.sea'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12535,8 +12535,8 @@ formats:
   complete genomics:
     egff: []
     extensions:
-    - '*.tsv'
     - '*.bz2'
+    - '*.tsv'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -12730,9 +12730,9 @@ formats:
   computereyes:
     egff: []
     extensions:
-    - '*.ce3'
-    - '*.ce2'
     - '*.ce1'
+    - '*.ce2'
+    - '*.ce3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13064,8 +13064,8 @@ formats:
   corel calculate:
     egff: []
     extensions:
-    - '*.ast'
     - '*.aws'
+    - '*.ast'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13149,9 +13149,9 @@ formats:
   corel presentations:
     egff: []
     extensions:
-    - '*.mst'
     - '*.shw'
     - '*.prt'
+    - '*.mst'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13257,8 +13257,8 @@ formats:
   corelcad:
     egff: []
     extensions:
-    - '*.cct'
     - '*.ccd'
+    - '*.cct'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13287,12 +13287,12 @@ formats:
   coreldraw:
     egff: []
     extensions:
+    - '*.cdx'
+    - '*.cdt'
     - '*.csl'
     - '*.cpx'
     - '*.cdr'
     - '*.pat'
-    - '*.cdx'
-    - '*.cdt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13336,8 +13336,8 @@ formats:
   corelmosaic library:
     egff: []
     extensions:
-    - '*.clh'
     - '*.clb'
+    - '*.clh'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13350,8 +13350,8 @@ formats:
   corelmove:
     egff: []
     extensions:
-    - '*.mlb'
     - '*.cmv'
+    - '*.mlb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -13376,11 +13376,11 @@ formats:
   cosmi multimedia:
     egff: []
     extensions:
+    - '*.dtp'
     - '*.pub'
+    - '*.bcd'
     - '*.bro'
     - '*.crd'
-    - '*.dtp'
-    - '*.bcd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14002,8 +14002,8 @@ formats:
   crack art:
     egff: []
     extensions:
-    - '*.ca1'
     - '*.ca3'
+    - '*.ca1'
     - '*.ca2'
     fdd: []
     hasMagic: false
@@ -14235,8 +14235,8 @@ formats:
   crush:
     egff: []
     extensions:
-    - '*.cri'
     - '*.cru'
+    - '*.cri'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14339,11 +14339,11 @@ formats:
     - fdd000323
     hasMagic: false
     mimetypes:
-    - application/x-csv
-    - text/csv
     - text/x-csv
     - text/x-comma-separated-values
+    - text/csv
     - application/csv
+    - application/x-csv
     - text/comma-separated-values
     name: CSV
     pronom:
@@ -14379,10 +14379,10 @@ formats:
   cubase:
     egff: []
     extensions:
-    - '*.npr'
-    - '*.arr'
     - '*.cpr'
+    - '*.npr'
     - '*.all'
+    - '*.arr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14394,8 +14394,8 @@ formats:
   cue and bin:
     egff: []
     extensions:
-    - '*.bin'
     - '*.cue'
+    - '*.bin'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -14645,8 +14645,8 @@ formats:
   cyclone 3dr:
     egff: []
     extensions:
-    - '*.3dr'
     - '*.rsh'
+    - '*.3dr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14768,8 +14768,8 @@ formats:
     egff: []
     extensions:
     - '*.d71'
-    - '*.d81'
     - '*.d64'
+    - '*.d81'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14781,9 +14781,9 @@ formats:
   d88:
     egff: []
     extensions:
-    - '*.2dd'
     - '*.1dd'
     - '*.d88'
+    - '*.2dd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14865,12 +14865,12 @@ formats:
   dali:
     egff: []
     extensions:
-    - '*.sd1'
-    - '*.lpk'
-    - '*.sd0'
-    - '*.hpk'
-    - '*.sd2'
     - '*.mpk'
+    - '*.lpk'
+    - '*.sd1'
+    - '*.sd0'
+    - '*.sd2'
+    - '*.hpk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -14882,8 +14882,8 @@ formats:
   dalvik executable:
     egff: []
     extensions:
-    - '*.odex'
     - '*.dex'
+    - '*.odex'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15078,8 +15078,8 @@ formats:
     egff: []
     extensions:
     - '*.vtx'
-    - '*.vsx'
     - '*.vdx'
+    - '*.vsx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15324,12 +15324,12 @@ formats:
   dcs:
     egff: []
     extensions:
-    - '*.m'
-    - '*.dcs'
-    - '*.k'
-    - '*.c'
     - '*.eps'
+    - '*.c'
+    - '*.m'
+    - '*.k'
     - '*.y'
+    - '*.dcs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15342,8 +15342,8 @@ formats:
   dct:
     egff: []
     extensions:
-    - '*.wav'
     - '*.dct'
+    - '*.wav'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15431,8 +15431,8 @@ formats:
   ddp:
     egff: []
     extensions:
-    - '*.bin'
     - '*.dat'
+    - '*.bin'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15445,8 +15445,8 @@ formats:
   dds-cad:
     egff: []
     extensions:
-    - '*.bin'
     - '*.bim'
+    - '*.bin'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15458,8 +15458,8 @@ formats:
   deb:
     egff: []
     extensions:
-    - '*.deb'
     - '*.udeb'
+    - '*.deb'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -15602,12 +15602,12 @@ formats:
     egff: []
     extensions:
     - '*.pc3'
-    - '*.pc1'
     - '*.pi3'
-    - '*.pi2'
-    - '*.suh'
     - '*.pi1'
+    - '*.suh'
+    - '*.pc1'
     - '*.pc2'
+    - '*.pi2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15619,8 +15619,8 @@ formats:
   delmpaint:
     egff: []
     extensions:
-    - '*.del'
     - '*.dph'
+    - '*.del'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -15721,9 +15721,9 @@ formats:
   der encoded certificate:
     egff: []
     extensions:
+    - '*.cer'
     - '*.der'
     - '*.crt'
-    - '*.cer'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -15783,8 +15783,8 @@ formats:
   deskmate draw:
     egff: []
     extensions:
-    - '*.clp'
     - '*.fig'
+    - '*.clp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16013,8 +16013,8 @@ formats:
   diagram designer:
     egff: []
     extensions:
-    - '*.ddt'
     - '*.ddd'
+    - '*.ddt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16050,8 +16050,8 @@ formats:
   diamondware digitized:
     egff: []
     extensions:
-    - '*.dwm'
     - '*.dwd'
+    - '*.dwm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16064,13 +16064,13 @@ formats:
   dicom:
     egff: []
     extensions:
-    - '*.dic'
     - '*.dcm'
+    - '*.dic'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/dicom
     - image/dicom-rle
+    - application/dicom
     name: DICOM
     pronom:
     - fmt/574
@@ -16093,8 +16093,8 @@ formats:
   dictd:
     egff: []
     extensions:
-    - '*.dict'
     - '*.index'
+    - '*.dict'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16157,11 +16157,11 @@ formats:
   diff:
     egff: []
     extensions:
-    - '*.diff'
     - '*.rej'
-    - '*.dif'
     - '*.patch'
     - '*.pch'
+    - '*.diff'
+    - '*.dif'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -16174,13 +16174,13 @@ formats:
   digi paint:
     egff: []
     extensions:
-    - '*.ap3'
-    - '*.dgi'
-    - '*.esc'
-    - '*.pzm'
-    - '*.apv'
     - '*.dgp'
     - '*.ilc'
+    - '*.esc'
+    - '*.apv'
+    - '*.pzm'
+    - '*.dgi'
+    - '*.ap3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16287,9 +16287,9 @@ formats:
   digital evidence bag:
     egff: []
     extensions:
-    - '*.index'
     - '*.tag'
     - '*.bag'
+    - '*.index'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16363,8 +16363,8 @@ formats:
   digital speech standard:
     egff: []
     extensions:
-    - '*.dss'
     - '*.ds2'
+    - '*.dss'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16677,8 +16677,8 @@ formats:
   diskdoubler:
     egff: []
     extensions:
-    - '*.sea'
     - '*.dd'
+    - '*.sea'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16762,10 +16762,10 @@ formats:
   dita:
     egff: []
     extensions:
-    - '*.ditaval'
+    - '*.ditamap'
     - '*.xml'
     - '*.dita'
-    - '*.ditamap'
+    - '*.ditaval'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -16945,8 +16945,8 @@ formats:
   dmk:
     egff: []
     extensions:
-    - '*.dsk'
     - '*.dmk'
+    - '*.dsk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17081,8 +17081,8 @@ formats:
     - fdd000509
     hasMagic: false
     mimetypes:
-    - application/msword
     - application/vnd.ms-word
+    - application/msword
     name: DOC
     pronom:
     - fmt/40
@@ -17105,8 +17105,8 @@ formats:
   docbook:
     egff: []
     extensions:
-    - '*.dbk'
     - '*.xml'
+    - '*.dbk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17284,9 +17284,9 @@ formats:
   domesday duplicator:
     egff: []
     extensions:
-    - '*.raw'
-    - '*.lds'
     - '*.ldf'
+    - '*.lds'
+    - '*.raw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17374,8 +17374,8 @@ formats:
     - dore
     - Dore Raster File Format File Format Summary
     extensions:
-    - '*.dore'
     - '*.img'
+    - '*.dore'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17400,10 +17400,10 @@ formats:
   dos device driver:
     egff: []
     extensions:
-    - '*.dev'
-    - '*.bin'
-    - '*.sys'
     - '*.dos'
+    - '*.bin'
+    - '*.dev'
+    - '*.sys'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17799,10 +17799,10 @@ formats:
   drawplus:
     egff: []
     extensions:
-    - '*.dpx'
     - '*.dpp'
-    - '*.dpa'
     - '*.smf'
+    - '*.dpa'
+    - '*.dpx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17867,8 +17867,8 @@ formats:
   drazpaint:
     egff: []
     extensions:
-    - '*.drp'
     - '*.drz'
+    - '*.drp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -17981,8 +17981,8 @@ formats:
     - fdd000230
     hasMagic: false
     mimetypes:
-    - audio/x-dsf
     - audio/x-dff
+    - audio/x-dsf
     name: DSD
     pronom:
     - fmt/1817
@@ -17994,8 +17994,8 @@ formats:
     egff: []
     extensions:
     - '*.dsflib'
-    - '*.dsf'
     - '*.minidsf'
+    - '*.dsf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18007,10 +18007,10 @@ formats:
   dsk (apple ii):
     egff: []
     extensions:
-    - '*.dsk'
     - '*.do'
     - '*.po'
     - '*.hdv'
+    - '*.dsk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18087,9 +18087,9 @@ formats:
     egff: []
     extensions:
     - '*.dt1'
-    - '*.dt2'
     - '*.dted'
     - '*.dt0'
+    - '*.dt2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18185,8 +18185,8 @@ formats:
   dunegraph:
     egff: []
     extensions:
-    - '*.dc1'
     - '*.dg1'
+    - '*.dc1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18199,9 +18199,9 @@ formats:
   duo:
     egff: []
     extensions:
-    - '*.duo'
     - '*.du1'
     - '*.du2'
+    - '*.duo'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18261,22 +18261,22 @@ formats:
     - dvi
     - Intel DVI File Format Summary
     extensions:
-    - '*.cmy'
-    - '*.imc'
-    - '*.i8'
     - '*.imb'
-    - '*.img'
-    - '*.cmi'
     - '*.cmq'
-    - '*.i16'
-    - '*.imy'
+    - '*.imq'
+    - '*.cmi'
+    - '*.imc'
+    - '*.dvi'
     - '*.ima'
+    - '*.i8'
     - '*.c16'
+    - '*.img'
+    - '*.i16'
+    - '*.imr'
+    - '*.cmy'
+    - '*.imy'
     - '*.imm'
     - '*.imi'
-    - '*.imr'
-    - '*.imq'
-    - '*.dvi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18386,19 +18386,19 @@ formats:
   dwg:
     egff: []
     extensions:
-    - '*.dwg'
     - '*.dwt'
+    - '*.dwg'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/dwg
+    - application/x-acad
+    - application/acad
     - image/vnd.dwg
-    - image/x-dwg
+    - application/dwg
+    - application/x-dwg
     - drawing/dwg
     - application/x-autocad
-    - application/acad
-    - application/x-dwg
-    - application/x-acad
+    - image/x-dwg
     - application/autocad_dwg
     name: DWG
     pronom:
@@ -18506,9 +18506,9 @@ formats:
   dynamic publisher:
     egff: []
     extensions:
+    - '*.fnt'
     - '*.pct'
     - '*.stp'
-    - '*.fnt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18729,10 +18729,10 @@ formats:
   easy cd creator:
     egff: []
     extensions:
-    - '*.cl4'
-    - '*.cl3'
     - '*.cif'
     - '*.cl2'
+    - '*.cl3'
+    - '*.cl4'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18875,8 +18875,8 @@ formats:
   eci graphic editor:
     egff: []
     extensions:
-    - '*.eci'
     - '*.ecp'
+    - '*.eci'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -18940,13 +18940,13 @@ formats:
     egff: []
     extensions:
     - '*.edi'
-    - '*.x12'
     - '*.edifact'
+    - '*.x12'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/edi-x12
     - application/edifact
+    - application/edi-x12
     name: EDI
     pronom: []
     source: EDI
@@ -18956,8 +18956,8 @@ formats:
     egff: []
     extensions:
     - '*.$00'
-    - '*.@00'
     - '*.??_'
+    - '*.@00'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19019,8 +19019,8 @@ formats:
   edlib packed module:
     egff: []
     extensions:
-    - '*.d01'
     - '*.d00'
+    - '*.d01'
     - '*.edl'
     fdd: []
     hasMagic: false
@@ -19033,9 +19033,9 @@ formats:
   edrawing:
     egff: []
     extensions:
-    - '*.easm'
     - '*.edrw'
     - '*.eprt'
+    - '*.easm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19183,8 +19183,8 @@ formats:
   electone:
     egff: []
     extensions:
-    - '*.b00'
     - '*.evt'
+    - '*.b00'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19196,8 +19196,8 @@ formats:
   electronic arts as4 / asf music:
     egff: []
     extensions:
-    - '*.asf'
     - '*.as4'
+    - '*.asf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19366,8 +19366,8 @@ formats:
   elixir:
     egff: []
     extensions:
-    - '*.ex'
     - '*.exs'
+    - '*.ex'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19426,8 +19426,8 @@ formats:
   embedded opentype:
     egff: []
     extensions:
-    - '*.fntdata'
     - '*.eot'
+    - '*.fntdata'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -19543,10 +19543,10 @@ formats:
     - Encapsulated PostScript File Format Summary
     extensions:
     - '*.ept'
-    - '*.epsf'
-    - '*.epsi'
-    - '*.epi'
     - '*.eps'
+    - '*.epsf'
+    - '*.epi'
+    - '*.epsi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19630,8 +19630,8 @@ formats:
   endnote library:
     egff: []
     extensions:
-    - '*.enlx'
     - '*.enl'
+    - '*.enlx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19695,8 +19695,8 @@ formats:
   enhanced metafile:
     egff: []
     extensions:
-    - '*.emz'
     - '*.emf'
+    - '*.emz'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -19896,11 +19896,11 @@ formats:
   epoc/symbian executable:
     egff: []
     extensions:
-    - '*.opx'
-    - '*.opo'
-    - '*.dll'
-    - '*.exe'
     - '*.app'
+    - '*.opx'
+    - '*.exe'
+    - '*.dll'
+    - '*.opo'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -19912,8 +19912,8 @@ formats:
   epsgmod:
     egff: []
     extensions:
-    - '*.psgmod'
     - '*.epsgmod'
+    - '*.psgmod'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -20328,9 +20328,9 @@ formats:
   euphony:
     egff: []
     extensions:
-    - '*.eup'
-    - '*.pmb'
     - '*.fmb'
+    - '*.pmb'
+    - '*.eup'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -20427,8 +20427,8 @@ formats:
     egff: []
     extensions:
     - '*.id'
-    - '*.lst'
     - '*.dat'
+    - '*.lst'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -20500,9 +20500,9 @@ formats:
   executable and linkable format:
     egff: []
     extensions:
+    - '*.elf'
     - '*.o'
     - '*.so'
-    - '*.elf'
     - '*.mod'
     fdd: []
     hasMagic: false
@@ -20764,12 +20764,12 @@ formats:
   extended degas image:
     egff: []
     extensions:
-    - '*.pi5'
     - '*.pi6'
-    - '*.pi9'
-    - '*.pi4'
-    - '*.pi8'
     - '*.pi7'
+    - '*.pi8'
+    - '*.pi5'
+    - '*.pi4'
+    - '*.pi9'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -20845,9 +20845,9 @@ formats:
   extensible storage engine:
     egff: []
     extensions:
+    - '*.sdb'
     - '*.edb'
     - '*.stm'
-    - '*.sdb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -20932,9 +20932,9 @@ formats:
   f sharp:
     egff: []
     extensions:
-    - '*.fsi'
-    - '*.fs'
     - '*.fsx'
+    - '*.fs'
+    - '*.fsi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21133,12 +21133,12 @@ formats:
   family tree maker:
     egff: []
     extensions:
-    - '*.ftw'
     - '*.ftmb'
     - '*.ftm'
-    - '*.fbk'
+    - '*.ftw'
     - '*.ftmm'
     - '*.ftmd'
+    - '*.fbk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21227,8 +21227,8 @@ formats:
   farandole composer sample:
     egff: []
     extensions:
-    - '*.fsm'
     - '*.usm'
+    - '*.fsm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21266,9 +21266,9 @@ formats:
   faro:
     egff: []
     extensions:
+    - '*.lsproj'
     - '*.fls'
     - '*.fws'
-    - '*.lsproj'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21294,17 +21294,17 @@ formats:
   fasta and fastq:
     egff: []
     extensions:
-    - '*.fas'
-    - '*.faa'
-    - '*.seq'
-    - '*.fa'
     - '*.ffn'
-    - '*.fasta'
-    - '*.fna'
-    - '*.fastq'
+    - '*.fa'
     - '*.fsa'
+    - '*.fas'
+    - '*.fastq'
+    - '*.seq'
+    - '*.faa'
     - '*.frn'
     - '*.mpfa'
+    - '*.fna'
+    - '*.fasta'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21340,9 +21340,9 @@ formats:
   fastgraph pixel run format:
     egff: []
     extensions:
-    - '*.spr'
     - '*.ppr'
     - '*.prf'
+    - '*.spr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21495,10 +21495,10 @@ formats:
     - fax
     - FAX Formats File Format Summary
     extensions:
-    - '*.001'
-    - '*.002'
     - '*.1'
+    - '*.001'
     - '*.fax'
+    - '*.002'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -21951,11 +21951,11 @@ formats:
   filemaker pro:
     egff: []
     extensions:
+    - '*.fp7'
+    - '*.fm'
+    - '*.fp3'
     - '*.fp5'
     - '*.fmp12'
-    - '*.fp3'
-    - '*.fm'
-    - '*.fp7'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22068,8 +22068,8 @@ formats:
   final draft:
     egff: []
     extensions:
-    - '*.fdr'
     - '*.fdx'
+    - '*.fdr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22161,8 +22161,8 @@ formats:
     egff: []
     extensions:
     - '*.json'
-    - '*.sqlite'
     - '*.sqlite-wal'
+    - '*.sqlite'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22335,8 +22335,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/x-flac
     - audio/flac
+    - audio/x-flac
     name: FLAC
     pronom:
     - fmt/279
@@ -22434,9 +22434,9 @@ formats:
     - fits
     - FITS File Format Summary
     extensions:
-    - '*.fts'
     - '*.fits'
     - '*.fit'
+    - '*.fts'
     fdd:
     - fdd000317
     hasMagic: false
@@ -22494,12 +22494,12 @@ formats:
     - fli
     - FLI File Format Summary
     extensions:
-    - '*.fli'
-    - '*.cel'
-    - '*.flt'
     - '*.flh'
-    - '*.flc'
+    - '*.fli'
+    - '*.flt'
     - '*.flx'
+    - '*.flc'
+    - '*.cel'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22617,12 +22617,12 @@ formats:
   flow charting:
     egff: []
     extensions:
-    - '*.fcd'
-    - '*.fcx'
     - '*.fc5'
+    - '*.pdq'
     - '*.cht'
     - '*.gfc'
-    - '*.pdq'
+    - '*.fcx'
+    - '*.fcd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22779,8 +22779,8 @@ formats:
   fmz:
     egff: []
     extensions:
-    - '*.fmz'
     - '*.fml'
+    - '*.fmz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22832,10 +22832,10 @@ formats:
   folio infobase:
     egff: []
     extensions:
-    - '*.fff'
-    - '*.nfo'
     - '*.sdw'
     - '*.def'
+    - '*.fff'
+    - '*.nfo'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22893,8 +22893,8 @@ formats:
     egff: []
     extensions:
     - '*.fyi'
-    - '*.fy'
     - '*.fyb'
+    - '*.fy'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22908,9 +22908,9 @@ formats:
     egff: []
     extensions:
     - '*.pic'
-    - '*.pv'
-    - '*.blk'
     - '*.tem'
+    - '*.blk'
+    - '*.pv'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -22934,10 +22934,10 @@ formats:
   fontlab:
     egff: []
     extensions:
-    - '*.vfj'
     - '*.vfb'
-    - '*.vfc'
     - '*.vfa'
+    - '*.vfc'
+    - '*.vfj'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23032,9 +23032,9 @@ formats:
   fortran:
     egff: []
     extensions:
-    - '*.for'
-    - '*.f'
     - '*.f90'
+    - '*.f'
+    - '*.for'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23071,8 +23071,8 @@ formats:
   fossil configuration database:
     egff: []
     extensions:
-    - '*.fossil'
     - '*.db'
+    - '*.fossil'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -23101,9 +23101,9 @@ formats:
   foto-mosaic-edda database:
     egff: []
     extensions:
-    - '*.idx'
-    - '*.fmedb'
     - '*.dat'
+    - '*.fmedb'
+    - '*.idx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23227,11 +23227,11 @@ formats:
   framemaker:
     egff: []
     extensions:
-    - '*.book'
-    - '*.bk'
-    - '*.toc'
     - '*.fm'
     - '*.doc'
+    - '*.bk'
+    - '*.toc'
+    - '*.book'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -23383,12 +23383,12 @@ formats:
     egff: []
     extensions:
     - '*.fh10'
-    - '*.fh11'
     - '*.fh3'
-    - '*.fh7'
-    - '*.fh4'
     - '*.fh5'
     - '*.fh8'
+    - '*.fh4'
+    - '*.fh7'
+    - '*.fh11'
     - '*.fh9'
     fdd: []
     hasMagic: false
@@ -23464,8 +23464,8 @@ formats:
   freeze/melt:
     egff: []
     extensions:
-    - '*.lzc'
     - '*.F'
+    - '*.lzc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23599,8 +23599,8 @@ formats:
     egff: []
     extensions:
     - '*.fuchs'
-    - '*.ft'
     - '*.fchs'
+    - '*.ft'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23688,8 +23688,8 @@ formats:
   funcom iss:
     egff: []
     extensions:
-    - '*.xarc'
     - '*.iss'
+    - '*.xarc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23761,8 +23761,8 @@ formats:
   fusion (programming language):
     egff: []
     extensions:
-    - '*.fu'
     - '*.ci'
+    - '*.fu'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23774,8 +23774,8 @@ formats:
   fusion 360:
     egff: []
     extensions:
-    - '*.f3d'
     - '*.f3z'
+    - '*.f3d'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23803,8 +23803,8 @@ formats:
     - '*.fc13'
     - '*.fc14'
     - '*.fc'
-    - '*.smod'
     - '*.smc'
+    - '*.smod'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -23841,8 +23841,8 @@ formats:
   fwkcs:
     egff: []
     extensions:
-    - '*.ndx'
     - '*.srt'
+    - '*.ndx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -24006,15 +24006,15 @@ formats:
   gamescape:
     egff: []
     extensions:
-    - '*.adv'
-    - '*.gs6'
     - '*.gs2'
-    - '*.in2'
-    - '*.gs5'
-    - '*.in3'
-    - '*.gs1'
+    - '*.gs6'
     - '*.in1'
+    - '*.in3'
     - '*.gs4'
+    - '*.gs1'
+    - '*.in2'
+    - '*.adv'
+    - '*.gs5'
     - '*.gs3'
     fdd: []
     hasMagic: false
@@ -24028,14 +24028,14 @@ formats:
   gams:
     egff: []
     extensions:
-    - '*.gms'
     - '*.opt*'
-    - '*.inc'
     - '*.lst'
-    - '*.lxi'
-    - '*.ref'
     - '*.efi'
+    - '*.gms'
+    - '*.inc'
     - '*.gdx'
+    - '*.ref'
+    - '*.lxi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -24060,8 +24060,8 @@ formats:
   garageband project:
     egff: []
     extensions:
-    - '*.band'
     - '*.gbproj'
+    - '*.band'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -24299,8 +24299,8 @@ formats:
   gedcom:
     egff: []
     extensions:
-    - '*.gdz'
     - '*.ged'
+    - '*.gdz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -24314,8 +24314,8 @@ formats:
   gem bitmap font:
     egff: []
     extensions:
-    - '*.gft'
     - '*.fnt'
+    - '*.gft'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -24452,15 +24452,15 @@ formats:
   genecyst save state:
     egff: []
     extensions:
-    - '*.gs6'
     - '*.gs2'
-    - '*.gs9'
-    - '*.gs7'
-    - '*.gs8'
-    - '*.gs5'
-    - '*.gs1'
+    - '*.gs6'
     - '*.gs0'
+    - '*.gs8'
+    - '*.gs7'
+    - '*.gs9'
     - '*.gs4'
+    - '*.gs1'
+    - '*.gs5'
     - '*.gs3'
     fdd: []
     hasMagic: false
@@ -24774,8 +24774,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/vnd.geogebra.file
     - application-x/geogebra-file
+    - application/vnd.geogebra.file
     name: Ggb
     pronom:
     - fmt/619
@@ -24816,8 +24816,8 @@ formats:
   ghost image:
     egff: []
     extensions:
-    - '*.gho'
     - '*.ghs'
+    - '*.gho'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25112,11 +25112,11 @@ formats:
   glulx:
     egff: []
     extensions:
-    - '*.ulx'
-    - '*.blb'
     - '*.gblorb'
-    - '*.blorb'
+    - '*.blb'
+    - '*.ulx'
     - '*.glb'
+    - '*.blorb'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -25441,14 +25441,14 @@ formats:
   gr*:
     egff: []
     extensions:
-    - '*.g11'
+    - '*.gr9'
     - '*.gr9p'
+    - '*.g9s'
+    - '*.g11'
+    - '*.gr8'
     - '*.gr7'
     - '*.sfd'
-    - '*.gr8'
-    - '*.g9s'
     - '*.g10'
-    - '*.gr9'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25460,8 +25460,8 @@ formats:
   grabber:
     egff: []
     extensions:
-    - '*.exe'
     - '*.com'
+    - '*.exe'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25522,10 +25522,10 @@ formats:
   graph saurus:
     egff: []
     extensions:
-    - '*.sr8'
-    - '*.sr5'
     - '*.sr7'
     - '*.srs'
+    - '*.sr8'
+    - '*.sr5'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25537,8 +25537,8 @@ formats:
   graph2font:
     egff: []
     extensions:
-    - '*.mch'
     - '*.g2f'
+    - '*.mch'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25588,9 +25588,9 @@ formats:
   graphics processor:
     egff: []
     extensions:
-    - '*.pg1'
     - '*.pg3'
     - '*.pg2'
+    - '*.pg1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25627,8 +25627,8 @@ formats:
     - grasp
     - GRASP File Format Summary
     extensions:
-    - '*.set'
     - '*.fnt'
+    - '*.set'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25812,8 +25812,8 @@ formats:
   grob:
     egff: []
     extensions:
-    - '*.gro'
     - '*.grb'
+    - '*.gro'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -25873,9 +25873,9 @@ formats:
   gsf:
     egff: []
     extensions:
-    - '*.minigsf'
     - '*.gsf'
     - '*.gsflib'
+    - '*.minigsf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -26145,9 +26145,9 @@ formats:
   h&r block:
     egff: []
     extensions:
+    - '*.t12'
     - '*.t10'
     - '*.t11'
-    - '*.t12'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -26560,12 +26560,12 @@ formats:
     - Harvard Graphics File Format Summary
     extensions:
     - '*.sh3'
-    - '*.sym'
+    - '*.ch3'
     - '*.sy3'
+    - '*.shw'
     - '*.pr4'
     - '*.cht'
-    - '*.ch3'
-    - '*.shw'
+    - '*.sym'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -26670,8 +26670,8 @@ formats:
   hci:
     egff: []
     extensions:
-    - '*.hr2'
     - '*.hci'
+    - '*.hr2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -26797,8 +26797,8 @@ formats:
   heif:
     egff: []
     extensions:
-    - '*.heic'
     - '*.heif'
+    - '*.heic'
     fdd:
     - fdd000525
     - fdd000526
@@ -26946,8 +26946,8 @@ formats:
   hfs:
     egff: []
     extensions:
-    - '*.hfs'
     - '*.img'
+    - '*.hfs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27149,9 +27149,9 @@ formats:
   high level shading language:
     egff: []
     extensions:
-    - '*.hlsl'
-    - '*.h'
     - '*.cso'
+    - '*.h'
+    - '*.hlsl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27213,8 +27213,8 @@ formats:
   hippel:
     egff: []
     extensions:
-    - '*.hp'
     - '*.hip'
+    - '*.hp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27298,11 +27298,11 @@ formats:
   hires-bitmap:
     egff: []
     extensions:
-    - '*.fgs'
     - '*.hbm'
+    - '*.fgs'
+    - '*.hpi'
     - '*.gih'
     - '*.hir'
-    - '*.hpi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27523,8 +27523,8 @@ formats:
   homestead sitebuilder:
     egff: []
     extensions:
-    - '*.hc'
     - '*.xpf'
+    - '*.hc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27687,9 +27687,9 @@ formats:
   hp-gl:
     egff: []
     extensions:
-    - '*.plt'
     - '*.hgl'
     - '*.hpg'
+    - '*.plt'
     - '*.hpgl'
     fdd: []
     hasMagic: false
@@ -27813,8 +27813,8 @@ formats:
   hsi jpeg:
     egff: []
     extensions:
-    - '*.jpg'
     - '*.hsi'
+    - '*.jpg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27827,8 +27827,8 @@ formats:
   hsi raw:
     egff: []
     extensions:
-    - '*.raw'
     - '*.hst'
+    - '*.raw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27854,8 +27854,8 @@ formats:
   htc splashscreen:
     egff: []
     extensions:
-    - '*.img'
     - '*.nb'
+    - '*.img'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -27880,15 +27880,15 @@ formats:
   html:
     egff: []
     extensions:
-    - '*.xht'
-    - '*.xhtml'
-    - '*.htm'
     - '*.html'
+    - '*.xht'
+    - '*.htm'
+    - '*.xhtml'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/xhtml+xml
     - text/html
+    - application/xhtml+xml
     name: HTML
     pronom:
     - fmt/96
@@ -28234,9 +28234,9 @@ formats:
   ibm audio visual connection (avc) still video image:
     egff: []
     extensions:
-    - '*._im'
     - '*.!im'
     - '*.id'
+    - '*._im'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28283,9 +28283,9 @@ formats:
   ibm kips bitmap:
     egff: []
     extensions:
+    - '*.kps'
     - '*.kpl'
     - '*.pal'
-    - '*.kps'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28382,8 +28382,8 @@ formats:
     egff: []
     extensions:
     - '*.ics'
-    - '*.icalendar'
     - '*.ifb'
+    - '*.icalendar'
     - '*.ical'
     fdd: []
     hasMagic: false
@@ -28423,8 +28423,8 @@ formats:
   icdraw icon:
     egff: []
     extensions:
-    - '*.ib3'
     - '*.ibi'
+    - '*.ib3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28437,10 +28437,10 @@ formats:
   ice (atari):
     egff: []
     extensions:
-    - '*.ipc'
+    - '*.imn'
     - '*.icn'
     - '*.ip2'
-    - '*.imn'
+    - '*.ipc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28655,10 +28655,10 @@ formats:
   iconpackager:
     egff: []
     extensions:
+    - '*.iptheme'
+    - '*.iconpackage'
     - '*.ip'
     - '*.zip'
-    - '*.iconpackage'
-    - '*.iptheme'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28738,9 +28738,9 @@ formats:
   idml:
     egff: []
     extensions:
+    - '*.idml'
     - '*.idms'
     - '*.icma'
-    - '*.idml'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -28845,10 +28845,10 @@ formats:
     egff: []
     extensions:
     - '*.flr'
-    - '*.stx'
-    - '*.spf'
     - '*.wll'
     - '*.iff'
+    - '*.stx'
+    - '*.spf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28873,8 +28873,8 @@ formats:
   iff-maud:
     egff: []
     extensions:
-    - '*.maud'
     - '*.iff'
+    - '*.maud'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28886,8 +28886,8 @@ formats:
   iff-ssa:
     egff: []
     extensions:
-    - '*.anim'
     - '*.ssa'
+    - '*.anim'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28918,8 +28918,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - model/iges
     - application/iges
+    - model/iges
     name: IGES
     pronom:
     - x-fmt/158
@@ -28930,8 +28930,8 @@ formats:
   igs:
     egff: []
     extensions:
-    - '*.igs'
     - '*.ig'
+    - '*.igs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -28995,11 +28995,11 @@ formats:
     - iff
     - IFF File Format Summary
     extensions:
-    - '*.ilbm'
-    - '*.lbm'
     - '*.pic'
+    - '*.ilbm'
     - '*.bbm'
     - '*.iff'
+    - '*.lbm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29265,8 +29265,8 @@ formats:
     egff: []
     extensions:
     - '*.ic2'
-    - '*.ic3'
     - '*.ic1'
+    - '*.ic3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29350,9 +29350,9 @@ formats:
   img scan:
     egff: []
     extensions:
+    - '*.rwl'
     - '*.rwh'
     - '*.raw'
-    - '*.rwl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29364,10 +29364,10 @@ formats:
   img software set:
     egff: []
     extensions:
-    - '*.p'
-    - '*.r'
     - '*.g'
     - '*.a'
+    - '*.p'
+    - '*.r'
     - '*.b'
     fdd: []
     hasMagic: false
@@ -29408,8 +29408,8 @@ formats:
   imovie:
     egff: []
     extensions:
-    - '*.iMovieProj'
     - '*.rcproject'
+    - '*.iMovieProj'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29471,11 +29471,11 @@ formats:
   impulse tracker module:
     egff: []
     extensions:
-    - '*.itgz'
-    - '*.it'
-    - '*.itbz'
     - '*.itr'
+    - '*.it'
     - '*.itz'
+    - '*.itgz'
+    - '*.itbz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29538,10 +29538,10 @@ formats:
   incopy:
     egff: []
     extensions:
-    - '*.icml'
+    - '*.incd'
     - '*.incx'
     - '*.icmt'
-    - '*.incd'
+    - '*.icml'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29590,9 +29590,9 @@ formats:
   indesign indd:
     egff: []
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29708,8 +29708,8 @@ formats:
   infini-d:
     egff: []
     extensions:
-    - '*.ids'
     - '*.id'
+    - '*.ids'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29734,10 +29734,10 @@ formats:
   inform:
     egff: []
     extensions:
-    - '*.i6'
     - '*.txt'
-    - '*.inf'
+    - '*.i6'
     - '*.i7'
+    - '*.inf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -29903,8 +29903,8 @@ formats:
     egff: []
     extensions:
     - '*.imt'
-    - '*.iit'
     - '*.iip'
+    - '*.iit'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30018,8 +30018,8 @@ formats:
   instant 3d:
     egff: []
     extensions:
-    - '*.e3d'
     - '*.i3d'
+    - '*.e3d'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30090,8 +30090,8 @@ formats:
   intellifont:
     egff: []
     extensions:
-    - '*.type'
     - '*.lib'
+    - '*.type'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30162,10 +30162,10 @@ formats:
   intergraph raster:
     egff: []
     extensions:
-    - '*.cit'
-    - '*.cot'
-    - '*.rle'
     - '*.rgb'
+    - '*.cot'
+    - '*.cit'
+    - '*.rle'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30179,8 +30179,8 @@ formats:
   intergraph standard file formats:
     egff: []
     extensions:
-    - '*.dgn'
     - '*.cel'
+    - '*.dgn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30243,8 +30243,8 @@ formats:
   interleaf image:
     egff: []
     extensions:
-    - '*.iimg'
     - '*.img'
+    - '*.iimg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30268,10 +30268,10 @@ formats:
   intermediate data format:
     egff: []
     extensions:
-    - '*.emp'
+    - '*.lib'
     - '*.brd'
     - '*.emn'
-    - '*.lib'
+    - '*.emp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30374,11 +30374,11 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - wwwserver/redirection
     - text/url
     - application/x-url
-    - application/internet-shortcut
     - text/x-url
+    - application/internet-shortcut
+    - wwwserver/redirection
     name: Internet Shortcut
     pronom:
     - x-fmt/454
@@ -30401,8 +30401,8 @@ formats:
   interpainter:
     egff: []
     extensions:
-    - '*.ins'
     - '*.inp'
+    - '*.ins'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -30449,8 +30449,8 @@ formats:
   invisible secrets:
     egff: []
     extensions:
-    - '*.exe'
     - '*.locked'
+    - '*.exe'
     - '*.isc'
     fdd: []
     hasMagic: false
@@ -30718,8 +30718,8 @@ formats:
   irix software distribution format:
     egff: []
     extensions:
-    - '*.man'
     - '*.sw'
+    - '*.man'
     - '*.idb'
     fdd: []
     hasMagic: false
@@ -31641,8 +31641,8 @@ formats:
   itunes music library:
     egff: []
     extensions:
-    - '*.xml'
     - '*.itl'
+    - '*.xml'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -31679,12 +31679,12 @@ formats:
   iwork:
     egff: []
     extensions:
+    - '*.numbers.zip'
+    - '*.key.zip'
     - '*.key'
     - '*.numbers'
-    - '*.key.zip'
-    - '*.pages'
     - '*.pages.zip'
-    - '*.numbers.zip'
+    - '*.pages'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -31984,8 +31984,8 @@ formats:
   java:
     egff: []
     extensions:
-    - '*.java'
     - '*.class'
+    - '*.java'
     - '*.jar'
     fdd: []
     hasMagic: false
@@ -32062,9 +32062,9 @@ formats:
   javahelp:
     egff: []
     extensions:
+    - '*.jhm'
     - '*.xml'
     - '*.hs'
-    - '*.jhm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -32146,8 +32146,8 @@ formats:
   jedmics c4:
     egff: []
     extensions:
-    - '*.ct4'
     - '*.c4'
+    - '*.ct4'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -32235,8 +32235,8 @@ formats:
   jeskola buzz song:
     egff: []
     extensions:
-    - '*.bmw'
     - '*.bmx'
+    - '*.bmw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -32286,10 +32286,10 @@ formats:
     - jpeg
     - JPEG File Interchange Format File Format Summary
     extensions:
-    - '*.jpeg'
-    - '*.jpg'
     - '*.jfi'
     - '*.jfif'
+    - '*.jpeg'
+    - '*.jpg'
     fdd:
     - fdd000018
     hasMagic: false
@@ -32345,8 +32345,8 @@ formats:
   jigsaw (walter a. kuhn):
     egff: []
     extensions:
-    - '*.jig'
     - '*.sav'
+    - '*.jig'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -32570,10 +32570,10 @@ formats:
   jpeg:
     egff: []
     extensions:
+    - '*.jpe'
     - '*.jif'
     - '*.jpeg'
     - '*.jpg'
-    - '*.jpe'
     fdd:
     - fdd000017
     - fdd000149
@@ -32605,18 +32605,18 @@ formats:
   jpeg 2000:
     egff: []
     extensions:
-    - '*.jp2'
-    - '*.jpf'
     - '*.jpm'
     - '*.mj2'
     - '*.jpx'
+    - '*.jpf'
+    - '*.jp2'
     fdd: []
     hasMagic: false
     mimetypes:
-    - image/jpm
-    - image/jp2
     - video/mj2
+    - image/jpm
     - image/jpx
+    - image/jp2
     name: JPEG 2000
     pronom: []
     source: JPEG_2000
@@ -32687,9 +32687,9 @@ formats:
   jpeg xr:
     egff: []
     extensions:
-    - '*.wdp'
     - '*.hdp'
     - '*.jxr'
+    - '*.wdp'
     fdd:
     - fdd000243
     hasMagic: false
@@ -33134,14 +33134,14 @@ formats:
   kai's power tools:
     egff: []
     extensions:
-    - '*.obp'
-    - '*.brc'
-    - '*.br5'
-    - '*.br3'
     - '*.sfp'
-    - '*.shp'
-    - '*.goo'
+    - '*.brc'
     - '*.br4'
+    - '*.br3'
+    - '*.br5'
+    - '*.goo'
+    - '*.obp'
+    - '*.shp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33166,8 +33166,8 @@ formats:
   kaleidagraph:
     egff: []
     extensions:
-    - '*.qda'
     - '*.qdc'
+    - '*.qda'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33360,8 +33360,8 @@ formats:
   keycad:
     egff: []
     extensions:
-    - '*.key'
     - '*.sym'
+    - '*.key'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33385,8 +33385,8 @@ formats:
   keynote:
     egff: []
     extensions:
-    - '*.key'
     - '*.key.zip'
+    - '*.key'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33474,11 +33474,11 @@ formats:
   kicad:
     egff: []
     extensions:
-    - '*.kicad_wks'
     - '*.kicad_sch'
-    - '*.kicad_mod'
+    - '*.kicad_wks'
     - '*.kicad_pcb'
     - '*.kicad_sym'
+    - '*.kicad_mod'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33528,9 +33528,9 @@ formats:
   kirikiri adventure game system:
     egff: []
     extensions:
+    - '*.tjs'
     - '*.xp3'
     - '*.tlg'
-    - '*.tjs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33542,8 +33542,8 @@ formats:
   kiss cel:
     egff: []
     extensions:
-    - '*.kcf'
     - '*.cel'
+    - '*.kcf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -33651,14 +33651,14 @@ formats:
   kml:
     egff: []
     extensions:
-    - '*.kmz'
     - '*.kml'
+    - '*.kmz'
     fdd:
     - fdd000340
     hasMagic: false
     mimetypes:
-    - application/vnd.google-earth.kmz
     - application/vnd.google-earth.kml+xml
+    - application/vnd.google-earth.kmz
     name: KML
     pronom:
     - fmt/244
@@ -33683,9 +33683,9 @@ formats:
   koalapainter:
     egff: []
     extensions:
+    - '*.gig'
     - '*.koa'
     - '*.kla'
-    - '*.gig'
     - '*.gg'
     fdd: []
     hasMagic: false
@@ -33711,10 +33711,10 @@ formats:
   kodak:
     egff: []
     extensions:
-    - '*.kdc'
-    - '*.dcr'
-    - '*.tif'
     - '*.k25'
+    - '*.dcr'
+    - '*.kdc'
+    - '*.tif'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -34299,9 +34299,9 @@ formats:
     egff: []
     extensions:
     - '*.lbr'
-    - '*.lyr'
     - '*.lzr'
     - '*.lqr'
+    - '*.lyr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -34636,8 +34636,8 @@ formats:
   lha:
     egff: []
     extensions:
-    - '*.lzh'
     - '*.lha'
+    - '*.lzh'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -34876,8 +34876,8 @@ formats:
   lilypond:
     egff: []
     extensions:
-    - '*.ly'
     - '*.ily'
+    - '*.ly'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -34902,10 +34902,10 @@ formats:
   linear executable:
     egff: []
     extensions:
-    - '*.386'
-    - '*.dll'
-    - '*.exe'
     - '*.vxd'
+    - '*.386'
+    - '*.exe'
+    - '*.dll'
     - '*.sys'
     fdd: []
     hasMagic: false
@@ -34955,9 +34955,9 @@ formats:
   lingoes:
     egff: []
     extensions:
+    - '*.ldx'
     - '*.ld2'
     - '*.lds'
-    - '*.ldx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35088,8 +35088,8 @@ formats:
   livecode:
     egff: []
     extensions:
-    - '*.livecode'
     - '*.rev'
+    - '*.livecode'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35132,8 +35132,8 @@ formats:
   lmms:
     egff: []
     extensions:
-    - '*.mmpz'
     - '*.mmp'
+    - '*.mmpz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35145,9 +35145,9 @@ formats:
   loaddskf/savedskf:
     egff: []
     extensions:
+    - '*.2dk'
     - '*.dsk'
     - '*.1dk'
-    - '*.2dk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35183,8 +35183,8 @@ formats:
   lock file:
     egff: []
     extensions:
-    - '*.lock'
     - '*.lck'
+    - '*.lock'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35241,8 +35241,8 @@ formats:
   logic pro project file:
     egff: []
     extensions:
-    - '*.logic'
     - '*.logicx'
+    - '*.logic'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35382,12 +35382,12 @@ formats:
   lotus 1-2-3:
     egff: []
     extensions:
-    - '*.wk4'
-    - '*.123'
     - '*.wk2'
-    - '*.wk3'
+    - '*.wk4'
     - '*.wk1'
+    - '*.123'
     - '*.wks'
+    - '*.wk3'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -35421,8 +35421,8 @@ formats:
   lotus manuscript graphics:
     egff: []
     extensions:
-    - '*.rle'
     - '*.bit'
+    - '*.rle'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35499,8 +35499,8 @@ formats:
   lrf:
     egff: []
     extensions:
-    - '*.lrx'
     - '*.lrs'
+    - '*.lrx'
     - '*.lrf'
     fdd: []
     hasMagic: false
@@ -35550,8 +35550,8 @@ formats:
   lss16:
     egff: []
     extensions:
-    - '*.lss'
     - '*.16'
+    - '*.lss'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -35612,8 +35612,8 @@ formats:
   luks:
     egff: []
     extensions:
-    - '*.luks'
     - '*.luksVolumeHeaderBackUp'
+    - '*.luks'
     - '*.img'
     fdd: []
     hasMagic: false
@@ -35642,8 +35642,8 @@ formats:
     - lumena
     - Lumena Paint
     extensions:
-    - '*.bpx'
     - '*.pix'
+    - '*.bpx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -36037,8 +36037,8 @@ formats:
   lzwpak:
     egff: []
     extensions:
-    - '*.pak'
     - '*.lzw'
+    - '*.pak'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -36272,8 +36272,8 @@ formats:
     egff: []
     extensions:
     - '*.o'
-    - '*.dylib'
     - '*.bundle'
+    - '*.dylib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -36332,8 +36332,8 @@ formats:
   macintosh resource file:
     egff: []
     extensions:
-    - '*.dfont'
     - '*.rsrc'
+    - '*.dfont'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -36479,12 +36479,12 @@ formats:
   mad studio:
     egff: []
     extensions:
-    - '*.gr2'
-    - '*.gr3'
-    - '*.msl'
-    - '*.mpl'
     - '*.gr1'
+    - '*.msl'
     - '*.gr0'
+    - '*.gr3'
+    - '*.gr2'
+    - '*.mpl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -36544,8 +36544,8 @@ formats:
   mag (gif archiver):
     egff: []
     extensions:
-    - '*.mag'
     - '*.gif'
+    - '*.mag'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -36860,8 +36860,8 @@ formats:
   makichan graphics:
     egff: []
     extensions:
-    - '*.mag'
     - '*.mki'
+    - '*.mag'
     - '*.max'
     fdd: []
     hasMagic: false
@@ -36910,13 +36910,13 @@ formats:
   man page:
     egff: []
     extensions:
-    - '*.7'
-    - '*.1'
-    - '*.3'
-    - '*.2'
-    - '*.5'
     - '*.8'
     - '*.man'
+    - '*.2'
+    - '*.5'
+    - '*.1'
+    - '*.3'
+    - '*.7'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37176,15 +37176,15 @@ formats:
   markdown:
     egff: []
     extensions:
-    - '*.md'
     - '*.mdown'
-    - '*.markdn'
     - '*.markdown'
+    - '*.md'
+    - '*.markdn'
     fdd: []
     hasMagic: false
     mimetypes:
-    - text/markdown
     - text/x-markdown
+    - text/markdown
     name: Markdown
     pronom:
     - fmt/1149
@@ -37205,8 +37205,8 @@ formats:
   mash:
     egff: []
     extensions:
-    - '*.mas'
     - '*.msh'
+    - '*.mas'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37355,10 +37355,10 @@ formats:
   matroska:
     egff: []
     extensions:
-    - '*.mks'
-    - '*.mka'
-    - '*.mk3d'
     - '*.mkv'
+    - '*.mk3d'
+    - '*.mka'
+    - '*.mks'
     fdd:
     - fdd000342
     hasMagic: false
@@ -37412,8 +37412,8 @@ formats:
   max:
     egff: []
     extensions:
-    - '*.max'
     - '*.maxpat'
+    - '*.max'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37464,8 +37464,8 @@ formats:
   maya iff:
     egff: []
     extensions:
-    - '*.tdi'
     - '*.iff'
+    - '*.tdi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37576,8 +37576,8 @@ formats:
   mcd:
     egff: []
     extensions:
-    - '*.mcd'
     - '*.fnt'
+    - '*.mcd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37749,8 +37749,8 @@ formats:
   mdcd:
     egff: []
     extensions:
-    - '*.md'
     - '*.cd'
+    - '*.md'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37763,8 +37763,8 @@ formats:
   mdf and mds:
     egff: []
     extensions:
-    - '*.mdf'
     - '*.mds'
+    - '*.mdf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -37914,8 +37914,8 @@ formats:
   media pro:
     egff: []
     extensions:
-    - '*.ivc'
     - '*.mpcatalog'
+    - '*.ivc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38143,8 +38143,8 @@ formats:
   meshlab:
     egff: []
     extensions:
-    - '*.mlb'
     - '*.mlp'
+    - '*.mlb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38207,10 +38207,10 @@ formats:
   meta raster format:
     egff: []
     extensions:
-    - '*.idx'
-    - '*.mrf'
-    - '*.ppg'
     - '*.pjg'
+    - '*.ppg'
+    - '*.mrf'
+    - '*.idx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38344,8 +38344,8 @@ formats:
   mhtml:
     egff: []
     extensions:
-    - '*.mht'
     - '*.mhtml'
+    - '*.mht'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38429,9 +38429,9 @@ formats:
   micrografx draw:
     egff: []
     extensions:
+    - '*.drw'
     - '*.ds4'
     - '*.drt'
-    - '*.drw'
     - '*.dsf'
     fdd: []
     hasMagic: false
@@ -38462,8 +38462,8 @@ formats:
   micronas sc4:
     egff: []
     extensions:
-    - '*.pcm'
     - '*.wav'
+    - '*.pcm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38498,9 +38498,9 @@ formats:
   microsoft agent character:
     egff: []
     extensions:
-    - '*.aca'
-    - '*.acs'
     - '*.acf'
+    - '*.acs'
+    - '*.aca'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38513,8 +38513,8 @@ formats:
   microsoft comic chat:
     egff: []
     extensions:
-    - '*.avb'
     - '*.bgb'
+    - '*.avb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38567,13 +38567,13 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
+    - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
     - application/vnd.ms-excel.addin.macroEnabled.12
-    - application/vnd.ms-excel.sheet.binary.macroEnabled.12
+    - application/vnd.ms-excel.sheet.macroEnabled.12
     - application/vnd.openxmlformats-officedocument.spreadsheetml.template
     - application/vnd.ms-excel.template.macroEnabled.12
-    - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-    - application/vnd.ms-excel.sheet.macroEnabled.12
     - application/vnd.ms-excel
+    - application/vnd.ms-excel.sheet.binary.macroEnabled.12
     name: Microsoft Excel
     pronom:
     - fmt/55
@@ -38613,13 +38613,13 @@ formats:
   microsoft help 2:
     egff: []
     extensions:
-    - '*.HxT'
     - '*.HxS'
-    - '*.HxK'
-    - '*.HxV'
-    - '*.HxC'
     - '*.HxA'
+    - '*.HxT'
+    - '*.HxK'
     - '*.HxE'
+    - '*.HxC'
+    - '*.HxV'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38632,9 +38632,9 @@ formats:
   microsoft help viewer:
     egff: []
     extensions:
+    - '*.mshi'
     - '*.mshc'
     - '*.msha'
-    - '*.mshi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38647,9 +38647,9 @@ formats:
   microsoft home publishing:
     egff: []
     extensions:
-    - '*.gwp'
     - '*.php'
     - '*.mhp'
+    - '*.gwp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38673,8 +38673,8 @@ formats:
   microsoft kwaj installation compression:
     egff: []
     extensions:
-    - '*.??$'
     - '*.??_'
+    - '*.??$'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38747,11 +38747,11 @@ formats:
   microsoft outlook:
     egff: []
     extensions:
-    - '*.oft'
     - '*.pab'
     - '*.olk'
-    - '*.pst'
     - '*.msg'
+    - '*.oft'
+    - '*.pst'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38785,15 +38785,15 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
+    - application/vnd.ms-powerpoint.presentation.macroEnabled.12
     - application/vnd.openxmlformats-officedocument.presentationml.presentation
-    - application/vnd.ms-powerpoint
-    - application/vnd.ms-powerpoint.template.macroEnabled.12
-    - application/vnd.openxmlformats-officedocument.presentationml.slideshow
     - application/vnd.ms-powerpoint.addin.macroEnabled.12
+    - application/vnd.openxmlformats-officedocument.presentationml.slideshow
+    - application/vnd.openxmlformats-officedocument.presentationml.template
+    - application/vnd.ms-powerpoint
     - application/vnd.ms-powerpoint.slideshow.macroEnabled.12
     - application/vnd.ms-powerpoint.slide.macroEnabled.12
-    - application/vnd.openxmlformats-officedocument.presentationml.template
-    - application/vnd.ms-powerpoint.presentation.macroEnabled.12
+    - application/vnd.ms-powerpoint.template.macroEnabled.12
     name: Microsoft PowerPoint
     pronom:
     - fmt/1747
@@ -38825,8 +38825,8 @@ formats:
     egff: []
     extensions:
     - '*.mpx'
-    - '*.mpt'
     - '*.mpp'
+    - '*.mpt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -38903,20 +38903,20 @@ formats:
   microsoft word:
     egff: []
     extensions:
-    - '*.dotm'
-    - '*.dot'
-    - '*.dotx'
     - '*.docx'
-    - '*.doc'
     - '*.docm'
+    - '*.dotm'
+    - '*.dotx'
+    - '*.doc'
+    - '*.dot'
     fdd: []
     hasMagic: false
     mimetypes:
     - application/vnd.ms-word.template.macroEnabled.12
-    - application/vnd.openxmlformats-officedocument.wordprocessingml.template
     - application/vnd.ms-word.document.macroEnabled.12
-    - application/msword
     - application/vnd.openxmlformats-officedocument.wordprocessingml.document
+    - application/vnd.openxmlformats-officedocument.wordprocessingml.template
+    - application/msword
     name: Microsoft Word
     pronom:
     - x-fmt/273
@@ -39020,9 +39020,9 @@ formats:
   microsoft works spreadsheet:
     egff: []
     extensions:
+    - '*.xlr'
     - '*.bks'
     - '*.wks'
-    - '*.xlr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -39038,9 +39038,9 @@ formats:
   microsoft works word processor:
     egff: []
     extensions:
-    - '*.bps'
     - '*.wpt'
     - '*.wps'
+    - '*.bps'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -39086,18 +39086,18 @@ formats:
   midi:
     egff: []
     extensions:
-    - '*.midi'
     - '*.mid'
+    - '*.midi'
     fdd:
     - fdd000102
     - fdd000119
     hasMagic: false
     mimetypes:
-    - audio/m
-    - audio/x-midi
-    - audio/midi
     - application/x-midi
+    - audio/x-midi
     - audio/mid
+    - audio/midi
+    - audio/m
     name: MIDI
     pronom:
     - x-fmt/230
@@ -39329,9 +39329,9 @@ formats:
   minecraft chunk format:
     egff: []
     extensions:
-    - '*.mcr'
-    - '*.mca'
     - '*.dat'
+    - '*.mca'
+    - '*.mcr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -39589,10 +39589,10 @@ formats:
   minitab:
     egff: []
     extensions:
-    - '*.mtp'
     - '*.mtw'
     - '*.mgf'
     - '*.mpj'
+    - '*.mtp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -39662,8 +39662,8 @@ formats:
   mirage microdrive snapshot:
     egff: []
     extensions:
-    - '*.snx'
     - '*.snapshot'
+    - '*.snx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -39675,8 +39675,8 @@ formats:
   mirc scripting language:
     egff: []
     extensions:
-    - '*.mrc'
     - '*.ini'
+    - '*.mrc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -39763,8 +39763,8 @@ formats:
   mj2:
     egff: []
     extensions:
-    - '*.mjp2'
     - '*.mj2'
+    - '*.mjp2'
     fdd:
     - fdd000127
     hasMagic: false
@@ -39863,8 +39863,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/freemind
     - application/x-freemind
+    - application/freemind
     name: Mm
     pronom: []
     source: Mm
@@ -40104,8 +40104,8 @@ formats:
   monotone:
     egff: []
     extensions:
-    - '*.frq'
     - '*.pit'
+    - '*.frq'
     - '*.mon'
     fdd: []
     hasMagic: false
@@ -40166,9 +40166,9 @@ formats:
   mork:
     egff: []
     extensions:
-    - '*.msf'
-    - '*.dat'
     - '*.mab'
+    - '*.dat'
+    - '*.msf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -40426,19 +40426,19 @@ formats:
   mp4:
     egff: []
     extensions:
-    - '*.m4a'
-    - '*.m4v'
-    - '*.m4p'
     - '*.m4b'
+    - '*.m4v'
     - '*.mp4'
+    - '*.m4p'
+    - '*.m4a'
     - '*.m4r'
     fdd:
     - fdd000037
     - fdd000155
     hasMagic: false
     mimetypes:
-    - audio/mp4
     - video/mp4
+    - audio/mp4
     name: MP4
     pronom:
     - fmt/199
@@ -40476,8 +40476,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/mpeg
     - audio/MPA
+    - audio/mpeg
     name: MPEG Audio Layer I
     pronom:
     - fmt/347
@@ -40488,14 +40488,14 @@ formats:
   mpeg audio layer ii:
     egff: []
     extensions:
-    - '*.mpa'
     - '*.mp2'
+    - '*.mpa'
     fdd:
     - fdd000338
     hasMagic: false
     mimetypes:
-    - audio/mpeg
     - audio/MPA
+    - audio/mpeg
     name: MPEG Audio Layer II
     pronom:
     - fmt/198
@@ -40506,11 +40506,11 @@ formats:
   mpeg elementary stream:
     egff: []
     extensions:
-    - '*.m2v'
     - '*.mpeg'
-    - '*.mp3'
-    - '*.m1v'
     - '*.mpg'
+    - '*.m1v'
+    - '*.m2v'
+    - '*.mp3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -40527,9 +40527,9 @@ formats:
   mpeg program stream:
     egff: []
     extensions:
+    - '*.mpeg'
     - '*.mod'
     - '*.mpg'
-    - '*.mpeg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -40558,23 +40558,23 @@ formats:
   mpeg-1:
     egff: []
     extensions:
+    - '*.m1a'
+    - '*.mpv'
     - '*.mpeg'
-    - '*.mp3'
+    - '*.mpg'
+    - '*.m1v'
+    - '*.mp2'
     - '*.mpa'
     - '*.m2a'
-    - '*.mpv'
-    - '*.m1v'
     - '*.mp1'
-    - '*.m1a'
-    - '*.mpg'
-    - '*.mp2'
+    - '*.mp3'
     fdd:
     - fdd000035
     - fdd000012
     hasMagic: false
     mimetypes:
-    - audio/mpeg
     - video/mpeg
+    - audio/mpeg
     name: MPEG-1
     pronom:
     - x-fmt/385
@@ -40613,11 +40613,11 @@ formats:
   mpeg-4:
     egff: []
     extensions:
+    - '*.m4b'
+    - '*.mp4'
+    - '*.m4p'
     - '*.aac'
     - '*.m4a'
-    - '*.m4b'
-    - '*.m4p'
-    - '*.mp4'
     - '*.m4r'
     fdd: []
     hasMagic: false
@@ -40686,8 +40686,8 @@ formats:
   mplayer bitmap font:
     egff: []
     extensions:
-    - '*.raw'
     - '*.desc'
+    - '*.raw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -40828,8 +40828,8 @@ formats:
   ms-dos installation compression:
     egff: []
     extensions:
-    - '*.??$'
     - '*.??_'
+    - '*.??$'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -40930,13 +40930,13 @@ formats:
   msx basic graphics:
     egff: []
     extensions:
-    - '*.scc'
-    - '*.sc8'
-    - '*.sc6'
     - '*.sc5'
-    - '*.sc7'
-    - '*.sc2'
     - '*.grp'
+    - '*.scc'
+    - '*.sc6'
+    - '*.sc8'
+    - '*.sc2'
+    - '*.sc7'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41113,10 +41113,10 @@ formats:
   multiartist:
     egff: []
     extensions:
-    - '*.mg8'
-    - '*.mg4'
     - '*.mg1'
+    - '*.mg4'
     - '*.mg2'
+    - '*.mg8'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41151,8 +41151,8 @@ formats:
     egff: []
     extensions:
     - '*.mlt'
-    - '*.mc'
     - '*.ifl'
+    - '*.mc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41371,10 +41371,10 @@ formats:
   muvee:
     egff: []
     extensions:
+    - '*.mve'
     - '*.mvex'
     - '*.mvn'
     - '*.rvl'
-    - '*.mve'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41456,10 +41456,10 @@ formats:
   mydraw:
     egff: []
     extensions:
-    - '*.nlx'
-    - '*.ndx'
-    - '*.nlb'
     - '*.ndtx'
+    - '*.ndx'
+    - '*.nlx'
+    - '*.nlb'
     - '*.ndb'
     fdd: []
     hasMagic: false
@@ -41472,11 +41472,11 @@ formats:
   myheritage family tree builder:
     egff: []
     extensions:
-    - '*.uzed'
-    - '*.ftb'
     - '*.ftb-shm'
-    - '*.zed'
+    - '*.ftb'
     - '*.ftb-wal'
+    - '*.zed'
+    - '*.uzed'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41500,10 +41500,10 @@ formats:
   mysql:
     egff: []
     extensions:
-    - '*.myi'
-    - '*.ibd'
-    - '*.frm'
     - '*.myd'
+    - '*.frm'
+    - '*.ibd'
+    - '*.myi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41705,9 +41705,9 @@ formats:
   navisworks:
     egff: []
     extensions:
-    - '*.nwc'
-    - '*.nwf'
     - '*.nwd'
+    - '*.nwf'
+    - '*.nwc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41723,15 +41723,15 @@ formats:
   "na\xEFve image formats":
     egff: []
     extensions:
+    - '*.nia'
     - '*.nii'
     - '*.nie'
-    - '*.nia'
     fdd: []
     hasMagic: false
     mimetypes:
+    - image/nie
     - image/nia
     - image/nii
-    - image/nie
     name: "Na\xEFve Image Formats"
     pronom: []
     released: 2018 (draft)
@@ -41766,8 +41766,8 @@ formats:
     egff: []
     extensions:
     - '*.nrx'
-    - '*.nrt'
     - '*.nrf'
+    - '*.nrt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -41818,8 +41818,8 @@ formats:
   neochrome master:
     egff: []
     extensions:
-    - '*.rst'
     - '*.neo'
+    - '*.rst'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -42022,16 +42022,16 @@ formats:
     - PBM, PGM, PNM, and PPM File Format Summary
     extensions:
     - '*.ppm'
-    - '*.pbm'
     - '*.pnm'
+    - '*.pbm'
     - '*.pgm'
     fdd: []
     hasMagic: false
     mimetypes:
-    - image/x-portable-graymap
-    - image/x-portable-bitmap
     - image/x-portable-anymap
+    - image/x-portable-bitmap
     - image/x-portable-pixmap
+    - image/x-portable-graymap
     name: Netpbm formats
     pronom:
     - fmt/408
@@ -42166,11 +42166,11 @@ formats:
   new executable:
     egff: []
     extensions:
-    - '*.scr'
     - '*.cpl'
-    - '*.dll'
     - '*.exe'
+    - '*.dll'
     - '*.drv'
+    - '*.scr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -42393,8 +42393,8 @@ formats:
   niff (navy image file format):
     egff: []
     extensions:
-    - '*.ct3'
     - '*.nif'
+    - '*.ct3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -42434,8 +42434,8 @@ formats:
     egff: []
     extensions:
     - '*.ndr'
-    - '*.nrw'
     - '*.ndf'
+    - '*.nrw'
     - '*.nef'
     fdd: []
     hasMagic: false
@@ -42546,8 +42546,8 @@ formats:
   nisus writer:
     egff: []
     extensions:
-    - '*.rtf'
     - '*.zrtf'
+    - '*.rtf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -42892,8 +42892,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/x-lotus-notes
     - application/vnd.lotus-notes
+    - application/x-lotus-notes
     name: Notes Storage Facility
     pronom:
     - x-fmt/336
@@ -43038,8 +43038,8 @@ formats:
   npy and npz (numpy):
     egff: []
     extensions:
-    - '*.npz'
     - '*.npy'
+    - '*.npz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -43251,9 +43251,9 @@ formats:
   nufx:
     egff: []
     extensions:
-    - '*.bxy'
     - '*.sdk'
     - '*.shk'
+    - '*.bxy'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -43413,8 +43413,8 @@ formats:
     egff: []
     extensions:
     - '*.mm'
-    - '*.m'
     - '*.h'
+    - '*.m'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -43428,9 +43428,9 @@ formats:
   obml (opera binary markup language):
     egff: []
     extensions:
+    - '*.obml'
     - '*.obml15'
     - '*.obml16'
-    - '*.obml'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -43582,9 +43582,9 @@ formats:
   office open xml:
     egff: []
     extensions:
+    - '*.xlsx'
     - '*.pptx'
     - '*.docx'
-    - '*.xlsx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -43645,20 +43645,20 @@ formats:
   ogg:
     egff: []
     extensions:
-    - '*.spx'
-    - '*.opus'
-    - '*.ogx'
     - '*.ogv'
-    - '*.ogm'
+    - '*.spx'
     - '*.ogg'
+    - '*.ogm'
+    - '*.opus'
     - '*.oga'
+    - '*.ogx'
     fdd:
     - fdd000026
     hasMagic: false
     mimetypes:
-    - audio/ogg
     - video/ogg
     - application/ogg
+    - audio/ogg
     name: Ogg
     pronom:
     - fmt/944
@@ -43669,14 +43669,14 @@ formats:
   ogg skeleton:
     egff: []
     extensions:
-    - '*.ogg'
     - '*.ogx'
+    - '*.ogg'
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/ogg
     - video/ogg
     - application/ogg
+    - audio/ogg
     name: Ogg Skeleton
     pronom: []
     source: Ogg_Skeleton
@@ -43734,8 +43734,8 @@ formats:
   oktalyzer module:
     egff: []
     extensions:
-    - '*.okta'
     - '*.okt'
+    - '*.okta'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -43970,10 +43970,10 @@ formats:
   onenote:
     egff: []
     extensions:
-    - '*.onetoc2'
-    - '*.onetoc'
-    - '*.onepkg'
     - '*.one'
+    - '*.onetoc'
+    - '*.onetoc2'
+    - '*.onepkg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44048,8 +44048,8 @@ formats:
   opaque:
     egff: []
     extensions:
-    - '*.paq'
     - '*.pak'
+    - '*.paq'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44062,9 +44062,9 @@ formats:
   open font format:
     egff: []
     extensions:
-    - '*.ttf'
-    - '*.otf'
     - '*.ttc'
+    - '*.otf'
+    - '*.ttf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44140,8 +44140,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/opencomic+json
     - application/json
+    - application/opencomic+json
     name: Opencomic
     pronom: []
     source: Opencomic
@@ -44162,27 +44162,27 @@ formats:
   opendocument:
     egff: []
     extensions:
-    - '*.odc'
-    - '*.fodp'
-    - '*.ots'
-    - '*.ott'
-    - '*.odp'
-    - '*.odt'
-    - '*.odm'
-    - '*.oti'
-    - '*.otg'
-    - '*.fodg'
-    - '*.odg'
-    - '*.odb'
     - '*.oth'
-    - '*.fodt'
-    - '*.odf'
-    - '*.ods'
-    - '*.odi'
-    - '*.otc'
-    - '*.fods'
+    - '*.odt'
+    - '*.fodp'
+    - '*.odm'
     - '*.otf'
     - '*.otp'
+    - '*.otc'
+    - '*.odi'
+    - '*.odc'
+    - '*.ott'
+    - '*.fods'
+    - '*.odp'
+    - '*.odb'
+    - '*.fodt'
+    - '*.odg'
+    - '*.ots'
+    - '*.fodg'
+    - '*.otg'
+    - '*.ods'
+    - '*.odf'
+    - '*.oti'
     fdd:
     - fdd000247
     - fdd000424
@@ -44197,24 +44197,24 @@ formats:
     - fdd000441
     hasMagic: false
     mimetypes:
-    - application/vnd.oasis.opendocument.chart-template
-    - application/vnd.oasis.opendocument.chart
     - application/vnd.oasis.opendocument.presentation
-    - application/vnd.oasis.opendocument.text-master
-    - application/vnd.oasis.opendocument.text
-    - application/vnd.oasis.opendocument.spreadsheet
-    - application/vnd.oasis.opendocument.text-template
+    - application/vnd.oasis.opendocument.chart-template
     - application/vnd.oasis.opendocument.spreadsheet-template
+    - application/vnd.oasis.opendocument.spreadsheet
+    - application/vnd.oasis.opendocument.chart
     - application/vnd.oasis.opendocument.image-template
-    - application/vnd.oasis.opendocument.formula
-    - application/vnd.oasis.opendocument.graphics-template
-    - application/vnd.oasis.opendocument.formula-template
-    - application/vnd.oasis.opendocument.presentation-template
-    - application/vnd.oasis.opendocument.database
-    - application/vnd.oasis.opendocument.graphics
-    - application/vnd.oasis.opendocument.base
-    - application/vnd.oasis.opendocument.image
     - application/vnd.oasis.opendocument.text-web
+    - application/vnd.oasis.opendocument.text-master
+    - application/vnd.oasis.opendocument.text-template
+    - application/vnd.oasis.opendocument.graphics
+    - application/vnd.oasis.opendocument.formula
+    - application/vnd.oasis.opendocument.presentation-template
+    - application/vnd.oasis.opendocument.formula-template
+    - application/vnd.oasis.opendocument.base
+    - application/vnd.oasis.opendocument.graphics-template
+    - application/vnd.oasis.opendocument.database
+    - application/vnd.oasis.opendocument.image
+    - application/vnd.oasis.opendocument.text
     name: OpenDocument
     pronom:
     - fmt/135
@@ -44240,9 +44240,9 @@ formats:
   opendocument drawing:
     egff: []
     extensions:
-    - '*.odg'
-    - '*.otg'
     - '*.fodg'
+    - '*.otg'
+    - '*.odg'
     fdd:
     - fdd000436
     hasMagic: false
@@ -44261,14 +44261,14 @@ formats:
     egff: []
     extensions:
     - '*.odp'
-    - '*.otp'
     - '*.fodp'
+    - '*.otp'
     fdd:
     - fdd000435
     hasMagic: false
     mimetypes:
-    - application/vnd.oasis.opendocument.presentation-template
     - application/vnd.oasis.opendocument.presentation
+    - application/vnd.oasis.opendocument.presentation-template
     name: OpenDocument Presentation
     pronom:
     - fmt/138
@@ -44282,9 +44282,9 @@ formats:
   opendocument spreadsheet:
     egff: []
     extensions:
-    - '*.ots'
     - '*.fods'
     - '*.ods'
+    - '*.ots'
     fdd:
     - fdd000438
     - fdd000439
@@ -44304,16 +44304,16 @@ formats:
   opendocument text:
     egff: []
     extensions:
-    - '*.ott'
-    - '*.odt'
     - '*.fodt'
+    - '*.odt'
+    - '*.ott'
     fdd:
     - fdd000427
     - fdd000428
     hasMagic: false
     mimetypes:
-    - application/vnd.oasis.opendocument.text
     - application/vnd.oasis.opendocument.text-template
+    - application/vnd.oasis.opendocument.text
     name: OpenDocument Text
     pronom:
     - fmt/136
@@ -44351,29 +44351,29 @@ formats:
   openoffice.org xml:
     egff: []
     extensions:
-    - '*.std'
-    - '*.sxw'
-    - '*.sxd'
-    - '*.stw'
-    - '*.sti'
-    - '*.sxm'
     - '*.sxc'
-    - '*.sxg'
+    - '*.std'
+    - '*.sxm'
+    - '*.stw'
     - '*.sxi'
+    - '*.sti'
+    - '*.sxg'
+    - '*.sxd'
     - '*.stc'
+    - '*.sxw'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/vnd.sun.xml.impress
-    - application/vnd.sun.xml.writer.template
-    - application/vnd.sun.xml.draw.template
-    - application/vnd.sun.xml.writer
-    - application/vnd.sun.xml.calc
     - application/vnd.sun.xml.math
-    - application/vnd.sun.xml.calc.template
+    - application/vnd.sun.xml.draw.template
     - application/vnd.sun.xml.writer.global
-    - application/vnd.sun.xml.impress.template
+    - application/vnd.sun.xml.writer
     - application/vnd.sun.xml.draw
+    - application/vnd.sun.xml.impress
+    - application/vnd.sun.xml.impress.template
+    - application/vnd.sun.xml.calc
+    - application/vnd.sun.xml.calc.template
+    - application/vnd.sun.xml.writer.template
     name: OpenOffice.org XML
     pronom:
     - fmt/128
@@ -44424,10 +44424,10 @@ formats:
   openscenegraph:
     egff: []
     extensions:
-    - '*.osgb'
-    - '*.ive'
     - '*.osgt'
+    - '*.osgb'
     - '*.osg'
+    - '*.ive'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44497,8 +44497,8 @@ formats:
   opentype:
     egff: []
     extensions:
-    - '*.ttf'
     - '*.otf'
+    - '*.ttf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44516,8 +44516,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/oxps
     - application/vnd.ms-xpsdocument
+    - application/oxps
     name: OpenXPS
     pronom:
     - fmt/657
@@ -44613,8 +44613,8 @@ formats:
   opus embedded commands:
     egff: []
     extensions:
-    - '*.bbs'
     - '*.gbs'
+    - '*.bbs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44627,17 +44627,17 @@ formats:
   opus-cbcs:
     egff: []
     extensions:
-    - '*.bbs'
-    - '*.gbs'
-    - '*.drt'
-    - '*.out'
-    - '*.hrt'
     - '*.msg'
-    - '*.dut'
-    - '*.ort'
-    - '*.crt'
-    - '*.hut'
     - '*.cut'
+    - '*.out'
+    - '*.dut'
+    - '*.hut'
+    - '*.gbs'
+    - '*.hrt'
+    - '*.bbs'
+    - '*.crt'
+    - '*.ort'
+    - '*.drt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44830,11 +44830,11 @@ formats:
   oracle help:
     egff: []
     extensions:
-    - '*.xml'
-    - '*.hs'
     - '*.tok'
     - '*.idx'
     - '*.toc'
+    - '*.xml'
+    - '*.hs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44847,11 +44847,11 @@ formats:
   orcad:
     egff: []
     extensions:
-    - '*.dsn'
     - '*.dra'
-    - '*.brd'
-    - '*.mdd'
     - '*.opj'
+    - '*.mdd'
+    - '*.brd'
+    - '*.dsn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44901,8 +44901,8 @@ formats:
   oric hires screen:
     egff: []
     extensions:
-    - '*.tap'
     - '*.hir'
+    - '*.tap'
     - '*.hrs'
     fdd: []
     hasMagic: false
@@ -44938,9 +44938,9 @@ formats:
   os/2 bitmap array:
     egff: []
     extensions:
+    - '*.bmp'
     - '*.ico'
     - '*.bga'
-    - '*.bmp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -44993,8 +44993,8 @@ formats:
   os/2 pack archive:
     egff: []
     extensions:
-    - '*.??@'
     - '*.??_'
+    - '*.??@'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45006,8 +45006,8 @@ formats:
   os/2 pack2 archive:
     egff: []
     extensions:
-    - '*.??@'
     - '*.??_'
+    - '*.??@'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45140,8 +45140,8 @@ formats:
   outlook item file:
     egff: []
     extensions:
-    - '*.oft'
     - '*.msg'
+    - '*.oft'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45527,8 +45527,8 @@ formats:
   paf (personal ancestral file):
     egff: []
     extensions:
-    - '*.paf'
     - '*.dat'
+    - '*.paf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45568,13 +45568,13 @@ formats:
   pagemaker:
     egff: []
     extensions:
+    - '*.pmt'
+    - '*.pm3'
     - '*.pm4'
-    - '*.p65'
+    - '*.pm6'
     - '*.pm5'
     - '*.pmd'
-    - '*.pm3'
-    - '*.pm6'
-    - '*.pmt'
+    - '*.p65'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45596,8 +45596,8 @@ formats:
   pages:
     egff: []
     extensions:
-    - '*.pages'
     - '*.pages.zip'
+    - '*.pages'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45663,8 +45663,8 @@ formats:
   painter's apprentice:
     egff: []
     extensions:
-    - '*.scr'
     - '*.ipa'
+    - '*.scr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45719,11 +45719,11 @@ formats:
     extensions:
     - '*.jsl'
     - '*.pspbrush'
-    - '*.jbr'
+    - '*.pspimage'
+    - '*.tub'
     - '*.psp'
     - '*.pfr'
-    - '*.tub'
-    - '*.pspimage'
+    - '*.jbr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45772,15 +45772,15 @@ formats:
   paintworks:
     egff: []
     extensions:
-    - '*.pg1'
-    - '*.sc0'
-    - '*.sc1'
-    - '*.cl0'
     - '*.pg2'
-    - '*.cl2'
-    - '*.cl1'
     - '*.pg0'
+    - '*.sc1'
+    - '*.cl1'
+    - '*.cl0'
+    - '*.sc0'
     - '*.sc2'
+    - '*.pg1'
+    - '*.cl2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45949,8 +45949,8 @@ formats:
   palmdoc:
     egff: []
     extensions:
-    - '*.pdb'
     - '*.prc'
+    - '*.pdb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -45974,9 +45974,9 @@ formats:
   panasonic raw/rw2:
     egff: []
     extensions:
+    - '*.rwl'
     - '*.rw2'
     - '*.raw'
-    - '*.rwl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -46086,8 +46086,8 @@ formats:
     egff: []
     extensions:
     - '*.pa8'
-    - '*.pa7'
     - '*.paq8p'
+    - '*.pa7'
     - '*.pa6'
     fdd: []
     hasMagic: false
@@ -46126,8 +46126,8 @@ formats:
   paradox (database):
     egff: []
     extensions:
-    - '*.mb'
     - '*.db'
+    - '*.mb'
     - '*.px'
     fdd: []
     hasMagic: false
@@ -46182,10 +46182,10 @@ formats:
   parity volume set:
     egff: []
     extensions:
-    - '*.pa3'
-    - '*.pxx'
-    - '*.par2'
     - '*.par'
+    - '*.pa3'
+    - '*.par2'
+    - '*.pxx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -46209,8 +46209,8 @@ formats:
     egff: []
     extensions:
     - '*.pp'
-    - '*.p'
     - '*.pas'
+    - '*.p'
     - '*.inc'
     fdd: []
     hasMagic: false
@@ -46399,9 +46399,9 @@ formats:
   pc-file:
     egff: []
     extensions:
-    - '*.dbf'
     - '*.dta'
     - '*.hdr'
+    - '*.dbf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -46605,8 +46605,8 @@ formats:
   pcraster map:
     egff: []
     extensions:
-    - '*.map'
     - '*.csf'
+    - '*.map'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -46620,13 +46620,13 @@ formats:
     - pcx
     - PCX File Format Summary
     extensions:
-    - '*.pcc'
     - '*.pcx'
+    - '*.pcc'
     fdd: []
     hasMagic: false
     mimetypes:
-    - image/vnd.zbrush.pcx
     - image/x-pcx
+    - image/vnd.zbrush.pcx
     name: PCX
     pronom:
     - fmt/86
@@ -46844,8 +46844,8 @@ formats:
     - PDS File Format Summary
     extensions:
     - '*.lbl'
-    - '*.pds'
     - '*.img'
+    - '*.pds'
     - '*.imq'
     fdd: []
     hasMagic: false
@@ -46917,22 +46917,22 @@ formats:
   pegasus mail:
     egff: []
     extensions:
-    - '*.pnd'
-    - '*.pm$'
-    - '*.pmx'
-    - '*.pmq'
-    - '*.pnc'
-    - '*.pnl'
     - '*.pm'
-    - '*.pmd'
-    - '*.pmr'
-    - '*.top'
-    - '*.pmc'
-    - '*.pmm'
     - '*.pmi'
-    - '*.pms'
-    - '*.pmn'
     - '*.pm!'
+    - '*.top'
+    - '*.pm$'
+    - '*.pmn'
+    - '*.pmr'
+    - '*.pmm'
+    - '*.pnd'
+    - '*.pmc'
+    - '*.pmd'
+    - '*.pms'
+    - '*.pmx'
+    - '*.pnl'
+    - '*.pnc'
+    - '*.pmq'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -46972,8 +46972,8 @@ formats:
     egff: []
     extensions:
     - '*.cer'
-    - '*.crt'
     - '*.pem'
+    - '*.crt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -46985,8 +46985,8 @@ formats:
   pem encoded rsa private key:
     egff: []
     extensions:
-    - '*.key'
     - '*.pem'
+    - '*.key'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47100,11 +47100,11 @@ formats:
   perl:
     egff: []
     extensions:
+    - '*.pm'
+    - '*.fcgi'
     - '*.cgi'
     - '*.pl'
-    - '*.pm'
     - '*.ph'
-    - '*.fcgi'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47140,9 +47140,9 @@ formats:
   personal folder file:
     egff: []
     extensions:
-    - '*.pst'
-    - '*.ost'
     - '*.pab'
+    - '*.ost'
+    - '*.pst'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -47158,9 +47158,9 @@ formats:
   persuasion:
     egff: []
     extensions:
-    - '*.pr2'
     - '*.pr3'
     - '*.pn4'
+    - '*.pr2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47282,10 +47282,10 @@ formats:
   pfs:first choice:
     egff: []
     extensions:
-    - '*.fol'
-    - '*.doc'
-    - '*.ss'
     - '*.gra'
+    - '*.fol'
+    - '*.ss'
+    - '*.doc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47461,9 +47461,9 @@ formats:
   phantom cine:
     egff: []
     extensions:
+    - '*.cin'
     - '*.cine'
     - '*.cci'
-    - '*.cin'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47649,10 +47649,10 @@ formats:
   photoshop:
     egff: []
     extensions:
-    - '*.aco'
-    - '*.pat'
     - '*.csh'
+    - '*.aco'
     - '*.grd'
+    - '*.pat'
     - '*.asl'
     fdd: []
     hasMagic: false
@@ -47690,8 +47690,8 @@ formats:
   photoshop curve:
     egff: []
     extensions:
-    - '*.crv'
     - '*.acv'
+    - '*.crv'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47727,10 +47727,10 @@ formats:
   photoshop thumbnail cache:
     egff: []
     extensions:
-    - '*.tb0'
     - '*.bct'
     - '*.md0'
     - '*.bc'
+    - '*.tb0'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47922,8 +47922,8 @@ formats:
     - Macintosh PICT File Format Summary
     extensions:
     - '*.pic'
-    - '*.pct'
     - '*.pict'
+    - '*.pct'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -47941,9 +47941,9 @@ formats:
     egff: []
     extensions:
     - '*.pp2'
+    - '*.pp1'
     - '*.pp3'
     - '*.pac'
-    - '*.pp1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -47957,8 +47957,8 @@ formats:
     egff: []
     extensions:
     - '*.pp5'
-    - '*.ppf'
     - '*.pp4'
+    - '*.ppf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -48190,9 +48190,9 @@ formats:
   pixar picture:
     egff: []
     extensions:
+    - '*.pic'
     - '*.pixar'
     - '*.picio'
-    - '*.pic'
     - '*.pxr'
     fdd: []
     hasMagic: false
@@ -48296,8 +48296,8 @@ formats:
   pixilang:
     egff: []
     extensions:
-    - '*.pixicode'
     - '*.txt'
+    - '*.pixicode'
     - '*.pixi'
     fdd: []
     hasMagic: false
@@ -48360,9 +48360,9 @@ formats:
   pkcs10:
     egff: []
     extensions:
+    - '*.pem'
     - '*.p10'
     - '*.csr'
-    - '*.pem'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -48413,10 +48413,10 @@ formats:
   pkcs7 certificate:
     egff: []
     extensions:
-    - '*.p7c'
     - '*.p7b'
-    - '*.spc'
     - '*.pem'
+    - '*.p7c'
+    - '*.spc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -48585,9 +48585,9 @@ formats:
   plain text:
     egff: []
     extensions:
+    - '*.txt'
     - '*.asc'
     - '*.text'
-    - '*.txt'
     - '*.doc'
     fdd: []
     hasMagic: false
@@ -48661,8 +48661,8 @@ formats:
   plasma:
     egff: []
     extensions:
-    - '*.pla'
     - '*.plh'
+    - '*.pla'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49108,14 +49108,14 @@ formats:
   portable executable:
     egff: []
     extensions:
+    - '*.cpl'
+    - '*.efi'
+    - '*.exe'
+    - '*.dll'
     - '*.scr'
     - '*.ocx'
-    - '*.cpl'
-    - '*.dll'
-    - '*.exe'
-    - '*.lib'
-    - '*.efi'
     - '*.sys'
+    - '*.lib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49130,8 +49130,8 @@ formats:
   portable sound format:
     egff: []
     extensions:
-    - '*.psf'
     - '*.minipsf'
+    - '*.psf'
     - '*.psflib'
     fdd: []
     hasMagic: false
@@ -49320,8 +49320,8 @@ formats:
   powerbi:
     egff: []
     extensions:
-    - '*.pbit'
     - '*.pbix'
+    - '*.pbit'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49683,10 +49683,10 @@ formats:
   printfox bitmap:
     egff: []
     extensions:
-    - '*.pg'
-    - '*.bin'
     - '*.bs'
+    - '*.bin'
     - '*.gb'
+    - '*.pg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49699,11 +49699,11 @@ formats:
   printmaster:
     egff: []
     extensions:
-    - '*.sdr'
-    - '*.shp'
     - '*.sig'
     - '*.sdx'
+    - '*.sdr'
     - '*.pmx'
+    - '*.shp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49731,8 +49731,8 @@ formats:
   prism paint:
     egff: []
     extensions:
-    - '*.pnt'
     - '*.tpi'
+    - '*.pnt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49771,10 +49771,10 @@ formats:
   pro tools (mac):
     egff: []
     extensions:
-    - '*.p24'
     - '*.pt5'
-    - '*.pt3'
     - '*.pt4'
+    - '*.p24'
+    - '*.pt3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49848,8 +49848,8 @@ formats:
   procite:
     egff: []
     extensions:
-    - '*.pdx'
     - '*.pdt'
+    - '*.pdx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -49898,8 +49898,8 @@ formats:
   professional music driver pmd:
     egff: []
     extensions:
-    - '*.m'
     - '*.m2'
+    - '*.m'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50019,8 +50019,8 @@ formats:
     egff: []
     extensions:
     - '*.P'
-    - '*.pro'
     - '*.pl'
+    - '*.pro'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50057,18 +50057,18 @@ formats:
     egff: []
     extensions:
     - '*.reltdemo'
-    - '*.rei'
-    - '*.rsndemo'
-    - '*.ree'
-    - '*.rns'
-    - '*.reason'
-    - '*.rsn'
     - '*.rltd'
-    - '*.relt'
+    - '*.reason'
     - '*.reedemo'
+    - '*.relt'
+    - '*.rsndemo'
     - '*.rsb'
-    - '*.reidemo'
+    - '*.rns'
     - '*.rps'
+    - '*.ree'
+    - '*.rsn'
+    - '*.rei'
+    - '*.reidemo'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50093,8 +50093,8 @@ formats:
     egff: []
     extensions:
     - '*.rcy'
-    - '*.rex'
     - '*.rx2'
+    - '*.rex'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50157,8 +50157,8 @@ formats:
   prorunner:
     egff: []
     extensions:
-    - '*.prun1'
     - '*.prun2'
+    - '*.prun1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50207,9 +50207,9 @@ formats:
   protein data bank:
     egff: []
     extensions:
-    - '*.pdb'
-    - '*.ent'
     - '*.brk'
+    - '*.ent'
+    - '*.pdb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50378,12 +50378,12 @@ formats:
   psf1:
     egff: []
     extensions:
-    - '*.psf1lib'
     - '*.minipsf'
     - '*.psf1'
-    - '*.psflib'
-    - '*.minipsf1'
+    - '*.psf1lib'
     - '*.psf'
+    - '*.minipsf1'
+    - '*.psflib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50396,8 +50396,8 @@ formats:
     egff: []
     extensions:
     - '*.psf2'
-    - '*.psf2lib'
     - '*.minipsf2'
+    - '*.psf2lib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50409,9 +50409,9 @@ formats:
   psi-mi xml:
     egff: []
     extensions:
+    - '*.obo'
     - '*.dag'
     - '*.def'
-    - '*.obo'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50447,8 +50447,8 @@ formats:
   psion opo/opa:
     egff: []
     extensions:
-    - '*.app'
     - '*.opo'
+    - '*.app'
     - '*.opa'
     fdd: []
     hasMagic: false
@@ -50634,8 +50634,8 @@ formats:
   pug:
     egff: []
     extensions:
-    - '*.jade'
     - '*.pug'
+    - '*.jade'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50738,8 +50738,8 @@ formats:
   put:
     egff: []
     extensions:
-    - '*.ins'
     - '*.put'
+    - '*.ins'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50790,8 +50790,8 @@ formats:
   puzzle image (x11):
     egff: []
     extensions:
-    - '*.pzl'
     - '*.cm'
+    - '*.pzl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -50950,11 +50950,11 @@ formats:
   python:
     egff: []
     extensions:
-    - '*.pyc'
+    - '*.py'
     - '*.pyd'
     - '*.pyo'
+    - '*.pyc'
     - '*.whl'
-    - '*.py'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51010,8 +51010,8 @@ formats:
     egff: []
     extensions:
     - '*.q0'
-    - '*.fal'
     - '*.rgb'
+    - '*.fal'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51034,8 +51034,8 @@ formats:
   qcow:
     egff: []
     extensions:
-    - '*.qcow2'
     - '*.qcow'
+    - '*.qcow2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51109,8 +51109,8 @@ formats:
   qgis project:
     egff: []
     extensions:
-    - '*.qgz'
     - '*.qgs'
+    - '*.qgz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51184,9 +51184,9 @@ formats:
   qrt ray tracer bitmap:
     egff: []
     extensions:
-    - '*.raw'
     - '*.dis'
     - '*.qrt'
+    - '*.raw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51214,9 +51214,9 @@ formats:
   qsf:
     egff: []
     extensions:
-    - '*.qsf'
-    - '*.miniqsf'
     - '*.qsflib'
+    - '*.miniqsf'
+    - '*.qsf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51228,13 +51228,13 @@ formats:
   qt translation source:
     egff: []
     extensions:
-    - '*.ts'
     - '*.xml'
+    - '*.ts'
     fdd: []
     hasMagic: false
     mimetypes:
-    - text/xml
     - application/xml
+    - text/xml
     name: Qt translation source
     pronom: []
     source: Qt_translation_source
@@ -51477,10 +51477,10 @@ formats:
   quattro pro:
     egff: []
     extensions:
-    - '*.snd'
     - '*.wb1'
-    - '*.qpw'
+    - '*.snd'
     - '*.wb3'
+    - '*.qpw'
     - '*.wq1'
     - '*.wq2'
     - '*.wb2'
@@ -51599,9 +51599,9 @@ formats:
   quickcrypto:
     egff: []
     extensions:
+    - '*.qcotfe'
     - '*.exe'
     - '*.qce'
-    - '*.qcotfe'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51784,11 +51784,11 @@ formats:
   radiance hdr:
     egff: []
     extensions:
-    - '*.rad'
     - '*.hdr'
+    - '*.rad'
+    - '*.pic'
     - '*.rgbe'
     - '*.xyze'
-    - '*.pic'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -51889,10 +51889,10 @@ formats:
   ragtime:
     egff: []
     extensions:
+    - '*.rtd'
+    - '*.rt3'
     - '*.rts'
     - '*.rtt'
-    - '*.rt3'
-    - '*.rtd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -51957,13 +51957,13 @@ formats:
   ram (realaudio):
     egff: []
     extensions:
-    - '*.ram'
     - '*.rpm'
+    - '*.ram'
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/x-pn-realaudio
     - audio/x-pn-realaudio-plugin
+    - audio/x-pn-realaudio
     name: RAM (RealAudio)
     pronom:
     - x-fmt/183
@@ -51973,11 +51973,11 @@ formats:
   rambrandt:
     egff: []
     extensions:
-    - '*.rm2'
-    - '*.rm4'
     - '*.rm3'
     - '*.rm1'
+    - '*.rm2'
     - '*.rm0'
+    - '*.rm4'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52024,8 +52024,8 @@ formats:
   rar:
     egff: []
     extensions:
-    - '*.rar'
     - '*.r00'
+    - '*.rar'
     - '*.rev'
     fdd:
     - fdd000450
@@ -52137,9 +52137,9 @@ formats:
   raw (audio):
     egff: []
     extensions:
+    - '*.bin'
     - '*.pcm'
     - '*.raw'
-    - '*.bin'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52151,9 +52151,9 @@ formats:
   raw bitmap:
     egff: []
     extensions:
-    - '*.raw'
     - '*.rgb'
     - '*.yuv'
+    - '*.raw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52229,11 +52229,11 @@ formats:
   ray dream:
     egff: []
     extensions:
-    - '*.car'
-    - '*.rds'
-    - '*.d3d'
     - '*.rd3'
     - '*.rd4'
+    - '*.rds'
+    - '*.car'
+    - '*.d3d'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52362,8 +52362,8 @@ formats:
   rdib:
     egff: []
     extensions:
-    - '*.dib'
     - '*.rdi'
+    - '*.dib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52451,8 +52451,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/vnd.rn-realaudio
     - audio/x-pn-realaudio
+    - audio/vnd.rn-realaudio
     name: RealAudio
     pronom:
     - x-fmt/278
@@ -52488,9 +52488,9 @@ formats:
     egff: []
     extensions:
     - '*.rmvb'
-    - '*.ram'
-    - '*.rv'
     - '*.rm'
+    - '*.rv'
+    - '*.ram'
     - '*.ra'
     - '*.rma'
     fdd: []
@@ -52533,8 +52533,8 @@ formats:
   recap:
     egff: []
     extensions:
-    - '*.rcs'
     - '*.rcp'
+    - '*.rcs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52558,8 +52558,8 @@ formats:
   red (knowledge dynamics):
     egff: []
     extensions:
-    - '*.red'
     - '*.lif'
+    - '*.red'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52702,8 +52702,8 @@ formats:
     egff: []
     extensions:
     - '*.deck'
-    - '*.rkp'
     - '*.reko'
+    - '*.rkp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52829,12 +52829,12 @@ formats:
   renderware binary stream file:
     egff: []
     extensions:
-    - '*.bsp'
-    - '*.anm'
-    - '*.dff'
-    - '*.dma'
     - '*.rws'
+    - '*.dff'
     - '*.txd'
+    - '*.anm'
+    - '*.dma'
+    - '*.bsp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52858,9 +52858,9 @@ formats:
   renoise:
     egff: []
     extensions:
-    - '*.xrnt'
     - '*.xrni'
     - '*.xrns'
+    - '*.xrnt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52884,8 +52884,8 @@ formats:
   renoise instrument:
     egff: []
     extensions:
-    - '*.rni'
     - '*.xrni'
+    - '*.rni'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -52897,9 +52897,9 @@ formats:
   renoise song:
     egff: []
     extensions:
+    - '*.xrns'
     - '*.ntk'
     - '*.rns'
-    - '*.xrns'
     - '*.ptk'
     fdd: []
     hasMagic: false
@@ -53033,12 +53033,12 @@ formats:
   revit:
     egff: []
     extensions:
-    - '*.rfa'
-    - '*.rvt'
-    - '*.rft'
-    - '*.rvg'
     - '*.rws'
+    - '*.rft'
+    - '*.rvt'
     - '*.rte'
+    - '*.rvg'
+    - '*.rfa'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53083,8 +53083,8 @@ formats:
   rf64:
     egff: []
     extensions:
-    - '*.wav'
     - '*.rf64'
+    - '*.wav'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53368,11 +53368,11 @@ formats:
   ripscrip icon:
     egff: []
     extensions:
-    - '*.icn'
     - '*.bmh'
     - '*.hot'
-    - '*.msk'
+    - '*.icn'
     - '*.bmm'
+    - '*.msk'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53500,9 +53500,9 @@ formats:
   rle (cellular automata):
     egff: []
     extensions:
+    - '*.rle3'
     - '*.l'
     - '*.rle'
-    - '*.rle3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53849,8 +53849,8 @@ formats:
   rpm:
     egff: []
     extensions:
-    - '*.spec'
     - '*.rpm'
+    - '*.spec'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53913,8 +53913,8 @@ formats:
   rsbep:
     egff: []
     extensions:
-    - '*.shielded'
     - '*.frozen.RS'
+    - '*.shielded'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53927,8 +53927,8 @@ formats:
   rsc32:
     egff: []
     extensions:
-    - '*.RSC32'
     - '*.RSE32'
+    - '*.RSC32'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -53954,8 +53954,8 @@ formats:
   rss:
     egff: []
     extensions:
-    - '*.xml'
     - '*.rss'
+    - '*.xml'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -54053,8 +54053,8 @@ formats:
   ruby:
     egff: []
     extensions:
-    - '*.rb'
     - '*.rbw'
+    - '*.rb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54067,10 +54067,10 @@ formats:
   rule (golly):
     egff: []
     extensions:
-    - '*.colors'
-    - '*.rule'
     - '*.icons'
+    - '*.rule'
     - '*.tree'
+    - '*.colors'
     - '*.table'
     fdd: []
     hasMagic: false
@@ -54183,8 +54183,8 @@ formats:
   s2:
     egff: []
     extensions:
-    - '*.s2'
     - '*.snappy'
+    - '*.s2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54327,8 +54327,8 @@ formats:
   "sam coup\xE9 mode 4":
     egff: []
     extensions:
-    - '*.scs4'
     - '*.ss4'
+    - '*.scs4'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54340,8 +54340,8 @@ formats:
   "sam coup\xE9 song":
     egff: []
     extensions:
-    - '*.sng'
     - '*.cop'
+    - '*.sng'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54485,9 +54485,9 @@ formats:
   sarj:
     egff: []
     extensions:
-    - '*.dir'
     - '*.sld'
     - '*.srj'
+    - '*.dir'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54500,8 +54500,8 @@ formats:
   sas:
     egff: []
     extensions:
-    - '*.sas'
     - '*.sas7dat'
+    - '*.sas'
     - '*.sas7bdat'
     fdd: []
     hasMagic: false
@@ -54516,8 +54516,8 @@ formats:
   sas transport file:
     egff: []
     extensions:
-    - '*.xpt'
     - '*.stx'
+    - '*.xpt'
     fdd:
     - fdd000464
     hasMagic: false
@@ -54530,8 +54530,8 @@ formats:
   sass:
     egff: []
     extensions:
-    - '*.scss'
     - '*.sass'
+    - '*.scss'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54628,9 +54628,9 @@ formats:
   sbstudio module:
     egff: []
     extensions:
+    - '*.pac'
     - '*.sou'
     - '*.son'
-    - '*.pac'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54681,8 +54681,8 @@ formats:
     egff: []
     extensions:
     - '*.kbm'
-    - '*.cmd'
     - '*.scl'
+    - '*.cmd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54694,8 +54694,8 @@ formats:
   scalable vector graphics:
     egff: []
     extensions:
-    - '*.svg'
     - '*.svgz'
+    - '*.svg'
     fdd:
     - fdd000515
     hasMagic: false
@@ -54822,10 +54822,10 @@ formats:
   scheme:
     egff: []
     extensions:
-    - '*.sch'
+    - '*.ss'
     - '*.scm'
     - '*.rkt'
-    - '*.ss'
+    - '*.sch'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54870,9 +54870,9 @@ formats:
   scifer:
     egff: []
     extensions:
-    - '*.sen'
     - '*.xml'
     - '*.ba'
+    - '*.sen'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54885,9 +54885,9 @@ formats:
   scitex ct:
     egff: []
     extensions:
-    - '*.sct'
-    - '*.ct'
     - '*.ch'
+    - '*.ct'
+    - '*.sct'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54940,13 +54940,13 @@ formats:
   scratch:
     egff: []
     extensions:
-    - '*.sb3'
-    - '*.sb2'
-    - '*.sprite'
-    - '*.sb'
-    - '*.sprite2'
     - '*.sprite3'
+    - '*.sb'
+    - '*.sprite'
     - '*.sbx'
+    - '*.sb2'
+    - '*.sprite2'
+    - '*.sb3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54959,8 +54959,8 @@ formats:
   scratch 1.4 file format:
     egff: []
     extensions:
-    - '*.sprite'
     - '*.sb'
+    - '*.sprite'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -54972,8 +54972,8 @@ formats:
   scratch 2.0 file format:
     egff: []
     extensions:
-    - '*.sprite2'
     - '*.sb2'
+    - '*.sprite2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -55047,8 +55047,8 @@ formats:
   screenwriter:
     egff: []
     extensions:
-    - '*.mmsw'
     - '*.scw'
+    - '*.mmsw'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -55153,8 +55153,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/x-stardraw
     - application/vnd.stardivision.draw
+    - application/x-stardraw
     name: SDA (StarOffice)
     pronom:
     - fmt/810
@@ -55479,8 +55479,8 @@ formats:
   segmented hypergraphics:
     egff: []
     extensions:
-    - '*.shg'
     - '*.mrb'
+    - '*.shg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -55531,8 +55531,8 @@ formats:
     - sense8
     - Sense8 NFF File Format Summary
     extensions:
-    - '*.nff'
     - '*.bff'
+    - '*.nff'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -55568,8 +55568,8 @@ formats:
   seqbox:
     egff: []
     extensions:
-    - '*.seqbox'
     - '*.sbx'
+    - '*.seqbox'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -55643,9 +55643,9 @@ formats:
   server side includes:
     egff: []
     extensions:
+    - '*.sht'
     - '*.shtml'
     - '*.shtm'
-    - '*.sht'
     - '*.stm'
     fdd: []
     hasMagic: false
@@ -55749,8 +55749,8 @@ formats:
     - SGI Image File Format File Format Summary
     extensions:
     - '*.rgb'
-    - '*.rgba'
     - '*.bw'
+    - '*.rgba'
     - '*.sgi'
     fdd: []
     hasMagic: false
@@ -55764,9 +55764,9 @@ formats:
   sgi movie:
     egff: []
     extensions:
-    - '*.sgi'
     - '*.mv'
     - '*.movie'
+    - '*.sgi'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -55797,8 +55797,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - text/sgml
     - application/sgml
+    - text/sgml
     name: SGML
     pronom:
     - x-fmt/195
@@ -55820,8 +55820,8 @@ formats:
   sgx:
     egff: []
     extensions:
-    - '*.svg'
     - '*.sgx'
+    - '*.svg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -55883,8 +55883,8 @@ formats:
   shanda bambook:
     egff: []
     extensions:
-    - '*.snb'
     - '*.bek'
+    - '*.snb'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -55908,9 +55908,9 @@ formats:
   shapefile:
     egff: []
     extensions:
-    - '*.dbf'
     - '*.shx'
     - '*.shp'
+    - '*.dbf'
     fdd:
     - fdd000280
     - fdd000326
@@ -55926,8 +55926,8 @@ formats:
   shar:
     egff: []
     extensions:
-    - '*.sha'
     - '*.shar'
+    - '*.sha'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -56034,13 +56034,13 @@ formats:
   shockwave (director):
     egff: []
     extensions:
-    - '*.dir'
-    - '*.cxt'
     - '*.dcr'
+    - '*.dir'
     - '*.cct'
-    - '*.cst'
-    - '*.dxr'
     - '*.drx'
+    - '*.cst'
+    - '*.cxt'
+    - '*.dxr'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -56378,10 +56378,10 @@ formats:
   signum font:
     egff: []
     extensions:
-    - '*.e24'
+    - '*.p9'
     - '*.p24'
     - '*.l30'
-    - '*.p9'
+    - '*.e24'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -56439,8 +56439,8 @@ formats:
   siliconpage:
     egff: []
     extensions:
-    - '*.spp'
     - '*.spb'
+    - '*.spp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -56679,8 +56679,8 @@ formats:
   sis:
     egff: []
     extensions:
-    - '*.sis'
     - '*.sisx'
+    - '*.sis'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -56917,8 +56917,8 @@ formats:
   sldprt:
     egff: []
     extensions:
-    - '*.sldprt'
     - '*.prt'
+    - '*.sldprt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57080,8 +57080,8 @@ formats:
     egff: []
     extensions:
     - '*.sdr'
-    - '*.scz'
     - '*.sdl'
+    - '*.scz'
     - '*.sdt'
     fdd: []
     hasMagic: false
@@ -57312,9 +57312,9 @@ formats:
   snsf:
     egff: []
     extensions:
-    - '*.snsf'
-    - '*.snsflib'
     - '*.minisnsf'
+    - '*.snsflib'
+    - '*.snsf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57339,15 +57339,15 @@ formats:
   softdisk family tree:
     egff: []
     extensions:
-    - '*.ftp'
-    - '*.f3m'
-    - '*.ftm'
+    - '*.ftd'
     - '*.fti'
     - '*.fcm'
-    - '*.f3d'
-    - '*.fmd'
     - '*.fpd'
-    - '*.ftd'
+    - '*.fmd'
+    - '*.ftm'
+    - '*.f3m'
+    - '*.f3d'
+    - '*.ftp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57561,8 +57561,8 @@ formats:
   sonic foundry acid:
     egff: []
     extensions:
-    - '*.acd'
     - '*.acd-zip'
+    - '*.acd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57612,9 +57612,9 @@ formats:
   sony picturegear studio:
     egff: []
     extensions:
+    - '*.bxu'
     - '*.amu'
     - '*.lmu'
-    - '*.bxu'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57799,9 +57799,9 @@ formats:
   spaceward graphics:
     egff: []
     extensions:
-    - '*.cvs'
     - '*.r'
     - '*.rir'
+    - '*.cvs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57814,8 +57814,8 @@ formats:
   spark:
     egff: []
     extensions:
-    - '*.arc'
     - '*.spk'
+    - '*.arc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57850,8 +57850,8 @@ formats:
   spc (audio):
     egff: []
     extensions:
-    - '*.spc'
     - '*.rsn'
+    - '*.spc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57899,9 +57899,9 @@ formats:
   spectrum 512 formats:
     egff: []
     extensions:
-    - '*.spc'
     - '*.sps'
     - '*.spu'
+    - '*.spc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -57992,9 +57992,9 @@ formats:
     - spiff
     - SPIFF File Format Summary
     extensions:
+    - '*.spf'
     - '*.jpeg'
     - '*.jpg'
-    - '*.spf'
     fdd:
     - fdd000019
     hasMagic: false
@@ -58049,8 +58049,8 @@ formats:
   split (m. dingacci):
     egff: []
     extensions:
-    - '*.001'
     - '*.re$'
+    - '*.001'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58086,9 +58086,9 @@ formats:
   spooky sprites:
     egff: []
     extensions:
-    - '*.trs'
     - '*.trp'
     - '*.tru'
+    - '*.trs'
     - '*.tre'
     fdd: []
     hasMagic: false
@@ -58126,8 +58126,8 @@ formats:
   sprite master:
     egff: []
     extensions:
-    - '*.spr'
     - '*.ary'
+    - '*.spr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58164,10 +58164,10 @@ formats:
   spss:
     egff: []
     extensions:
-    - '*.spv'
-    - '*.sps'
-    - '*.spo'
     - '*.sav'
+    - '*.sps'
+    - '*.spv'
+    - '*.spo'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58221,17 +58221,17 @@ formats:
   sqlite:
     egff: []
     extensions:
+    - '*.db'
+    - '*.sqlite-shm'
     - '*.db-shm'
     - '*.sqlite-wal'
-    - '*.db'
-    - '*.db-wal'
     - '*.sqlite'
-    - '*.sqlite-shm'
+    - '*.db-wal'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/vnd.sqlite3
     - application/x-sqlite3
+    - application/vnd.sqlite3
     name: SQLite
     pronom:
     - fmt/729
@@ -58480,8 +58480,8 @@ formats:
     egff: []
     extensions:
     - '*.minissf'
-    - '*.ssflib'
     - '*.ssf'
+    - '*.ssflib'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58519,8 +58519,8 @@ formats:
     - atari
     - Atari ST Graphics Formats File Format Summary
     extensions:
-    - '*.seq'
     - '*.pac'
+    - '*.seq'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58555,8 +58555,8 @@ formats:
   standard delay format:
     egff: []
     extensions:
-    - '*.sdf'
     - '*.sdo'
+    - '*.sdf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58604,11 +58604,11 @@ formats:
   stanford graphics:
     egff: []
     extensions:
+    - '*.sty'
     - '*.sgx'
-    - '*.dat'
     - '*.sg1'
     - '*.shw'
-    - '*.sty'
+    - '*.dat'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58672,10 +58672,10 @@ formats:
   stardict:
     egff: []
     extensions:
+    - '*.syn'
+    - '*.ifo'
     - '*.dict'
     - '*.idx'
-    - '*.ifo'
-    - '*.syn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58689,8 +58689,8 @@ formats:
   stardock tiles skin:
     egff: []
     extensions:
-    - '*.TileSkin'
     - '*.TileSkinZip'
+    - '*.TileSkin'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58729,30 +58729,30 @@ formats:
   staroffice binary formats:
     egff: []
     extensions:
-    - '*.sgl'
-    - '*.sdd'
-    - '*.sdp'
     - '*.sdw'
-    - '*.smf'
-    - '*.sdc'
-    - '*.sds'
-    - '*.sdg'
-    - '*.sdm'
     - '*.vor'
-    - '*.sda'
+    - '*.sdc'
     - '*.sdb'
+    - '*.sgl'
+    - '*.sdp'
+    - '*.sdd'
+    - '*.sdm'
+    - '*.smf'
+    - '*.sda'
+    - '*.sdg'
+    - '*.sds'
     fdd: []
     hasMagic: false
     mimetypes:
+    - application/vnd.stardivision.impress-packed
     - application/vnd.stardivision.math
     - application/vnd.stardivision.chart
     - application/vnd.stardivision.impress
-    - application/vnd.stardivision.draw
-    - application/vnd.stardivision.impress-packed
-    - application/vnd.stardivision.writer-global
-    - application/vnd.stardivision.mail
     - application/vnd.stardivision.calc
     - application/vnd.stardivision.writer
+    - application/vnd.stardivision.writer-global
+    - application/vnd.stardivision.draw
+    - application/vnd.stardivision.mail
     name: StarOffice binary formats
     pronom:
     - fmt/812
@@ -58773,9 +58773,9 @@ formats:
   staroffice gallery:
     egff: []
     extensions:
-    - '*.thm'
-    - '*.sdv'
     - '*.sdg'
+    - '*.sdv'
+    - '*.thm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -58846,22 +58846,22 @@ formats:
   statistica:
     egff: []
     extensions:
-    - '*.stg'
-    - '*.scr'
     - '*.str'
-    - '*.stw'
-    - '*.sti'
-    - '*.css'
-    - '*.smx'
-    - '*.svb'
-    - '*.snn'
     - '*.svx'
-    - '*.spf'
-    - '*.svo'
-    - '*.sdm'
+    - '*.stg'
+    - '*.css'
+    - '*.svb'
     - '*.sta'
+    - '*.scr'
+    - '*.stw'
+    - '*.sdm'
     - '*.svc'
+    - '*.sti'
+    - '*.svo'
+    - '*.smx'
     - '*.dmrproj'
+    - '*.spf'
+    - '*.snn'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59028,9 +59028,9 @@ formats:
   steganos privacy/security suite:
     egff: []
     extensions:
-    - '*.sle'
     - '*.cab'
     - '*.exe'
+    - '*.sle'
     - '*.sef'
     fdd: []
     hasMagic: false
@@ -59495,10 +59495,10 @@ formats:
     egff: []
     extensions:
     - '*.sg'
-    - '*.lt'
     - '*.nl'
-    - '*.rp'
     - '*.jn'
+    - '*.lt'
+    - '*.rp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59532,8 +59532,8 @@ formats:
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/x-stuffit
     - application/x-sit
+    - application/x-stuffit
     name: StuffIt
     pronom:
     - fmt/639
@@ -59623,10 +59623,10 @@ formats:
   substance:
     egff: []
     extensions:
-    - '*.sbs'
     - '*.sbsm'
-    - '*.sbsar'
+    - '*.sbs'
     - '*.spp'
+    - '*.sbsar'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59664,16 +59664,16 @@ formats:
     - sunraster
     - Sun Raster File Format Summary
     extensions:
+    - '*.sun'
+    - '*.im1'
     - '*.scr'
     - '*.im24'
-    - '*.im1'
-    - '*.im8'
     - '*.sr'
-    - '*.ras'
     - '*.rast'
     - '*.rs'
+    - '*.ras'
+    - '*.im8'
     - '*.im32'
-    - '*.sun'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59688,9 +59688,9 @@ formats:
     egff: []
     extensions:
     - '*.taac'
-    - '*.vff'
     - '*.suniff'
     - '*.iff'
+    - '*.vff'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59739,8 +59739,8 @@ formats:
   super irg:
     egff: []
     extensions:
-    - '*.ir2'
     - '*.irg'
+    - '*.ir2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59764,8 +59764,8 @@ formats:
   supercollider:
     egff: []
     extensions:
-    - '*.sc'
     - '*.scd'
+    - '*.sc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -59850,8 +59850,8 @@ formats:
   swf:
     egff: []
     extensions:
-    - '*.swf'
     - '*.spl'
+    - '*.swf'
     fdd:
     - fdd000248
     - fdd000130
@@ -59964,8 +59964,8 @@ formats:
   sxd:
     egff: []
     extensions:
-    - '*.std'
     - '*.sxd'
+    - '*.std'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -60086,8 +60086,8 @@ formats:
     egff: []
     extensions:
     - '*.sif'
-    - '*.sifz'
     - '*.sfg'
+    - '*.sifz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -60124,8 +60124,8 @@ formats:
   synu:
     egff: []
     extensions:
-    - '*.synu'
     - '*.syn'
+    - '*.synu'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -60247,8 +60247,8 @@ formats:
   tableau workbook:
     egff: []
     extensions:
-    - '*.twbx'
     - '*.twb'
+    - '*.twbx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -60423,14 +60423,14 @@ formats:
   tape archive:
     egff: []
     extensions:
-    - '*.tbz'
-    - '*.tz'
-    - '*.taz'
     - '*.tgz'
-    - '*.tar'
     - '*.tlz'
     - '*.txz'
+    - '*.tar'
     - '*.tsz'
+    - '*.taz'
+    - '*.tz'
+    - '*.tbz'
     fdd:
     - fdd000531
     hasMagic: false
@@ -60686,8 +60686,8 @@ formats:
   technicolor dream:
     egff: []
     extensions:
-    - '*.col'
     - '*.lum'
+    - '*.col'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -60735,8 +60735,8 @@ formats:
   telepaint/splash graphics:
     egff: []
     extensions:
-    - '*.ss'
     - '*.st'
+    - '*.ss'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61094,10 +61094,10 @@ formats:
     - tga
     - TGA File Format Summary
     extensions:
-    - '*.vst'
-    - '*.vda'
     - '*.tga'
     - '*.icb'
+    - '*.vst'
+    - '*.vda'
     fdd:
     - fdd000179
     - fdd000180
@@ -61201,21 +61201,21 @@ formats:
   the master genealogist:
     egff: []
     extensions:
-    - '*.flk'
+    - '*.pjc'
+    - '*.fle'
+    - '*.vcf2'
+    - '*.dbf'
+    - '*.cdx'
+    - '*.acc'
+    - '*.log'
+    - '*.vcf'
+    - '*.flc'
     - '*.fpt'
     - '*.flp'
-    - '*.log'
+    - '*.flk'
     - '*.sqz'
-    - '*.vcf2'
-    - '*.cdx'
-    - '*.fls'
-    - '*.dbf'
-    - '*.pjc'
-    - '*.flc'
     - '*.fly'
-    - '*.acc'
-    - '*.fle'
-    - '*.vcf'
+    - '*.fls'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61228,8 +61228,8 @@ formats:
   the music studio:
     egff: []
     extensions:
-    - '*.sng'
     - '*.snd'
+    - '*.sng'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61254,13 +61254,13 @@ formats:
   the player:
     egff: []
     extensions:
+    - '*.p40a'
     - '*.p22a'
+    - '*.p40b'
+    - '*.p60a'
     - '*.p30a'
     - '*.p61a'
-    - '*.p40b'
     - '*.p50a'
-    - '*.p40a'
-    - '*.p60a'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61272,10 +61272,10 @@ formats:
   the print shop:
     egff: []
     extensions:
-    - '*.pog'
     - '*.pnm'
-    - '*.nam'
     - '*.dat'
+    - '*.nam'
+    - '*.pog'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61329,8 +61329,8 @@ formats:
   thedraw save file:
     egff: []
     extensions:
-    - '*.tdl'
     - '*.td'
+    - '*.tdl'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61475,15 +61475,15 @@ formats:
   ti picture file:
     egff: []
     extensions:
-    - '*.9xi'
+    - '*.83i'
     - '*.8xi'
     - '*.v2i'
-    - '*.85i'
-    - '*.86i'
-    - '*.92i'
-    - '*.83i'
     - '*.73i'
+    - '*.86i'
     - '*.89i'
+    - '*.85i'
+    - '*.92i'
+    - '*.9xi'
     - '*.82i'
     fdd: []
     hasMagic: false
@@ -61628,8 +61628,8 @@ formats:
   tiff-fx:
     egff: []
     extensions:
-    - '*.tiff'
     - '*.tfx'
+    - '*.tiff'
     - '*.tif'
     fdd: []
     hasMagic: false
@@ -61788,11 +61788,11 @@ formats:
   timeline maker:
     egff: []
     extensions:
-    - '*.tlm'
-    - '*.tlmp'
     - '*.tlmz'
-    - '*.tlm4'
+    - '*.tlmp'
+    - '*.tlm'
     - '*.tlm3'
+    - '*.tlm4'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -61834,10 +61834,10 @@ formats:
     - atari
     - Atari ST Graphics Formats File Format Summary
     extensions:
-    - '*.tny'
     - '*.tn3'
-    - '*.tn4'
     - '*.tn1'
+    - '*.tn4'
+    - '*.tny'
     - '*.tn2'
     fdd: []
     hasMagic: false
@@ -62154,9 +62154,9 @@ formats:
   tomeraider:
     egff: []
     extensions:
+    - '*.tr3'
     - '*.pdb'
     - '*.tr'
-    - '*.tr3'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -62232,8 +62232,8 @@ formats:
   top4:
     egff: []
     extensions:
-    - '*.t4'
     - '*.to4'
+    - '*.t4'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -62571,9 +62571,9 @@ formats:
     egff: []
     extensions:
     - '*.mom'
-    - '*.man'
-    - '*.tmac'
     - '*.ms'
+    - '*.tmac'
+    - '*.man'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -62779,9 +62779,9 @@ formats:
   tscomp:
     egff: []
     extensions:
-    - '*.??$'
-    - '*.cmp'
     - '*.lib'
+    - '*.cmp'
+    - '*.??$'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -62956,9 +62956,9 @@ formats:
     egff: []
     extensions:
     - '*.tax2012'
-    - '*.tax2011'
     - '*.tax'
     - '*.tax2014'
+    - '*.tax2011'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -63196,8 +63196,8 @@ formats:
   tzip (text zip):
     egff: []
     extensions:
-    - '*.dic'
     - '*.tz'
+    - '*.dic'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -63486,10 +63486,10 @@ formats:
     egff: []
     extensions:
     - '*.ucn'
-    - '*.uc0'
     - '*.uc'
-    - '*.ue2'
     - '*.ur2'
+    - '*.uc0'
+    - '*.ue2'
     - '*.uc2'
     fdd: []
     hasMagic: false
@@ -63503,8 +63503,8 @@ formats:
   ultraedit project file:
     egff: []
     extensions:
-    - '*.pui'
     - '*.prj'
+    - '*.pui'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -63686,9 +63686,9 @@ formats:
   universal scene description:
     egff: []
     extensions:
+    - '*.usdc'
     - '*.usda'
     - '*.usd'
-    - '*.usdc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -63769,10 +63769,10 @@ formats:
   uof:
     egff: []
     extensions:
+    - '*.uos'
     - '*.uop'
     - '*.uof'
     - '*.uot'
-    - '*.uos'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -63962,9 +63962,9 @@ formats:
   usf:
     egff: []
     extensions:
-    - '*.usf'
     - '*.usflib'
     - '*.miniusf'
+    - '*.usf'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64268,8 +64268,8 @@ formats:
   vbm (vdc bitmap):
     egff: []
     extensions:
-    - '*.bm'
     - '*.vbm'
+    - '*.bm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64334,8 +64334,8 @@ formats:
   vcard:
     egff: []
     extensions:
-    - '*.vcard'
     - '*.vcf'
+    - '*.vcard'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -64425,9 +64425,9 @@ formats:
     egff: []
     extensions:
     - '*.sta'
+    - '*.vwx'
     - '*.vgx'
     - '*.mcd'
-    - '*.vwx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64451,8 +64451,8 @@ formats:
   vegx:
     egff: []
     extensions:
-    - '*.egx'
     - '*.vgx'
+    - '*.egx'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64501,12 +64501,12 @@ formats:
   ventura publisher:
     egff: []
     extensions:
-    - '*.pub'
     - '*.gen'
-    - '*.vp'
+    - '*.sty'
+    - '*.pub'
     - '*.chp'
     - '*.gem'
-    - '*.sty'
+    - '*.vp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64721,9 +64721,9 @@ formats:
     - vicar2
     - VICAR2 File Format Summary
     extensions:
-    - '*.vicar'
     - '*.img'
     - '*.vic'
+    - '*.vicar'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64817,9 +64817,9 @@ formats:
   video master film:
     egff: []
     extensions:
-    - '*.flm'
     - '*.vsq'
     - '*.vid'
+    - '*.flm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64842,8 +64842,8 @@ formats:
   videostudio:
     egff: []
     extensions:
-    - '*.vsp'
     - '*.vsh'
+    - '*.vsp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -64906,8 +64906,8 @@ formats:
     - viff
     - VIFF File Format Summary
     extensions:
-    - '*.xv'
     - '*.viff'
+    - '*.xv'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65016,19 +65016,19 @@ formats:
     egff: []
     extensions:
     - '*.vsd'
-    - '*.vsdx'
-    - '*.vstx'
-    - '*.vsw'
-    - '*.vsx'
-    - '*.vdx'
-    - '*.vtx'
     - '*.vssm'
-    - '*.vssx'
     - '*.vsdm'
-    - '*.vstm'
-    - '*.vsl'
+    - '*.vdx'
     - '*.vst'
     - '*.vss'
+    - '*.vssx'
+    - '*.vstx'
+    - '*.vstm'
+    - '*.vtx'
+    - '*.vsl'
+    - '*.vsw'
+    - '*.vsx'
+    - '*.vsdx'
     fdd:
     - fdd000021
     hasMagic: false
@@ -65058,8 +65058,8 @@ formats:
   vista data file:
     egff: []
     extensions:
-    - '*.vp'
     - '*.v'
+    - '*.vp'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65116,8 +65116,8 @@ formats:
     egff: []
     extensions:
     - '*.mak'
-    - '*.vbproj'
     - '*.vbp'
+    - '*.vbproj'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65144,8 +65144,8 @@ formats:
   viv:
     egff: []
     extensions:
-    - '*.viv'
     - '*.big'
+    - '*.viv'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65175,8 +65175,8 @@ formats:
     - Vivid and Bob File Format Summary
     extensions:
     - '*.vo'
-    - '*.vs'
     - '*.v'
+    - '*.vs'
     - '*.vc'
     fdd: []
     hasMagic: false
@@ -65346,8 +65346,8 @@ formats:
     - fdd000117
     hasMagic: false
     mimetypes:
-    - audio/ogg
     - application/ogg
+    - audio/ogg
     name: Vorbis
     pronom:
     - fmt/203
@@ -65454,8 +65454,8 @@ formats:
   vrml:
     egff: []
     extensions:
-    - '*.wrl'
     - '*.wrz'
+    - '*.wrl'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -65518,8 +65518,8 @@ formats:
   vue:
     egff: []
     extensions:
-    - '*.vue'
     - '*.vob'
+    - '*.vue'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65633,13 +65633,13 @@ formats:
   warc:
     egff: []
     extensions:
-    - '*.warc.gz'
     - '*.warc'
+    - '*.warc.gz'
     fdd: []
     hasMagic: false
     mimetypes:
-    - application/warc-fields
     - application/warc
+    - application/warc-fields
     name: WARC
     pronom:
     - fmt/289
@@ -65697,8 +65697,8 @@ formats:
   wav:
     egff: []
     extensions:
-    - '*.wav'
     - '*.wave'
+    - '*.wav'
     fdd:
     - fdd000001
     - fdd000002
@@ -65706,11 +65706,11 @@ formats:
     - fdd000357
     hasMagic: false
     mimetypes:
+    - audio/vnd.wave
     - audio/wave
     - audio/x-wav
-    - audio/vnd.wave
-    - audio/wav
     - audio/x-pn-wav
+    - audio/wav
     name: WAV
     pronom:
     - fmt/6
@@ -65802,8 +65802,8 @@ formats:
   wavpack:
     egff: []
     extensions:
-    - '*.wvc'
     - '*.wv'
+    - '*.wvc'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65816,8 +65816,8 @@ formats:
   wax:
     egff: []
     extensions:
-    - '*.wxpr'
     - '*.wxp'
+    - '*.wxpr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -65945,8 +65945,8 @@ formats:
   web archive metadata file:
     egff: []
     extensions:
-    - '*.wat.gz'
     - '*.wat'
+    - '*.wat.gz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -66083,8 +66083,8 @@ formats:
     - fdd000518
     hasMagic: false
     mimetypes:
-    - video/webm
     - audio/webm
+    - video/webm
     name: WebM
     pronom:
     - fmt/573
@@ -66124,10 +66124,10 @@ formats:
     egff: []
     extensions:
     - '*.wbz'
+    - '*.wb1'
     - '*.wbc'
     - '*.wbd'
     - '*.wbp'
-    - '*.wb1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -66672,10 +66672,10 @@ formats:
   windows event log:
     egff: []
     extensions:
-    - '*.log2'
-    - '*.log'
     - '*.log1'
+    - '*.log'
     - '*.evt'
+    - '*.log2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -66699,10 +66699,10 @@ formats:
     egff: []
     extensions:
     - '*.swm'
+    - '*.esd'
     - '*.wim2'
     - '*.ppkg'
     - '*.wim'
-    - '*.esd'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -66729,8 +66729,8 @@ formats:
   windows journal:
     egff: []
     extensions:
-    - '*.jnt'
     - '*.jtp'
+    - '*.jnt'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -66755,14 +66755,14 @@ formats:
     egff: []
     extensions:
     - '*.wax'
-    - '*.wxv'
     - '*.asx'
+    - '*.wxv'
     fdd: []
     hasMagic: false
     mimetypes:
-    - audio/x-ms-wax
-    - video/x-ms-asf
     - video/x-ms-asx
+    - video/x-ms-asf
+    - audio/x-ms-wax
     name: Windows Media Metafile
     pronom: []
     released: 1998<ref> One source (http://www.updatexp.com/windows-media-player-files.html)
@@ -66774,8 +66774,8 @@ formats:
   windows media player skin package:
     egff: []
     extensions:
-    - '*.wmz'
     - '*.wms'
+    - '*.wmz'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -66803,9 +66803,9 @@ formats:
     - wmf
     - Microsoft Windows Metafile File Format Summary
     extensions:
-    - '*.wmz'
     - '*.wmf'
     - '*.apm'
+    - '*.wmz'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -66859,8 +66859,8 @@ formats:
   windows registry:
     egff: []
     extensions:
-    - '*.reg'
     - '*.dat'
+    - '*.reg'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -66884,9 +66884,9 @@ formats:
   windows resource script:
     egff: []
     extensions:
+    - '*.rc2'
     - '*.rct'
     - '*.rc'
-    - '*.rc2'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -67013,8 +67013,8 @@ formats:
     egff: []
     extensions:
     - '*.fxr'
-    - '*.fxs'
     - '*.fxm'
+    - '*.fxs'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -67103,16 +67103,16 @@ formats:
   winstep workshelf theme:
     egff: []
     extensions:
-    - '*.wsn'
-    - '*.wsp'
-    - '*.wsa'
-    - '*.wsw'
-    - '*.wsf'
-    - '*.nxs'
-    - '*.wsm'
-    - '*.wsr'
-    - '*.wsc'
     - '*.wsy'
+    - '*.wsc'
+    - '*.nxs'
+    - '*.wsf'
+    - '*.wsp'
+    - '*.wsm'
+    - '*.wsn'
+    - '*.wsw'
+    - '*.wsa'
+    - '*.wsr'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -67329,10 +67329,10 @@ formats:
   wordcruncher:
     egff: []
     extensions:
-    - '*.erlu'
-    - '*.etb'
-    - '*.erl'
     - '*.etbu'
+    - '*.erlu'
+    - '*.erl'
+    - '*.etb'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -67345,12 +67345,12 @@ formats:
   wordperfect:
     egff: []
     extensions:
-    - '*.wp4'
-    - '*.wpd'
-    - '*.wp'
-    - '*.wp6'
     - '*.wp7'
     - '*.wp5'
+    - '*.wp'
+    - '*.wpd'
+    - '*.wp4'
+    - '*.wp6'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -67390,8 +67390,8 @@ formats:
   wordperfect macro:
     egff: []
     extensions:
-    - '*.wpm'
     - '*.wcm'
+    - '*.wpm'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -67415,9 +67415,9 @@ formats:
   wordstar:
     egff: []
     extensions:
+    - '*.wsd'
     - '*.ws'
     - '*.ws3'
-    - '*.wsd'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -67804,18 +67804,18 @@ formats:
   x3d:
     egff: []
     extensions:
-    - '*.x3dv'
-    - '*.x3dz'
     - '*.x3dvz'
-    - '*.x3db'
+    - '*.x3dz'
     - '*.x3dbz'
+    - '*.x3db'
+    - '*.x3dv'
     - '*.x3d'
     fdd: []
     hasMagic: false
     mimetypes:
     - model/x3d+vrml
-    - model/x3d+binary
     - model/x3d+xml
+    - model/x3d+binary
     name: X3D
     pronom:
     - fmt/579
@@ -67914,8 +67914,8 @@ formats:
   xar (vector graphics):
     egff: []
     extensions:
-    - '*.web'
     - '*.xar'
+    - '*.web'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -67959,8 +67959,8 @@ formats:
     - xbm
     - XBM File Format Summary
     extensions:
-    - '*.bm'
     - '*.xbm'
+    - '*.bm'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -68361,8 +68361,8 @@ formats:
   xip:
     egff: []
     extensions:
-    - '*.xip'
     - '*.xar'
+    - '*.xip'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -68750,10 +68750,10 @@ formats:
     - xpm
     - XPM File Format Summary
     extensions:
-    - '*.h'
-    - '*.xpm'
-    - '*.c'
     - '*.pm'
+    - '*.c'
+    - '*.xpm'
+    - '*.h'
     fdd: []
     hasMagic: false
     mimetypes:
@@ -69205,16 +69205,16 @@ formats:
   z-code:
     egff: []
     extensions:
-    - '*.z4'
-    - '*.z6'
     - '*.z3'
-    - '*.z2'
-    - '*.zip'
     - '*.z8'
-    - '*.z1'
     - '*.z7'
+    - '*.z6'
     - '*.z5'
     - '*.dat'
+    - '*.zip'
+    - '*.z4'
+    - '*.z2'
+    - '*.z1'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -69935,8 +69935,8 @@ formats:
   zxt/zax:
     egff: []
     extensions:
-    - '*.zax'
     - '*.zxt'
+    - '*.zax'
     fdd: []
     hasMagic: false
     mimetypes: []
@@ -69975,8 +69975,8 @@ formats:
   zzt:
     egff: []
     extensions:
-    - '*.zzt'
     - '*.szt'
+    - '*.zzt'
     fdd: []
     hasMagic: false
     mimetypes: []

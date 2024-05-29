@@ -18,8 +18,8 @@ formats:
     supertype: null
   fmt/100:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - text/html; version="4.01"
@@ -113,8 +113,8 @@ formats:
     - '*.xml'
     hasMagic: true
     mimetypes:
-    - application/xml; version="1.0"
     - text/xml; version="1.0"
+    - application/xml; version="1.0"
     name: Extensible Markup Language 1.0
     primary_mimetype: application/xml; version="1.0"
     source: droid-signature-file.xml#L53759
@@ -162,8 +162,8 @@ formats:
     supertype: null
   fmt/1015:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Windows) Generic
@@ -171,8 +171,8 @@ formats:
     supertype: null
   fmt/1016:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Unix) Generic
@@ -180,8 +180,8 @@ formats:
     supertype: null
   fmt/1017:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Windows) 8.2
@@ -189,8 +189,8 @@ formats:
     supertype: null
   fmt/1018:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Unix) 8.2
@@ -198,8 +198,8 @@ formats:
     supertype: null
   fmt/1019:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Windows) 9.2
@@ -207,8 +207,8 @@ formats:
     supertype: null
   fmt/102:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - application/xhtml+xml; version="1.0"
@@ -218,8 +218,8 @@ formats:
     supertype: application/xhtml+xml
   fmt/1020:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Unix) 9.2
@@ -227,8 +227,8 @@ formats:
     supertype: null
   fmt/1021:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Windows) 9.3
@@ -236,8 +236,8 @@ formats:
     supertype: null
   fmt/1022:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Unix) 9.3
@@ -307,8 +307,8 @@ formats:
     supertype: null
   fmt/103:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - application/xhtml+xml; version="1.1"
@@ -416,8 +416,8 @@ formats:
     supertype: null
   fmt/1041:
     extensions:
-    - '*.h4'
     - '*.hdf'
+    - '*.h4'
     hasMagic: true
     mimetypes: []
     name: HDF 1-4
@@ -508,8 +508,8 @@ formats:
     supertype: null
   fmt/1051:
     extensions:
-    - '*.jnt'
     - '*.jtp'
+    - '*.jnt'
     hasMagic: true
     mimetypes: []
     name: Windows Journal Format
@@ -708,13 +708,13 @@ formats:
     supertype: null
   fmt/1073:
     extensions:
-    - '*.gdraw'
-    - '*.gdoc'
+    - '*.gsheet'
     - '*.gslides'
+    - '*.gdraw'
+    - '*.gmap'
     - '*.gsite'
     - '*.gform'
-    - '*.gsheet'
-    - '*.gmap'
+    - '*.gdoc'
     hasMagic: true
     mimetypes: []
     name: Google Document Link File
@@ -823,8 +823,8 @@ formats:
     supertype: null
   fmt/1085:
     extensions:
-    - '*.tr5'
     - '*.txt'
+    - '*.tr5'
     hasMagic: true
     mimetypes: []
     name: TRIM Context Reference File
@@ -840,8 +840,8 @@ formats:
     supertype: null
   fmt/1087:
     extensions:
-    - '*.dsk'
     - '*.img'
+    - '*.dsk'
     - '*.ima'
     hasMagic: true
     mimetypes: []
@@ -895,8 +895,8 @@ formats:
     supertype: null
   fmt/1092:
     extensions:
-    - '*.ico'
     - '*.pix'
+    - '*.ico'
     hasMagic: true
     mimetypes: []
     name: Alias Pix Image File
@@ -1149,8 +1149,8 @@ formats:
     supertype: null
   fmt/112:
     extensions:
-    - '*.jpg'
     - '*.spf'
+    - '*.jpg'
     hasMagic: true
     mimetypes:
     - image/jpeg; version="1.0"
@@ -1195,10 +1195,10 @@ formats:
     supertype: null
   fmt/1124:
     extensions:
-    - '*.ogwu'
-    - '*.opju'
     - '*.ogmu'
+    - '*.opju'
     - '*.oggu'
+    - '*.ogwu'
     hasMagic: true
     mimetypes: []
     name: Origin Project Format Unicode
@@ -1273,8 +1273,8 @@ formats:
     supertype: null
   fmt/1132:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes: []
     name: Netscape Bookmark File Format
@@ -1298,8 +1298,8 @@ formats:
     supertype: null
   fmt/1135:
     extensions:
-    - '*.sqlite'
     - '*.db'
+    - '*.sqlite'
     hasMagic: true
     mimetypes: []
     name: SQLite Database File Format 2
@@ -1327,8 +1327,8 @@ formats:
     supertype: application/vnd.vectorworks
   fmt/1138:
     extensions:
-    - '*.mcd'
     - '*.vwx'
+    - '*.mcd'
     hasMagic: true
     mimetypes:
     - application/vnd.vectorworks; version="8"
@@ -1379,9 +1379,9 @@ formats:
     supertype: application/vnd.vectorworks
   fmt/1142:
     extensions:
-    - '*.vso'
     - '*.vsm'
     - '*.vst'
+    - '*.vso'
     hasMagic: true
     mimetypes:
     - application/vnd.vectorworks
@@ -1451,8 +1451,8 @@ formats:
     supertype: null
   fmt/115:
     extensions:
-    - '*.dib'
     - '*.bmp'
+    - '*.dib'
     hasMagic: true
     mimetypes:
     - image/bmp; version="2.0"
@@ -1471,8 +1471,8 @@ formats:
     supertype: null
   fmt/1151:
     extensions:
-    - '*.lw'
     - '*.lw1'
+    - '*.lw'
     hasMagic: true
     mimetypes: []
     name: Lightwright Show File 1
@@ -1544,8 +1544,8 @@ formats:
     supertype: null
   fmt/116:
     extensions:
-    - '*.dib'
     - '*.bmp'
+    - '*.dib'
     hasMagic: true
     mimetypes:
     - image/bmp; version="3.0"
@@ -1628,8 +1628,8 @@ formats:
     supertype: null
   fmt/1169:
     extensions:
-    - '*.ico'
     - '*.iff'
+    - '*.ico'
     hasMagic: true
     mimetypes: []
     name: Maya IFF Image File
@@ -1637,8 +1637,8 @@ formats:
     supertype: null
   fmt/117:
     extensions:
-    - '*.dib'
     - '*.bmp'
+    - '*.dib'
     hasMagic: true
     mimetypes:
     - image/bmp; version="3.0 NT"
@@ -1672,8 +1672,8 @@ formats:
     supertype: font/woff2
   fmt/1173:
     extensions:
-    - '*.md5'
     - '*.framemd5'
+    - '*.md5'
     hasMagic: true
     mimetypes: []
     name: FrameMD5
@@ -1732,8 +1732,8 @@ formats:
     supertype: null
   fmt/118:
     extensions:
-    - '*.dib'
     - '*.bmp'
+    - '*.dib'
     hasMagic: true
     mimetypes:
     - image/bmp; version="4.0"
@@ -1825,8 +1825,8 @@ formats:
     supertype: null
   fmt/119:
     extensions:
-    - '*.dib'
     - '*.bmp'
+    - '*.dib'
     hasMagic: true
     mimetypes:
     - image/bmp; version="5.0"
@@ -1997,10 +1997,10 @@ formats:
     supertype: null
   fmt/1208:
     extensions:
-    - '*.nms'
-    - '*.cmo'
-    - '*.vmo'
     - '*.nmo'
+    - '*.vmo'
+    - '*.cmo'
+    - '*.nms'
     hasMagic: true
     mimetypes: []
     name: Virtools File Format
@@ -2068,16 +2068,16 @@ formats:
     supertype: null
   fmt/1215:
     extensions:
-    - '*.img'
-    - '*.sml'
+    - '*.sig'
     - '*.fft'
     - '*.aux'
+    - '*.img'
     - '*.gcc'
-    - '*.rrd'
     - '*.aoi'
-    - '*.cff'
-    - '*.sig'
     - '*.ovr'
+    - '*.sml'
+    - '*.rrd'
+    - '*.cff'
     hasMagic: true
     mimetypes: []
     name: Reduced Resolution Dataset
@@ -2199,10 +2199,10 @@ formats:
     supertype: null
   fmt/1228:
     extensions:
-    - '*.ft2'
-    - '*.pipe'
     - '*.ft3'
     - '*.dat'
+    - '*.ft2'
+    - '*.pipe'
     hasMagic: true
     mimetypes: []
     name: NMRPipe
@@ -2311,9 +2311,9 @@ formats:
     supertype: null
   fmt/124:
     extensions:
+    - '*.ps'
     - '*.epsf'
     - '*.eps'
-    - '*.ps'
     hasMagic: true
     mimetypes:
     - application/postscript; version="3"
@@ -2507,8 +2507,8 @@ formats:
     supertype: null
   fmt/1259:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 1
@@ -2526,8 +2526,8 @@ formats:
     supertype: application/vnd.ms-powerpoint
   fmt/1260:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 2
@@ -2535,8 +2535,8 @@ formats:
     supertype: null
   fmt/1261:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 3
@@ -2544,8 +2544,8 @@ formats:
     supertype: null
   fmt/1262:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 4
@@ -2553,8 +2553,8 @@ formats:
     supertype: null
   fmt/1263:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 5
@@ -2562,8 +2562,8 @@ formats:
     supertype: null
   fmt/1264:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 6
@@ -2571,8 +2571,8 @@ formats:
     supertype: null
   fmt/1265:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 7
@@ -2580,8 +2580,8 @@ formats:
     supertype: null
   fmt/1266:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 8
@@ -2589,8 +2589,8 @@ formats:
     supertype: null
   fmt/1267:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 13
@@ -2598,8 +2598,8 @@ formats:
     supertype: null
   fmt/1268:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 14
@@ -2607,8 +2607,8 @@ formats:
     supertype: null
   fmt/1269:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 15
@@ -2626,8 +2626,8 @@ formats:
     supertype: application/vnd.sun.xml.draw
   fmt/1270:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 16
@@ -2635,8 +2635,8 @@ formats:
     supertype: null
   fmt/1271:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 17
@@ -2644,8 +2644,8 @@ formats:
     supertype: null
   fmt/1272:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 18
@@ -2653,8 +2653,8 @@ formats:
     supertype: null
   fmt/1273:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document 19
@@ -2839,8 +2839,8 @@ formats:
     supertype: null
   fmt/1293:
     extensions:
-    - '*.wpd'
     - '*.wpt'
+    - '*.wpd'
     hasMagic: false
     mimetypes: []
     name: 602Text Document
@@ -2888,20 +2888,20 @@ formats:
     supertype: null
   fmt/1299:
     extensions:
-    - '*.pda'
-    - '*.pdl'
-    - '*.pcc'
     - '*.pds'
-    - '*.pho'
-    - '*.pdc'
-    - '*.ppi'
-    - '*.pso'
     - '*.pcp'
-    - '*.pdp'
-    - '*.pce'
+    - '*.pdc'
     - '*.pcb'
-    - '*.pdb'
+    - '*.pho'
+    - '*.ppi'
+    - '*.pce'
     - '*.pdg'
+    - '*.pso'
+    - '*.pda'
+    - '*.pcc'
+    - '*.pdl'
+    - '*.pdp'
+    - '*.pdb'
     hasMagic: true
     mimetypes: []
     name: Broderbund Print Shop Deluxe 5-6
@@ -2929,26 +2929,26 @@ formats:
     supertype: application/vnd.sun.xml.impress
   fmt/1300:
     extensions:
-    - '*.web'
-    - '*.sti'
-    - '*.pcr'
-    - '*.car'
-    - '*.not'
-    - '*.lbl'
-    - '*.cal'
-    - '*.tsh'
     - '*.sig'
-    - '*.let'
-    - '*.ban'
-    - '*.nws'
-    - '*.cer'
     - '*.hcr'
-    - '*.cft'
+    - '*.nws'
     - '*.fax'
+    - '*.not'
+    - '*.let'
+    - '*.sti'
+    - '*.cal'
     - '*.bro'
-    - '*.env'
+    - '*.tsh'
+    - '*.lbl'
     - '*.biz'
+    - '*.car'
+    - '*.env'
+    - '*.cer'
+    - '*.web'
+    - '*.cft'
     - '*.php'
+    - '*.ban'
+    - '*.pcr'
     hasMagic: false
     mimetypes: []
     name: Broderbund The Print Shop/PrintMaster/American Greetings Project 10-23
@@ -2964,11 +2964,11 @@ formats:
     supertype: null
   fmt/1302:
     extensions:
-    - '*.car'
-    - '*.cal'
     - '*.sig'
     - '*.let'
     - '*.ban'
+    - '*.car'
+    - '*.cal'
     hasMagic: true
     mimetypes: []
     name: PrintMaster Gold Project 1
@@ -3099,9 +3099,9 @@ formats:
     supertype: null
   fmt/1317:
     extensions:
+    - '*.qxt'
     - '*.qwd'
     - '*.qxd'
-    - '*.qxt'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress; version="3.1"
@@ -3111,9 +3111,9 @@ formats:
     supertype: application/vnd.Quark.QuarkXPress
   fmt/1318:
     extensions:
+    - '*.qxt'
     - '*.qwd'
     - '*.qxd'
-    - '*.qxt'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress; version="3.3"
@@ -3123,9 +3123,9 @@ formats:
     supertype: application/vnd.Quark.QuarkXPress
   fmt/1319:
     extensions:
+    - '*.qxt'
     - '*.qwd'
     - '*.qxd'
-    - '*.qxt'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress; version="4"
@@ -3135,8 +3135,8 @@ formats:
     supertype: application/vnd.Quark.QuarkXPress
   fmt/132:
     extensions:
-    - '*.wma'
     - '*.asf'
+    - '*.wma'
     hasMagic: true
     mimetypes:
     - audio/x-ms-wma
@@ -3146,9 +3146,9 @@ formats:
     supertype: null
   fmt/1320:
     extensions:
+    - '*.qxt'
     - '*.qwd'
     - '*.qxd'
-    - '*.qxt'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress; version="5"
@@ -3297,8 +3297,8 @@ formats:
     supertype: null
   fmt/1333:
     extensions:
-    - '*.amd'
     - '*.amu'
+    - '*.amd'
     hasMagic: true
     mimetypes: []
     name: Sony PictureGear Studio PhotoAlbum
@@ -3315,8 +3315,8 @@ formats:
     supertype: null
   fmt/1335:
     extensions:
-    - '*.bxt'
     - '*.bxu'
+    - '*.bxt'
     hasMagic: true
     mimetypes: []
     name: Sony PictureGear Studio Binder
@@ -3376,8 +3376,8 @@ formats:
     supertype: application/vnd.bdoc-1.0
   fmt/1341:
     extensions:
-    - '*.scs'
     - '*.asics'
+    - '*.scs'
     hasMagic: false
     mimetypes:
     - application/vnd.etsi.asic-s+zip
@@ -3387,8 +3387,8 @@ formats:
     supertype: null
   fmt/1342:
     extensions:
-    - '*.bdoc'
     - '*.asice'
+    - '*.bdoc'
     hasMagic: false
     mimetypes:
     - application/vnd.etsi.asic-e+zip; version="2.x"
@@ -3422,10 +3422,10 @@ formats:
     supertype: null
   fmt/1346:
     extensions:
+    - '*.rft'
     - '*.rvt'
     - '*.rte'
     - '*.rfa'
-    - '*.rft'
     hasMagic: false
     mimetypes: []
     name: Autodesk Revit File 4
@@ -3433,9 +3433,9 @@ formats:
     supertype: null
   fmt/1347:
     extensions:
+    - '*.rft'
     - '*.rvt'
     - '*.rte'
-    - '*.rft'
     hasMagic: false
     mimetypes: []
     name: Autodesk Revit Project File 2008
@@ -3443,8 +3443,8 @@ formats:
     supertype: null
   fmt/1348:
     extensions:
-    - '*.rfa'
     - '*.rft'
+    - '*.rfa'
     hasMagic: false
     mimetypes: []
     name: Autodesk Revit Family File 2008
@@ -3452,8 +3452,8 @@ formats:
     supertype: null
   fmt/1349:
     extensions:
-    - '*.rfa'
     - '*.rft'
+    - '*.rfa'
     hasMagic: false
     mimetypes: []
     name: Autodesk Revit Family File 2010
@@ -3477,8 +3477,8 @@ formats:
     supertype: null
   fmt/1351:
     extensions:
-    - '*.rfa'
     - '*.rft'
+    - '*.rfa'
     hasMagic: false
     mimetypes: []
     name: Autodesk Revit Family File 2019
@@ -3486,8 +3486,8 @@ formats:
     supertype: null
   fmt/1352:
     extensions:
-    - '*.fbk'
     - '*.ftw'
+    - '*.fbk'
     hasMagic: false
     mimetypes: []
     name: FamilyTree Maker Database 1-4
@@ -3495,8 +3495,8 @@ formats:
     supertype: null
   fmt/1353:
     extensions:
-    - '*.fbk'
     - '*.ftw'
+    - '*.fbk'
     hasMagic: false
     mimetypes: []
     name: FamilyTree Maker Database 5-16
@@ -3647,8 +3647,8 @@ formats:
     supertype: null
   fmt/137:
     extensions:
-    - '*.ots'
     - '*.ods'
+    - '*.ots'
     hasMagic: true
     mimetypes:
     - application/vnd.oasis.opendocument.spreadsheet; version="1.0"
@@ -3837,8 +3837,8 @@ formats:
     supertype: image/vnd.dxf
   fmt/139:
     extensions:
-    - '*.odg'
     - '*.otg'
+    - '*.odg'
     hasMagic: true
     mimetypes:
     - application/vnd.oasis.opendocument.graphics; version="1.0"
@@ -3969,8 +3969,8 @@ formats:
     supertype: application/x-js-taro
   fmt/1401:
     extensions:
-    - '*.rp'
     - '*.rpt'
+    - '*.rp'
     hasMagic: true
     mimetypes: []
     name: Student Writing Center Report
@@ -4046,8 +4046,8 @@ formats:
     supertype: null
   fmt/141:
     extensions:
-    - '*.wav'
     - '*.wave'
+    - '*.wav'
     hasMagic: true
     mimetypes:
     - audio/x-wav
@@ -4132,8 +4132,8 @@ formats:
   fmt/1419:
     extensions:
     - '*.cph'
-    - '*.cpo'
     - '*.cpd'
+    - '*.cpo'
     hasMagic: false
     mimetypes: []
     name: Corel Print House/Print Office Document 3
@@ -4141,8 +4141,8 @@ formats:
     supertype: null
   fmt/142:
     extensions:
-    - '*.wav'
     - '*.wave'
+    - '*.wav'
     hasMagic: true
     mimetypes:
     - audio/x-wav
@@ -4153,8 +4153,8 @@ formats:
   fmt/1420:
     extensions:
     - '*.cph'
-    - '*.cpo'
     - '*.cpd'
+    - '*.cpo'
     hasMagic: false
     mimetypes: []
     name: Corel Print House/Print Office Document 4
@@ -4163,8 +4163,8 @@ formats:
   fmt/1421:
     extensions:
     - '*.cph'
-    - '*.cpo'
     - '*.cpd'
+    - '*.cpo'
     hasMagic: false
     mimetypes: []
     name: Corel Print House/Print Office Document 5
@@ -4234,8 +4234,8 @@ formats:
     supertype: null
   fmt/143:
     extensions:
-    - '*.wav'
     - '*.wave'
+    - '*.wav'
     hasMagic: true
     mimetypes:
     - audio/x-wav
@@ -4342,9 +4342,9 @@ formats:
     supertype: null
   fmt/1441:
     extensions:
+    - '*.iwa'
     - '*.key'
     - '*.numbers'
-    - '*.iwa'
     - '*.template'
     - '*.pages'
     hasMagic: false
@@ -4372,9 +4372,9 @@ formats:
     supertype: application/vnd.Quark.QuarkXPress
   fmt/1444:
     extensions:
+    - '*.qxt'
     - '*.qwd'
     - '*.qxd'
-    - '*.qxt'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress; version="3.2"
@@ -4459,8 +4459,8 @@ formats:
     - '*.123'
     hasMagic: true
     mimetypes:
-    - application/vnd.lotus-1-2-3; version="97"
     - application/x-123; version="97"
+    - application/vnd.lotus-1-2-3; version="97"
     name: Lotus 1-2-3 Worksheet 97
     primary_mimetype: application/vnd.lotus-1-2-3; version="97"
     source: droid-signature-file.xml#L61971
@@ -4470,8 +4470,8 @@ formats:
     - '*.123'
     hasMagic: true
     mimetypes:
-    - application/vnd.lotus-1-2-3; version="9.8 Millennium"
     - application/x-123; version="9.8 Millennium"
+    - application/vnd.lotus-1-2-3; version="9.8 Millennium"
     name: Lotus 1-2-3 Worksheet 9.8 Millennium
     primary_mimetype: application/vnd.lotus-1-2-3; version="9.8 Millennium"
     source: droid-signature-file.xml#L61977
@@ -4504,9 +4504,9 @@ formats:
     supertype: null
   fmt/1457:
     extensions:
+    - '*.opxt'
     - '*.ops'
     - '*.opx'
-    - '*.opxt'
     hasMagic: true
     mimetypes: []
     name: OrgPlus File
@@ -4560,11 +4560,11 @@ formats:
     supertype: null
   fmt/1462:
     extensions:
-    - '*.cbz'
+    - '*.cb7'
+    - '*.cba'
     - '*.cbt'
     - '*.cbr'
-    - '*.cba'
-    - '*.cb7'
+    - '*.cbz'
     hasMagic: false
     mimetypes: []
     name: Comic Book Archive
@@ -4611,10 +4611,10 @@ formats:
     supertype: null
   fmt/1468:
     extensions:
-    - '*.mg8'
-    - '*.mg4'
     - '*.mg1'
+    - '*.mg4'
     - '*.mg2'
+    - '*.mg8'
     hasMagic: true
     mimetypes: []
     name: multiArtist File
@@ -4622,8 +4622,8 @@ formats:
     supertype: null
   fmt/1469:
     extensions:
-    - '*.mag'
     - '*.mki'
+    - '*.mag'
     - '*.max'
     hasMagic: true
     mimetypes: []
@@ -4814,10 +4814,10 @@ formats:
     supertype: null
   fmt/1487:
     extensions:
-    - '*.tlmp'
+    - '*.tlm3'
     - '*.tlm4'
     - '*.tlm'
-    - '*.tlm3'
+    - '*.tlmp'
     hasMagic: true
     mimetypes: []
     name: Timeline Maker Document
@@ -5026,8 +5026,8 @@ formats:
   fmt/1508:
     extensions:
     - '*.vsd'
-    - '*.vss'
     - '*.vst'
+    - '*.vss'
     hasMagic: true
     mimetypes:
     - application/vnd.visio; version="2"
@@ -5038,8 +5038,8 @@ formats:
   fmt/1509:
     extensions:
     - '*.vsd'
-    - '*.vss'
     - '*.vst'
+    - '*.vss'
     hasMagic: false
     mimetypes:
     - application/vnd.visio; version="3"
@@ -5061,9 +5061,9 @@ formats:
   fmt/1510:
     extensions:
     - '*.vsd'
-    - '*.vsw'
-    - '*.vss'
     - '*.vst'
+    - '*.vss'
+    - '*.vsw'
     hasMagic: false
     mimetypes:
     - application/vnd.visio; version="4"
@@ -5149,9 +5149,9 @@ formats:
     supertype: null
   fmt/1519:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing 6
@@ -5159,8 +5159,8 @@ formats:
     supertype: null
   fmt/152:
     extensions:
-    - '*.tiff'
     - '*.tif'
+    - '*.tiff'
     - '*.dng'
     hasMagic: true
     mimetypes:
@@ -5172,9 +5172,9 @@ formats:
     supertype: image/dng
   fmt/1520:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing 7
@@ -5182,9 +5182,9 @@ formats:
     supertype: null
   fmt/1521:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing 8
@@ -5192,9 +5192,9 @@ formats:
     supertype: null
   fmt/1522:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing X2
@@ -5202,9 +5202,9 @@ formats:
     supertype: null
   fmt/1523:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing X3
@@ -5212,9 +5212,9 @@ formats:
     supertype: null
   fmt/1524:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing X4
@@ -5222,9 +5222,9 @@ formats:
     supertype: null
   fmt/1525:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing X5
@@ -5232,9 +5232,9 @@ formats:
     supertype: null
   fmt/1526:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing X6
@@ -5242,9 +5242,9 @@ formats:
     supertype: null
   fmt/1527:
     extensions:
-    - '*.dpx'
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
+    - '*.dpx'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing X8
@@ -5252,8 +5252,8 @@ formats:
     supertype: null
   fmt/1528:
     extensions:
-    - '*.dpp'
     - '*.dpa'
+    - '*.dpp'
     hasMagic: false
     mimetypes: []
     name: Serif DrawPlus Drawing Generic
@@ -5562,8 +5562,8 @@ formats:
     supertype: null
   fmt/156:
     extensions:
-    - '*.tiff'
     - '*.tfx'
+    - '*.tiff'
     - '*.tif'
     hasMagic: false
     mimetypes:
@@ -5606,8 +5606,8 @@ formats:
     supertype: null
   fmt/1564:
     extensions:
-    - '*.sce'
     - '*.asice'
+    - '*.sce'
     hasMagic: false
     mimetypes:
     - application/vnd.etsi.asic-e+zip
@@ -5707,8 +5707,8 @@ formats:
     supertype: null
   fmt/1575:
     extensions:
-    - '*.spc'
     - '*.sps'
+    - '*.spc'
     hasMagic: true
     mimetypes: []
     name: Spectrum 512 Compressed | Spectrum 512 Smooshed
@@ -6192,8 +6192,8 @@ formats:
     supertype: null
   fmt/1628:
     extensions:
-    - '*.indd'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document 1.0
@@ -6201,9 +6201,9 @@ formats:
     supertype: null
   fmt/1629:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document 1.5
@@ -6219,9 +6219,9 @@ formats:
     supertype: null
   fmt/1630:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document 2.0
@@ -6229,9 +6229,9 @@ formats:
     supertype: null
   fmt/1631:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS5.5
@@ -6239,9 +6239,9 @@ formats:
     supertype: null
   fmt/1632:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC
@@ -6249,9 +6249,9 @@ formats:
     supertype: null
   fmt/1633:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2014
@@ -6259,9 +6259,9 @@ formats:
     supertype: null
   fmt/1634:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2015
@@ -6269,9 +6269,9 @@ formats:
     supertype: null
   fmt/1635:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2017
@@ -6279,9 +6279,9 @@ formats:
     supertype: null
   fmt/1636:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2018
@@ -6289,9 +6289,9 @@ formats:
     supertype: null
   fmt/1637:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2019
@@ -6299,9 +6299,9 @@ formats:
     supertype: null
   fmt/1638:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2020
@@ -6309,9 +6309,9 @@ formats:
     supertype: null
   fmt/1639:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2021
@@ -6326,9 +6326,9 @@ formats:
     supertype: null
   fmt/1640:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2022
@@ -6433,8 +6433,8 @@ formats:
     supertype: null
   fmt/1652:
     extensions:
-    - '*.tsx'
     - '*.ts'
+    - '*.tsx'
     hasMagic: false
     mimetypes: []
     name: Typescript
@@ -6442,8 +6442,8 @@ formats:
     supertype: null
   fmt/1653:
     extensions:
-    - '*.seq'
     - '*.pac'
+    - '*.seq'
     hasMagic: true
     mimetypes: []
     name: STAD PAC File
@@ -6484,8 +6484,8 @@ formats:
     supertype: null
   fmt/1658:
     extensions:
-    - '*.max'
     - '*.xlp'
+    - '*.max'
     hasMagic: true
     mimetypes: []
     name: XL-Paint MaX
@@ -6518,9 +6518,9 @@ formats:
   fmt/1661:
     extensions:
     - '*.s01'
-    - '*.u01'
     - '*.f01'
     - '*.w01'
+    - '*.u01'
     hasMagic: true
     mimetypes: []
     name: Yamaha Wave Audio Generic
@@ -6528,29 +6528,29 @@ formats:
     supertype: null
   fmt/1662:
     extensions:
-    - '*.w11'
-    - '*.w02'
-    - '*.w08'
-    - '*.w03'
-    - '*.w13'
-    - '*.w01'
-    - '*.w21'
-    - '*.w05'
+    - '*.w22'
+    - '*.w10'
     - '*.w07'
-    - '*.w06'
-    - '*.w09'
+    - '*.w11'
+    - '*.w16'
+    - '*.w17'
+    - '*.w05'
+    - '*.w03'
+    - '*.w14'
+    - '*.w02'
     - '*.w20'
+    - '*.w01'
+    - '*.w06'
+    - '*.w12'
+    - '*.txw'
+    - '*.w19'
+    - '*.w21'
+    - '*.w08'
     - '*.w15'
     - '*.w18'
-    - '*.w17'
-    - '*.w12'
-    - '*.w14'
-    - '*.w10'
     - '*.w04'
-    - '*.w19'
-    - '*.w16'
-    - '*.txw'
-    - '*.w22'
+    - '*.w09'
+    - '*.w13'
     hasMagic: true
     mimetypes: []
     name: Yamaha TX Wave Audio
@@ -6655,9 +6655,9 @@ formats:
     supertype: null
   fmt/1674:
     extensions:
+    - '*.zyx'
     - '*.ad2'
     - '*.zvd'
-    - '*.zyx'
     hasMagic: true
     mimetypes: []
     name: ZyXEL Voice Format Audio
@@ -6665,8 +6665,8 @@ formats:
     supertype: null
   fmt/1675:
     extensions:
-    - '*.type'
     - '*.lib'
+    - '*.type'
     hasMagic: true
     mimetypes: []
     name: IntelliFont Font File
@@ -6674,12 +6674,12 @@ formats:
     supertype: null
   fmt/1676:
     extensions:
-    - '*.cvx'
-    - '*.v3s'
-    - '*.v2s'
-    - '*.v8'
-    - '*.vmf'
     - '*.v4s'
+    - '*.v2s'
+    - '*.v3s'
+    - '*.vmf'
+    - '*.v8'
+    - '*.cvx'
     hasMagic: true
     mimetypes: []
     name: Covox ADPCM Audio Files
@@ -6874,8 +6874,8 @@ formats:
     supertype: null
   fmt/1697:
     extensions:
-    - '*.bak'
     - '*.tc6'
+    - '*.bak'
     hasMagic: true
     mimetypes: []
     name: Calc602 Spreadsheet file 1.51
@@ -6883,8 +6883,8 @@ formats:
     supertype: null
   fmt/1698:
     extensions:
-    - '*.bak'
     - '*.tc6'
+    - '*.bak'
     hasMagic: true
     mimetypes: []
     name: Calc602 Spreadsheet file 1.00
@@ -6977,10 +6977,10 @@ formats:
     supertype: null
   fmt/1707:
     extensions:
-    - '*.pr3'
+    - '*.at4'
     - '*.at3'
     - '*.pn4'
-    - '*.at4'
+    - '*.pr3'
     hasMagic: true
     mimetypes: []
     name: Persuasion Windows Document 3.x - 4.x
@@ -7079,8 +7079,8 @@ formats:
     supertype: null
   fmt/1718:
     extensions:
-    - '*.pmt'
     - '*.t65'
+    - '*.pmt'
     - '*.p65'
     - '*.pmd'
     hasMagic: false
@@ -7214,8 +7214,8 @@ formats:
     supertype: null
   fmt/1732:
     extensions:
-    - '*.pnt'
     - '*.tpi'
+    - '*.pnt'
     hasMagic: true
     mimetypes: []
     name: Prism Paint Bitmap
@@ -7240,8 +7240,8 @@ formats:
     supertype: null
   fmt/1735:
     extensions:
-    - '*.h'
     - '*.hxx'
+    - '*.h'
     - '*.hpp'
     hasMagic: false
     mimetypes: []
@@ -7268,8 +7268,8 @@ formats:
     supertype: ' application/vnd.isac.fcs'
   fmt/1738:
     extensions:
-    - '*.toast'
     - '*.cdr'
+    - '*.toast'
     - '*.dmg'
     - '*.iso'
     hasMagic: true
@@ -7279,8 +7279,8 @@ formats:
     supertype: null
   fmt/1739:
     extensions:
-    - '*.toast'
     - '*.cdr'
+    - '*.toast'
     - '*.dmg'
     - '*.iso'
     hasMagic: true
@@ -7297,12 +7297,12 @@ formats:
     supertype: null
   fmt/1740:
     extensions:
-    - '*.toast'
-    - '*.img'
-    - '*.cdr'
-    - '*.dmg'
     - '*.bin'
+    - '*.cdr'
+    - '*.img'
+    - '*.dmg'
     - '*.iso'
+    - '*.toast'
     hasMagic: true
     mimetypes: []
     name: Apple Partition Map Disk Image
@@ -7310,8 +7310,8 @@ formats:
     supertype: null
   fmt/1741:
     extensions:
-    - '*.toast'
     - '*.cdr'
+    - '*.toast'
     - '*.iso'
     hasMagic: true
     mimetypes: []
@@ -7320,9 +7320,9 @@ formats:
     supertype: null
   fmt/1742:
     extensions:
-    - '*.dmg'
     - '*.img'
     - '*.toast'
+    - '*.dmg'
     hasMagic: true
     mimetypes: []
     name: Hierarchical File System Plus
@@ -7463,9 +7463,9 @@ formats:
     supertype: application/vnd.oasis.opendocument.text
   fmt/1757:
     extensions:
+    - '*.iso'
     - '*.toast'
     - '*.dmg'
-    - '*.iso'
     hasMagic: true
     mimetypes: []
     name: Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image
@@ -7568,8 +7568,8 @@ formats:
   fmt/1769:
     extensions:
     - '*.cxx'
-    - '*.cc'
     - '*.cpp'
+    - '*.cc'
     hasMagic: false
     mimetypes: []
     name: C++ Source Code File
@@ -7593,8 +7593,8 @@ formats:
     supertype: null
   fmt/1771:
     extensions:
-    - '*.xml'
     - '*.aux.xml'
+    - '*.xml'
     hasMagic: true
     mimetypes: []
     name: ESRI Persistent Auxiliary Metadata File
@@ -7610,8 +7610,8 @@ formats:
     supertype: null
   fmt/1773:
     extensions:
-    - '*.bak'
     - '*.tc6'
+    - '*.bak'
     hasMagic: true
     mimetypes: []
     name: Calc602 Spreadsheet File
@@ -7638,8 +7638,8 @@ formats:
     - '*.xml'
     hasMagic: true
     mimetypes:
-    - text/xml; version="1.1"
     - application/xml; version="1.1"
+    - text/xml; version="1.1"
     name: Extensible Markup Language 1.1
     primary_mimetype: application/xml; version="1.1"
     source: droid-signature-file.xml#L63679
@@ -7728,8 +7728,8 @@ formats:
   fmt/1786:
     extensions:
     - '*.fp2'
-    - '*.fun'
     - '*.vic'
+    - '*.fun'
     hasMagic: true
     mimetypes: []
     name: Funpaint Image File
@@ -7773,8 +7773,8 @@ formats:
   fmt/1790:
     extensions:
     - '*.hlp'
-    - '*.dta'
     - '*.dat'
+    - '*.dta'
     hasMagic: true
     mimetypes: []
     name: Help Librarian File
@@ -7922,8 +7922,8 @@ formats:
     supertype: null
   fmt/1805:
     extensions:
-    - '*.mda'
     - '*.mdb'
+    - '*.mda'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 1.0
@@ -7931,8 +7931,8 @@ formats:
     supertype: null
   fmt/1806:
     extensions:
-    - '*.mda'
     - '*.mdb'
+    - '*.mda'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 1.1
@@ -7940,8 +7940,8 @@ formats:
     supertype: null
   fmt/1807:
     extensions:
-    - '*.mda'
     - '*.mdb'
+    - '*.mda'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Encrypted Database File 1.0
@@ -7949,8 +7949,8 @@ formats:
     supertype: null
   fmt/1808:
     extensions:
-    - '*.mda'
     - '*.mdb'
+    - '*.mda'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Encrypted Database File 1.1
@@ -7958,8 +7958,8 @@ formats:
     supertype: null
   fmt/1809:
     extensions:
-    - '*.mda'
     - '*.mdb'
+    - '*.mda'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Encrypted Database File 2.0
@@ -8271,8 +8271,8 @@ formats:
     - '*.dng'
     hasMagic: true
     mimetypes:
-    - image/tiff; version="1.5"
     - image/dng; version="1.5"
+    - image/tiff; version="1.5"
     name: Digital Negative Format (DNG) 1.5
     primary_mimetype: image/dng; version="1.5"
     source: droid-signature-file.xml#L64002
@@ -8282,8 +8282,8 @@ formats:
     - '*.dng'
     hasMagic: true
     mimetypes:
-    - image/dng; version="1.6"
     - image/tiff; version="1.6"
+    - image/dng; version="1.6"
     name: Digital Negative Format (DNG) 1.6
     primary_mimetype: image/dng; version="1.6"
     source: droid-signature-file.xml#L64016
@@ -8314,8 +8314,8 @@ formats:
     supertype: null
   fmt/1846:
     extensions:
-    - '*.spmd'
     - '*.fountain'
+    - '*.spmd'
     hasMagic: false
     mimetypes: []
     name: Fountain Markup Language File
@@ -8465,8 +8465,8 @@ formats:
     supertype: null
   fmt/1862:
     extensions:
-    - '*.ait'
     - '*.ai'
+    - '*.ait'
     hasMagic: true
     mimetypes: []
     name: Adobe Illustrator CC Artwork 17-23
@@ -8474,8 +8474,8 @@ formats:
     supertype: null
   fmt/1863:
     extensions:
-    - '*.ait'
     - '*.ai'
+    - '*.ait'
     hasMagic: true
     mimetypes: []
     name: Adobe Illustrator CC 2020 Artwork 24-24.1
@@ -8483,8 +8483,8 @@ formats:
     supertype: null
   fmt/1864:
     extensions:
-    - '*.ait'
     - '*.ai'
+    - '*.ait'
     hasMagic: true
     mimetypes: []
     name: Adobe Illustrator CC 2020 Artwork 24.2+
@@ -8551,8 +8551,8 @@ formats:
     supertype: null
   fmt/1871:
     extensions:
-    - '*.cif'
     - '*.mca'
+    - '*.cif'
     hasMagic: true
     mimetypes: []
     name: Common Interface File
@@ -8586,8 +8586,8 @@ formats:
     supertype: null
   fmt/1875:
     extensions:
-    - '*.bsb'
     - '*.kap'
+    - '*.bsb'
     hasMagic: true
     mimetypes: []
     name: Maptech BSB Documentation File
@@ -8619,8 +8619,8 @@ formats:
     supertype: null
   fmt/1879:
     extensions:
-    - '*.vcard'
     - '*.vcf'
+    - '*.vcard'
     hasMagic: true
     mimetypes:
     - text/vcard; version="2.1"
@@ -8638,8 +8638,8 @@ formats:
     supertype: null
   fmt/1880:
     extensions:
-    - '*.vcard'
     - '*.vcf'
+    - '*.vcard'
     hasMagic: true
     mimetypes:
     - text/vcard; version="3"
@@ -8649,8 +8649,8 @@ formats:
     supertype: text/vcard
   fmt/1881:
     extensions:
-    - '*.vcard'
     - '*.vcf'
+    - '*.vcard'
     hasMagic: true
     mimetypes:
     - text/vcard; version="4"
@@ -8773,8 +8773,8 @@ formats:
     supertype: null
   fmt/1895:
     extensions:
-    - '*.rtt'
     - '*.rtd'
+    - '*.rtt'
     hasMagic: true
     mimetypes: []
     name: RagTime Document File 4-6
@@ -8955,8 +8955,8 @@ formats:
     supertype: application/pdf
   fmt/1913:
     extensions:
-    - '*.pla'
     - '*.pln'
+    - '*.pla'
     hasMagic: true
     mimetypes: []
     name: Graphisoft Archicad Project 17+
@@ -8987,9 +8987,9 @@ formats:
     supertype: null
   fmt/1917:
     extensions:
+    - '*.tf8'
     - '*.btf'
     - '*.tif'
-    - '*.tf8'
     hasMagic: true
     mimetypes: []
     name: BigTIFF
@@ -9153,12 +9153,12 @@ formats:
     supertype: null
   fmt/1935:
     extensions:
-    - '*.002'
+    - '*.004'
+    - '*.000'
     - '*.001'
     - '*.003'
     - '*.006'
-    - '*.004'
-    - '*.000'
+    - '*.002'
     hasMagic: true
     mimetypes: []
     name: S-57 Electronic Navigational Chart 3.1
@@ -9166,8 +9166,8 @@ formats:
     supertype: null
   fmt/1936:
     extensions:
-    - '*.map'
     - '*.csf'
+    - '*.map'
     hasMagic: true
     mimetypes: []
     name: PCRaster
@@ -9175,10 +9175,10 @@ formats:
     supertype: null
   fmt/1937:
     extensions:
-    - '*.mobi'
     - '*.amr'
-    - '*.azw3'
     - '*.azw'
+    - '*.azw3'
+    - '*.mobi'
     hasMagic: true
     mimetypes: []
     name: Amazon Kindle eBook File
@@ -9220,9 +9220,9 @@ formats:
     supertype: null
   fmt/1941:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2023
@@ -9230,9 +9230,9 @@ formats:
     supertype: null
   fmt/1942:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CC 2024
@@ -9274,9 +9274,9 @@ formats:
     supertype: null
   fmt/196:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS
@@ -9292,9 +9292,9 @@ formats:
     supertype: null
   fmt/198:
     extensions:
+    - '*.mp2'
     - '*.mpa'
     - '*.mpw'
-    - '*.mp2'
     hasMagic: true
     mimetypes:
     - audio/mpeg
@@ -9304,15 +9304,15 @@ formats:
     supertype: null
   fmt/199:
     extensions:
-    - '*.f4v'
-    - '*.m4a'
-    - '*.f4a'
     - '*.m4v'
     - '*.mp4'
+    - '*.m4a'
+    - '*.f4v'
+    - '*.f4a'
     hasMagic: true
     mimetypes:
-    - application/mp4
     - video/mp4
+    - application/mp4
     name: MPEG-4 Media File
     primary_mimetype: application/mp4
     source: droid-signature-file.xml#L55230
@@ -9386,8 +9386,8 @@ formats:
     supertype: null
   fmt/205:
     extensions:
-    - '*.smi'
     - '*.smil'
+    - '*.smi'
     hasMagic: true
     mimetypes: []
     name: Synchronized Multimedia Integration Language (Generic)
@@ -10078,24 +10078,24 @@ formats:
     supertype: null
   fmt/282:
     extensions:
-    - '*.cdf'
     - '*.nc'
+    - '*.cdf'
     hasMagic: true
     mimetypes:
-    - application/netcdf
     - application/x-netcdf
+    - application/netcdf
     name: netCDF-3 Classic
     primary_mimetype: application/netcdf
     source: droid-signature-file.xml#L55569
     supertype: null
   fmt/283:
     extensions:
-    - '*.cdf'
     - '*.nc'
+    - '*.cdf'
     hasMagic: true
     mimetypes:
-    - application/netcdf
     - application/x-netcdf
+    - application/netcdf
     name: netCDF-3 64-bit
     primary_mimetype: application/netcdf
     source: droid-signature-file.xml#L55576
@@ -10121,9 +10121,9 @@ formats:
   fmt/286:
     extensions:
     - '*.h5'
-    - '*.hdf'
-    - '*.nc'
     - '*.hdf5'
+    - '*.nc'
+    - '*.hdf'
     hasMagic: true
     mimetypes: []
     name: HDF5 1
@@ -10132,9 +10132,9 @@ formats:
   fmt/287:
     extensions:
     - '*.h5'
-    - '*.hdf'
-    - '*.nc'
     - '*.hdf5'
+    - '*.nc'
+    - '*.hdf'
     hasMagic: true
     mimetypes: []
     name: HDF5 2
@@ -10213,8 +10213,8 @@ formats:
     supertype: application/vnd.oasis.opendocument.presentation
   fmt/294:
     extensions:
-    - '*.ots'
     - '*.ods'
+    - '*.ots'
     hasMagic: true
     mimetypes:
     - application/vnd.oasis.opendocument.spreadsheet; version="1.1"
@@ -10224,8 +10224,8 @@ formats:
     supertype: application/vnd.oasis.opendocument.spreadsheet
   fmt/295:
     extensions:
-    - '*.ots'
     - '*.ods'
+    - '*.ots'
     hasMagic: true
     mimetypes:
     - application/vnd.oasis.opendocument.spreadsheet; version="1.2"
@@ -10235,8 +10235,8 @@ formats:
     supertype: application/vnd.oasis.opendocument.spreadsheet
   fmt/296:
     extensions:
-    - '*.odg'
     - '*.otg'
+    - '*.odg'
     hasMagic: true
     mimetypes:
     - application/vnd.oasis.opendocument.graphics; version="1.1"
@@ -10246,8 +10246,8 @@ formats:
     supertype: application/vnd.oasis.opendocument.graphics
   fmt/297:
     extensions:
-    - '*.odg'
     - '*.otg'
+    - '*.odg'
     hasMagic: true
     mimetypes:
     - application/vnd.oasis.opendocument.graphics; version="1.2"
@@ -10444,8 +10444,8 @@ formats:
     supertype: application/x-ofx
   fmt/314:
     extensions:
-    - '*.sid'
     - '*.psid'
+    - '*.sid'
     hasMagic: true
     mimetypes:
     - audio/prs.sid; version="1"
@@ -10455,8 +10455,8 @@ formats:
     supertype: audio/prs.sid
   fmt/315:
     extensions:
-    - '*.sid'
     - '*.psid'
+    - '*.sid'
     hasMagic: true
     mimetypes:
     - audio/prs.sid; version="2"
@@ -10476,8 +10476,8 @@ formats:
     supertype: null
   fmt/317:
     extensions:
-    - '*.dir'
     - '*.dxr'
+    - '*.dir'
     hasMagic: true
     mimetypes:
     - application/x-director; version="Macintosh"
@@ -10499,8 +10499,8 @@ formats:
     supertype: null
   fmt/319:
     extensions:
-    - '*.sbn'
     - '*.sbx'
+    - '*.sbn'
     hasMagic: true
     mimetypes: []
     name: ESRI Spatial Index File
@@ -10573,8 +10573,8 @@ formats:
     - '*.enz'
     hasMagic: true
     mimetypes:
-    - application/x-endnote-connect
     - application/x-endnote-connection
+    - application/x-endnote-connect
     name: EndNote Connection File
     primary_mimetype: application/x-endnote-connect
     source: droid-signature-file.xml#L55847
@@ -10637,8 +10637,8 @@ formats:
     supertype: null
   fmt/332:
     extensions:
-    - '*.def'
     - '*.apr'
+    - '*.def'
     hasMagic: true
     mimetypes: []
     name: ESRI Arc/View Project 3.x
@@ -10678,8 +10678,8 @@ formats:
     supertype: null
   fmt/337:
     extensions:
-    - '*.mjp2'
     - '*.mj2'
+    - '*.mjp2'
     hasMagic: true
     mimetypes:
     - video/mj2
@@ -10698,8 +10698,8 @@ formats:
     supertype: null
   fmt/339:
     extensions:
-    - '*.8svx'
     - '*.iff'
+    - '*.8svx'
     hasMagic: true
     mimetypes: []
     name: Interchange File Format 8-bit Sampled Voice
@@ -10729,8 +10729,8 @@ formats:
   fmt/341:
     extensions:
     - '*.pic'
-    - '*.pct'
     - '*.pict'
+    - '*.pct'
     hasMagic: true
     mimetypes:
     - image/x-pict; version="2.0"
@@ -10892,8 +10892,8 @@ formats:
     supertype: null
   fmt/357:
     extensions:
-    - '*.3gpp'
     - '*.3gp'
+    - '*.3gpp'
     hasMagic: true
     mimetypes:
     - audio/3gpp
@@ -10992,16 +10992,16 @@ formats:
     supertype: application/vnd.nitf
   fmt/367:
     extensions:
-    - '*.pgw'
-    - '*.jgw'
-    - '*.tifw'
     - '*.tfw'
-    - '*.btw'
-    - '*.rasterw'
+    - '*.jgw'
     - '*.bpw'
     - '*.jpgw'
-    - '*.blw'
+    - '*.btw'
+    - '*.pgw'
+    - '*.rasterw'
+    - '*.tifw'
     - '*.bilw'
+    - '*.blw'
     hasMagic: false
     mimetypes: []
     name: ESRI World File Format
@@ -11154,9 +11154,9 @@ formats:
     supertype: null
   fmt/383:
     extensions:
-    - '*.vicar'
     - '*.img'
     - '*.vic'
+    - '*.vicar'
     hasMagic: true
     mimetypes: []
     name: VICAR (Video Image Communication and Retrieval) Planetary File Format
@@ -11268,8 +11268,8 @@ formats:
     supertype: null
   fmt/395:
     extensions:
-    - '*.vcard'
     - '*.vcf'
+    - '*.vcard'
     hasMagic: true
     mimetypes:
     - text/vcard
@@ -11350,10 +11350,10 @@ formats:
     supertype: null
   fmt/402:
     extensions:
-    - '*.vst'
-    - '*.vda'
     - '*.tga'
     - '*.icb'
+    - '*.vst'
+    - '*.vda'
     hasMagic: true
     mimetypes: []
     name: Truevision TGA Bitmap 2.0
@@ -11421,12 +11421,12 @@ formats:
     supertype: null
   fmt/41:
     extensions:
-    - '*.jpeg'
-    - '*.jfi'
-    - '*.jfif'
     - '*.jpg'
     - '*.jpe'
     - '*.jif'
+    - '*.jfi'
+    - '*.jfif'
+    - '*.jpeg'
     hasMagic: true
     mimetypes:
     - image/jpeg
@@ -11475,8 +11475,8 @@ formats:
     supertype: null
   fmt/414:
     extensions:
-    - '*.aif'
     - '*.aiff'
+    - '*.aif'
     hasMagic: true
     mimetypes: []
     name: Audio Interchange File Format
@@ -11530,12 +11530,12 @@ formats:
     supertype: application/postscript
   fmt/42:
     extensions:
-    - '*.jpeg'
-    - '*.jfi'
-    - '*.jfif'
     - '*.jpg'
     - '*.jpe'
     - '*.jif'
+    - '*.jfi'
+    - '*.jfif'
+    - '*.jpeg'
     hasMagic: true
     mimetypes:
     - image/jpeg; version="1.00"
@@ -11565,8 +11565,8 @@ formats:
     supertype: application/postscript
   fmt/422:
     extensions:
-    - '*.eps'
     - '*.ai'
+    - '*.eps'
     hasMagic: true
     mimetypes:
     - application/postscript; version="6.0"
@@ -11634,12 +11634,12 @@ formats:
     supertype: null
   fmt/43:
     extensions:
-    - '*.jpeg'
-    - '*.jfi'
-    - '*.jfif'
     - '*.jpg'
     - '*.jpe'
     - '*.jif'
+    - '*.jfi'
+    - '*.jfif'
+    - '*.jpeg'
     hasMagic: true
     mimetypes:
     - image/jpeg; version="1.01"
@@ -11706,8 +11706,8 @@ formats:
     - '*.dng'
     hasMagic: true
     mimetypes:
-    - image/tiff; version="1.0"
     - image/dng; version="1.0"
+    - image/tiff; version="1.0"
     name: Digital Negative Format (DNG) 1.0
     primary_mimetype: image/dng; version="1.0"
     source: droid-signature-file.xml#L56502
@@ -11743,12 +11743,12 @@ formats:
     supertype: null
   fmt/44:
     extensions:
-    - '*.jpeg'
-    - '*.jfi'
-    - '*.jfif'
     - '*.jpg'
     - '*.jpe'
     - '*.jif'
+    - '*.jfi'
+    - '*.jfif'
+    - '*.jpeg'
     hasMagic: true
     mimetypes:
     - image/jpeg; version="1.02"
@@ -11956,10 +11956,10 @@ formats:
     supertype: null
   fmt/461:
     extensions:
-    - '*.pdd'
     - '*.ddd'
     - '*.did'
     - '*.wld'
+    - '*.pdd'
     hasMagic: true
     mimetypes: []
     name: Verity Collection Index Descriptor File
@@ -12016,11 +12016,11 @@ formats:
     supertype: null
   fmt/468:
     extensions:
-    - '*.toast'
+    - '*.bin'
     - '*.cdr'
     - '*.dmg'
-    - '*.bin'
     - '*.iso'
+    - '*.toast'
     hasMagic: true
     mimetypes: []
     name: ISO 9660 Disk Image File
@@ -12051,8 +12051,8 @@ formats:
     supertype: null
   fmt/471:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - text/html; version="5"
@@ -12285,9 +12285,9 @@ formats:
     supertype: null
   fmt/494:
     extensions:
+    - '*.xlsx'
     - '*.pptx'
     - '*.docx'
-    - '*.xlsx'
     hasMagic: false
     mimetypes: []
     name: Microsoft Office Encrypted Document 2007 Onwards
@@ -12352,8 +12352,8 @@ formats:
     - '*.rtf'
     hasMagic: true
     mimetypes:
-    - application/rtf; version="1.5-1.6"
     - text/rtf; version="1.5-1.6"
+    - application/rtf; version="1.5-1.6"
     name: Rich Text Format 1.5-1.6
     primary_mimetype: application/rtf; version="1.5-1.6"
     source: droid-signature-file.xml#L53714
@@ -12822,9 +12822,9 @@ formats:
     supertype: null
   fmt/548:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS2
@@ -12832,9 +12832,9 @@ formats:
     supertype: null
   fmt/549:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS3
@@ -12852,9 +12852,9 @@ formats:
     supertype: application/vnd.ms-excel
   fmt/550:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS4
@@ -12862,9 +12862,9 @@ formats:
     supertype: null
   fmt/551:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS5
@@ -12872,9 +12872,9 @@ formats:
     supertype: null
   fmt/552:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes: []
     name: Adobe InDesign Document CS6
@@ -12922,8 +12922,8 @@ formats:
     supertype: application/vnd.ms-excel
   fmt/557:
     extensions:
-    - '*.eps'
     - '*.ai'
+    - '*.eps'
     hasMagic: true
     mimetypes:
     - application/postscript; version="8.0"
@@ -12933,8 +12933,8 @@ formats:
     supertype: application/postscript
   fmt/558:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="9.0"
@@ -12944,8 +12944,8 @@ formats:
     supertype: application/postscript
   fmt/559:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="10.0"
@@ -12965,8 +12965,8 @@ formats:
     supertype: application/vnd.ms-excel
   fmt/560:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="11.0"
@@ -12976,8 +12976,8 @@ formats:
     supertype: application/postscript
   fmt/561:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="12.0"
@@ -12987,8 +12987,8 @@ formats:
     supertype: application/postscript
   fmt/562:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="13.0"
@@ -12998,8 +12998,8 @@ formats:
     supertype: application/postscript
   fmt/563:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="14.0"
@@ -13009,8 +13009,8 @@ formats:
     supertype: application/postscript
   fmt/564:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="15.0"
@@ -13020,8 +13020,8 @@ formats:
     supertype: application/postscript
   fmt/565:
     extensions:
-    - '*.ai'
     - '*.pdf'
+    - '*.ai'
     hasMagic: true
     mimetypes:
     - application/postscript; version="16.0"
@@ -13061,10 +13061,10 @@ formats:
     supertype: webp/image
   fmt/569:
     extensions:
-    - '*.mks'
-    - '*.mka'
-    - '*.mk3d'
     - '*.mkv'
+    - '*.mk3d'
+    - '*.mka'
+    - '*.mks'
     hasMagic: true
     mimetypes: []
     name: Matroska 1-4
@@ -13200,9 +13200,9 @@ formats:
     supertype: null
   fmt/583:
     extensions:
+    - '*.html'
     - '*.vml'
     - '*.htm'
-    - '*.html'
     hasMagic: true
     mimetypes: []
     name: Vector Markup Language
@@ -13211,9 +13211,9 @@ formats:
   fmt/584:
     extensions:
     - '*.wax'
-    - '*.wmx'
-    - '*.asx'
     - '*.wvx'
+    - '*.asx'
+    - '*.wmx'
     hasMagic: true
     mimetypes: []
     name: Windows Media Metafile
@@ -13221,9 +13221,9 @@ formats:
     supertype: null
   fmt/585:
     extensions:
-    - '*.m2ts'
-    - '*.ts'
     - '*.m2t'
+    - '*.ts'
+    - '*.m2ts'
     hasMagic: true
     mimetypes: []
     name: MPEG-2 Transport Stream
@@ -13265,8 +13265,8 @@ formats:
     supertype: null
   fmt/59:
     extensions:
-    - '*.xls'
     - '*.xlw'
+    - '*.xls'
     hasMagic: false
     mimetypes:
     - application/vnd.ms-excel; version="5/95"
@@ -13289,8 +13289,8 @@ formats:
     extensions:
     - '*.pic'
     - '*.rgbe'
-    - '*.xyze'
     - '*.hdr'
+    - '*.xyze'
     hasMagic: true
     mimetypes:
     - image/vnd.radiance
@@ -13456,8 +13456,8 @@ formats:
     supertype: null
   fmt/607:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Windows) 9.1
@@ -13465,8 +13465,8 @@ formats:
     supertype: null
   fmt/608:
     extensions:
-    - '*.sd7'
     - '*.sas7bdat'
+    - '*.sd7'
     hasMagic: true
     mimetypes: []
     name: Statistical Analysis System Data (Unix) 9.1
@@ -13484,8 +13484,8 @@ formats:
     supertype: application/msword
   fmt/61:
     extensions:
-    - '*.xls'
     - '*.xlw'
+    - '*.xls'
     hasMagic: true
     mimetypes:
     - application/vnd.ms-excel; version="8"
@@ -13511,9 +13511,9 @@ formats:
     supertype: null
   fmt/612:
     extensions:
-    - '*.msf'
     - '*.mab'
     - '*.dat'
+    - '*.msf'
     hasMagic: true
     mimetypes: []
     name: Mork
@@ -13531,8 +13531,8 @@ formats:
     supertype: application/vnd.rar
   fmt/614:
     extensions:
-    - '*.swm'
     - '*.wim'
+    - '*.swm'
     hasMagic: true
     mimetypes: []
     name: Windows Imaging Format
@@ -13588,8 +13588,8 @@ formats:
     supertype: application/vnd.geogebra.file
   fmt/62:
     extensions:
-    - '*.xls'
     - '*.xlw'
+    - '*.xls'
     hasMagic: true
     mimetypes:
     - application/vnd.ms-excel; version="8X"
@@ -13645,10 +13645,10 @@ formats:
     supertype: null
   fmt/625:
     extensions:
-    - '*.smi'
-    - '*.dmg'
     - '*.img'
     - '*.image'
+    - '*.smi'
+    - '*.dmg'
     hasMagic: true
     mimetypes: []
     name: Apple Disk Copy Image 4.2
@@ -13656,8 +13656,8 @@ formats:
     supertype: null
   fmt/626:
     extensions:
-    - '*.lzh'
     - '*.lha'
+    - '*.lzh'
     hasMagic: true
     mimetypes: []
     name: LHA File Format
@@ -13814,9 +13814,9 @@ formats:
     supertype: image/vnd.dxf
   fmt/640:
     extensions:
-    - '*.m2v'
-    - '*.mpg'
     - '*.mpeg'
+    - '*.mpg'
+    - '*.m2v'
     hasMagic: true
     mimetypes: []
     name: MPEG-2 Elementary Stream
@@ -13894,8 +13894,8 @@ formats:
   fmt/649:
     extensions:
     - '*.m1v'
-    - '*.mpg'
     - '*.mpeg'
+    - '*.mpg'
     hasMagic: true
     mimetypes: []
     name: MPEG-1 Elementary Stream
@@ -13913,9 +13913,9 @@ formats:
     supertype: image/vnd.dxf
   fmt/650:
     extensions:
-    - '*.xtg'
     - '*.qxp%20report'
     - '*.qxp report'
+    - '*.xtg'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress
@@ -14111,12 +14111,12 @@ formats:
   fmt/670:
     extensions:
     - '*.p7b'
-    - '*.p7s'
     - '*.p7m'
+    - '*.p7s'
     hasMagic: true
     mimetypes:
-    - application/pkcs7-mime
     - application/pkcs7-signature
+    - application/pkcs7-mime
     name: 'PKCS #7 Cryptographic Message File'
     primary_mimetype: application/pkcs7-mime
     source: droid-signature-file.xml#L57940
@@ -14279,8 +14279,8 @@ formats:
     supertype: null
   fmt/688:
     extensions:
-    - '*.o'
     - '*.elf'
+    - '*.o'
     hasMagic: true
     mimetypes: []
     name: Executable and Linkable Format 32bit Little Endian
@@ -14288,8 +14288,8 @@ formats:
     supertype: null
   fmt/689:
     extensions:
-    - '*.o'
     - '*.elf'
+    - '*.o'
     hasMagic: true
     mimetypes: []
     name: Executable and Linkable Format 32bit Big Endian
@@ -14307,8 +14307,8 @@ formats:
     supertype: image/vnd.dxf
   fmt/690:
     extensions:
-    - '*.o'
     - '*.elf'
+    - '*.o'
     hasMagic: true
     mimetypes: []
     name: Executable and Linkable Format 64bit Little Endian
@@ -14316,8 +14316,8 @@ formats:
     supertype: null
   fmt/691:
     extensions:
-    - '*.o'
     - '*.elf'
+    - '*.o'
     hasMagic: true
     mimetypes: []
     name: Executable and Linkable Format 64bit Big Endian
@@ -14490,8 +14490,8 @@ formats:
     supertype: audio/x-wav
   fmt/709:
     extensions:
-    - '*.wav'
     - '*.rf64'
+    - '*.wav'
     hasMagic: true
     mimetypes:
     - audio/x-wav; version="0 WAVEFORMATEXTENSIBLE Encoding"
@@ -14511,8 +14511,8 @@ formats:
     supertype: image/vnd.dxf
   fmt/710:
     extensions:
-    - '*.wav'
     - '*.rf64'
+    - '*.wav'
     hasMagic: true
     mimetypes:
     - audio/x-wav; version="1 WAVEFORMATEXTENSIBLE Encoding"
@@ -14532,8 +14532,8 @@ formats:
     supertype: audio/x-wav
   fmt/712:
     extensions:
-    - '*.wav'
     - '*.rf64'
+    - '*.wav'
     hasMagic: true
     mimetypes: []
     name: RF64
@@ -14541,8 +14541,8 @@ formats:
     supertype: null
   fmt/713:
     extensions:
-    - '*.wav'
     - '*.rf64'
+    - '*.wav'
     hasMagic: true
     mimetypes: []
     name: RF64 Multichannel Broadcast Wave format
@@ -14671,8 +14671,8 @@ formats:
     supertype: null
   fmt/727:
     extensions:
-    - '*.cpi'
     - '*.cpc'
+    - '*.cpi'
     hasMagic: true
     mimetypes: []
     name: Cartesian Perceptual Compression image format
@@ -14688,10 +14688,10 @@ formats:
     supertype: null
   fmt/729:
     extensions:
-    - '*.sqlite3'
-    - '*.db3'
     - '*.db'
+    - '*.sqlite3'
     - '*.sqlite'
+    - '*.db3'
     hasMagic: true
     mimetypes:
     - application/x-sqlite3; version="3"
@@ -14730,8 +14730,8 @@ formats:
     supertype: null
   fmt/732:
     extensions:
-    - '*.bk2'
     - '*.bik2'
+    - '*.bk2'
     hasMagic: true
     mimetypes:
     - video/vnd.radgamettools.bink; version="2"
@@ -15197,8 +15197,8 @@ formats:
   fmt/779:
     extensions:
     - '*.cap'
-    - '*.pcap'
     - '*.dmp'
+    - '*.pcap'
     hasMagic: true
     mimetypes:
     - application/vnd.tcpdump.pcap
@@ -15490,9 +15490,9 @@ formats:
   fmt/807:
     extensions:
     - '*.h5'
-    - '*.hdf'
-    - '*.nc'
     - '*.hdf5'
+    - '*.nc'
+    - '*.hdf'
     hasMagic: true
     mimetypes: []
     name: HDF5 0
@@ -15627,8 +15627,8 @@ formats:
     supertype: null
   fmt/821:
     extensions:
-    - '*.g71'
     - '*.g64'
+    - '*.g71'
     - '*.g41'
     hasMagic: true
     mimetypes: []
@@ -15646,10 +15646,10 @@ formats:
   fmt/823:
     extensions:
     - '*.p03'
-    - '*.p00'
     - '*.p04'
-    - '*.p02'
     - '*.p01'
+    - '*.p02'
+    - '*.p00'
     hasMagic: true
     mimetypes: []
     name: P00 C64 Image Format
@@ -15825,10 +15825,10 @@ formats:
   fmt/842:
     extensions:
     - '*.ad4'
-    - '*.ad2'
     - '*.ad1'
-    - '*.ad5'
     - '*.ad3'
+    - '*.ad5'
+    - '*.ad2'
     hasMagic: true
     mimetypes: []
     name: AccessData Custom Content Image
@@ -15837,10 +15837,10 @@ formats:
   fmt/843:
     extensions:
     - '*.ad4'
-    - '*.ad2'
     - '*.ad1'
-    - '*.ad5'
     - '*.ad3'
+    - '*.ad5'
+    - '*.ad2'
     hasMagic: true
     mimetypes: []
     name: AccessData Custom Content Image (Encrypted)
@@ -15906,9 +15906,9 @@ formats:
     supertype: image/vnd.dxf
   fmt/850:
     extensions:
-    - '*.bxy'
     - '*.sdk'
     - '*.shk'
+    - '*.bxy'
     hasMagic: true
     mimetypes: []
     name: NuFile Exchange Archival Library
@@ -15964,8 +15964,8 @@ formats:
     supertype: null
   fmt/857:
     extensions:
-    - '*.nwc'
     - '*.nwd'
+    - '*.nwc'
     hasMagic: true
     mimetypes: []
     name: Navisworks Document Generic
@@ -15973,8 +15973,8 @@ formats:
     supertype: null
   fmt/858:
     extensions:
-    - '*.nwc'
     - '*.nwd'
+    - '*.nwc'
     hasMagic: true
     mimetypes: []
     name: Navisworks Document 2010
@@ -15982,8 +15982,8 @@ formats:
     supertype: null
   fmt/859:
     extensions:
-    - '*.nwc'
     - '*.nwd'
+    - '*.nwc'
     hasMagic: true
     mimetypes: []
     name: Navisworks Document 2011
@@ -15991,8 +15991,8 @@ formats:
     supertype: null
   fmt/86:
     extensions:
-    - '*.pcc'
     - '*.pcx'
+    - '*.pcc'
     hasMagic: true
     mimetypes:
     - image/vnd.zbrush.pcx; version="0"
@@ -16002,8 +16002,8 @@ formats:
     supertype: image/vnd.zbrush.pcx
   fmt/860:
     extensions:
-    - '*.nwc'
     - '*.nwd'
+    - '*.nwc'
     hasMagic: true
     mimetypes: []
     name: Navisworks Document 2012
@@ -16083,8 +16083,8 @@ formats:
     supertype: null
   fmt/87:
     extensions:
-    - '*.pcc'
     - '*.pcx'
+    - '*.pcc'
     hasMagic: true
     mimetypes:
     - image/vnd.zbrush.pcx; version="2"
@@ -16180,10 +16180,10 @@ formats:
     supertype: null
   fmt/879:
     extensions:
-    - '*.f90'
-    - '*.for'
     - '*.f95'
+    - '*.f90'
     - '*.f'
+    - '*.for'
     - '*.f03'
     hasMagic: false
     mimetypes: []
@@ -16192,8 +16192,8 @@ formats:
     supertype: null
   fmt/88:
     extensions:
-    - '*.pcc'
     - '*.pcx'
+    - '*.pcc'
     hasMagic: true
     mimetypes:
     - image/vnd.zbrush.pcx; version="3"
@@ -16269,10 +16269,10 @@ formats:
     supertype: null
   fmt/888:
     extensions:
-    - '*.qst'
-    - '*.qsd'
     - '*.qsm'
+    - '*.qst'
     - '*.qsl'
+    - '*.qsd'
     hasMagic: true
     mimetypes: []
     name: QuadriSpace Format
@@ -16288,8 +16288,8 @@ formats:
     supertype: null
   fmt/89:
     extensions:
-    - '*.pcc'
     - '*.pcx'
+    - '*.pcc'
     hasMagic: true
     mimetypes:
     - image/vnd.zbrush.pcx; version="4"
@@ -16315,11 +16315,11 @@ formats:
     supertype: null
   fmt/892:
     extensions:
-    - '*.wpd'
-    - '*.wp'
-    - '*.wp6'
-    - '*.w60'
     - '*.doc'
+    - '*.wp'
+    - '*.wpd'
+    - '*.w60'
+    - '*.wp6'
     hasMagic: false
     mimetypes:
     - application/vnd.wordperfect; version="6 onwards"
@@ -16382,8 +16382,8 @@ formats:
     supertype: null
   fmt/899:
     extensions:
-    - '*.dll'
     - '*.exe'
+    - '*.dll'
     - '*.sys'
     hasMagic: true
     mimetypes:
@@ -16401,8 +16401,8 @@ formats:
     supertype: null
   fmt/90:
     extensions:
-    - '*.pcc'
     - '*.pcx'
+    - '*.pcc'
     hasMagic: true
     mimetypes:
     - image/vnd.zbrush.pcx; version="5"
@@ -16412,8 +16412,8 @@ formats:
     supertype: image/vnd.zbrush.pcx
   fmt/900:
     extensions:
-    - '*.dll'
     - '*.exe'
+    - '*.dll'
     - '*.sys'
     hasMagic: true
     mimetypes:
@@ -16530,8 +16530,8 @@ formats:
     supertype: null
   fmt/913:
     extensions:
-    - '*.scn'
     - '*.cob'
+    - '*.scn'
     hasMagic: true
     mimetypes: []
     name: Caligari trueSpace File Format ASCII
@@ -16539,8 +16539,8 @@ formats:
     supertype: null
   fmt/914:
     extensions:
-    - '*.scn'
     - '*.cob'
+    - '*.scn'
     hasMagic: true
     mimetypes: []
     name: Caligari trueSpace File Format Binary
@@ -16565,9 +16565,9 @@ formats:
     supertype: null
   fmt/917:
     extensions:
+    - '*.amiramesh'
     - '*.hx'
     - '*.am'
-    - '*.amiramesh'
     hasMagic: true
     mimetypes: []
     name: AmiraMesh ASCII 1.0
@@ -16575,9 +16575,9 @@ formats:
     supertype: null
   fmt/918:
     extensions:
+    - '*.amiramesh'
     - '*.hx'
     - '*.am'
-    - '*.amiramesh'
     hasMagic: true
     mimetypes: []
     name: AmiraMesh 3D ASCII 2.0
@@ -16585,9 +16585,9 @@ formats:
     supertype: null
   fmt/919:
     extensions:
+    - '*.amiramesh'
     - '*.hx'
     - '*.am'
-    - '*.amiramesh'
     hasMagic: true
     mimetypes: []
     name: AmiraMesh 3D Binary 2.0
@@ -16605,9 +16605,9 @@ formats:
     supertype: image/svg+xml
   fmt/920:
     extensions:
+    - '*.amiramesh'
     - '*.hx'
     - '*.am'
-    - '*.amiramesh'
     hasMagic: true
     mimetypes: []
     name: AmiraMesh 3D Binary Little Endian 2.0
@@ -16615,9 +16615,9 @@ formats:
     supertype: null
   fmt/921:
     extensions:
+    - '*.amiramesh'
     - '*.hx'
     - '*.am'
-    - '*.amiramesh'
     hasMagic: true
     mimetypes: []
     name: AmiraMesh Binary Little Endian 2.1
@@ -16852,9 +16852,9 @@ formats:
   fmt/944:
     extensions:
     - '*.ogv'
-    - '*.spx'
     - '*.opus'
     - '*.ogg'
+    - '*.spx'
     hasMagic: true
     mimetypes:
     - application/ogg
@@ -16879,8 +16879,8 @@ formats:
     - '*.ogg'
     hasMagic: true
     mimetypes:
-    - audio/ogg
     - audio/opus
+    - audio/ogg
     name: Ogg Opus Codec Compressed Multimedia File
     primary_mimetype: audio/ogg
     source: droid-signature-file.xml#L59390
@@ -16897,8 +16897,8 @@ formats:
     supertype: null
   fmt/948:
     extensions:
-    - '*.spx'
     - '*.ogg'
+    - '*.spx'
     hasMagic: true
     mimetypes:
     - audio/ogg
@@ -16909,8 +16909,8 @@ formats:
     supertype: null
   fmt/949:
     extensions:
-    - '*.wp4'
     - '*.wpd'
+    - '*.wp4'
     hasMagic: false
     mimetypes:
     - application/vnd.wordperfect; version="4.0/4.1/4.2"
@@ -17015,12 +17015,12 @@ formats:
     extensions:
     - '*.minipsf'
     - '*.psf1'
-    - '*.psflib'
-    - '*.minipsf1'
-    - '*.gsf'
-    - '*.gsflib'
     - '*.psf'
+    - '*.gsflib'
+    - '*.minipsf1'
     - '*.minigsf'
+    - '*.gsf'
+    - '*.psflib'
     hasMagic: true
     mimetypes: []
     name: Portable Sound Format
@@ -17028,8 +17028,8 @@ formats:
     supertype: null
   fmt/96:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - text/html
@@ -17130,8 +17130,8 @@ formats:
     supertype: application/rtf
   fmt/97:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - text/html; version="2.0"
@@ -17213,8 +17213,8 @@ formats:
     supertype: null
   fmt/978:
     extensions:
-    - '*.max'
     - '*.chr'
+    - '*.max'
     hasMagic: false
     mimetypes: []
     name: 3DS Max
@@ -17230,8 +17230,8 @@ formats:
     supertype: null
   fmt/98:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - text/html; version="3.2"
@@ -17273,11 +17273,11 @@ formats:
     supertype: null
   fmt/984:
     extensions:
-    - '*.nib'
-    - '*.aae'
-    - '*.plist'
-    - '*.iMovieProj'
     - '*.ezdraw'
+    - '*.plist'
+    - '*.nib'
+    - '*.iMovieProj'
+    - '*.aae'
     hasMagic: true
     mimetypes: []
     name: Binary Property List
@@ -17327,8 +17327,8 @@ formats:
     supertype: null
   fmt/99:
     extensions:
-    - '*.htm'
     - '*.html'
+    - '*.htm'
     hasMagic: true
     mimetypes:
     - text/html; version="4.0"
@@ -17486,9 +17486,9 @@ formats:
     - '*.sld'
     hasMagic: true
     mimetypes:
-    - image/x-sld
     - application/sld
     - application/x-sld
+    - image/x-sld
     name: AutoCAD Slide
     primary_mimetype: application/sld
     source: droid-signature-file.xml#L52331
@@ -17564,8 +17564,8 @@ formats:
   x-fmt/113:
     extensions:
     - '*.vsd'
-    - '*.vss'
     - '*.vst'
+    - '*.vss'
     hasMagic: false
     mimetypes:
     - application/vnd.visio; version="5.0"
@@ -17579,8 +17579,8 @@ formats:
     - '*.wk2'
     hasMagic: true
     mimetypes:
-    - application/x-123; version="2.0"
     - application/vnd.lotus-1-2-3; version="2.0"
+    - application/x-123; version="2.0"
     name: Lotus 1-2-3 Worksheet 2.0
     primary_mimetype: application/vnd.lotus-1-2-3; version="2.0"
     source: droid-signature-file.xml#L52372
@@ -17601,8 +17601,8 @@ formats:
     - '*.wk4'
     hasMagic: true
     mimetypes:
-    - application/vnd.lotus-1-2-3; version="4-5"
     - application/lotus123; version="4-5"
+    - application/vnd.lotus-1-2-3; version="4-5"
     name: Lotus 1-2-3 Worksheet 4-5
     primary_mimetype: application/lotus123; version="4-5"
     source: droid-signature-file.xml#L52385
@@ -17612,8 +17612,8 @@ formats:
     - '*.wks'
     hasMagic: true
     mimetypes:
-    - application/x-123; version="1.0"
     - application/vnd.lotus-1-2-3; version="1.0"
+    - application/x-123; version="1.0"
     name: Lotus 1-2-3 Worksheet 1.0
     primary_mimetype: application/vnd.lotus-1-2-3; version="1.0"
     source: droid-signature-file.xml#L52391
@@ -17652,8 +17652,8 @@ formats:
     supertype: null
   x-fmt/121:
     extensions:
-    - '*.wkq'
     - '*.wq1'
+    - '*.wkq'
     hasMagic: true
     mimetypes: []
     name: Quattro Pro Spreadsheet for DOS 1-4
@@ -17661,8 +17661,8 @@ formats:
     supertype: null
   x-fmt/122:
     extensions:
-    - '*.wkq'
     - '*.wq2'
+    - '*.wkq'
     hasMagic: true
     mimetypes: []
     name: Quattro Pro Spreadsheet for DOS 5
@@ -17670,8 +17670,8 @@ formats:
     supertype: null
   x-fmt/123:
     extensions:
-    - '*.xlm'
     - '*.xla'
+    - '*.xlm'
     hasMagic: false
     mimetypes:
     - application/vnd.ms-excel; version="4.0"
@@ -17681,8 +17681,8 @@ formats:
     supertype: application/vnd.ms-excel
   x-fmt/124:
     extensions:
-    - '*.xll'
     - '*.xla'
+    - '*.xll'
     hasMagic: false
     mimetypes: []
     name: Microsoft Excel Add-In
@@ -17729,8 +17729,8 @@ formats:
     supertype: null
   x-fmt/13:
     extensions:
-    - '*.tsv'
     - '*.tab'
+    - '*.tsv'
     hasMagic: false
     mimetypes:
     - text/tab-separated-values
@@ -17995,8 +17995,8 @@ formats:
     supertype: null
   x-fmt/158:
     extensions:
-    - '*.igs'
     - '*.iges'
+    - '*.igs'
     hasMagic: true
     mimetypes:
     - model/iges; version="5.x"
@@ -18092,13 +18092,13 @@ formats:
     supertype: null
   x-fmt/168:
     extensions:
-    - '*.pda'
-    - '*.pdl'
-    - '*.pcc'
     - '*.pds'
     - '*.pdc'
-    - '*.pdb'
     - '*.pdg'
+    - '*.pda'
+    - '*.pcc'
+    - '*.pdl'
+    - '*.pdb'
     hasMagic: true
     mimetypes: []
     name: Broderbund Print Shop Deluxe 1-4
@@ -18150,8 +18150,8 @@ formats:
     supertype: null
   x-fmt/173:
     extensions:
-    - '*.pt5'
     - '*.pm5'
+    - '*.pt5'
     hasMagic: true
     mimetypes:
     - application/vnd.pagemaker; version="5.0"
@@ -18232,8 +18232,8 @@ formats:
     supertype: null
   x-fmt/181:
     extensions:
-    - '*.pmt'
     - '*.t65'
+    - '*.pmt'
     - '*.p65'
     - '*.pmd'
     hasMagic: false
@@ -18245,15 +18245,15 @@ formats:
     supertype: application/vnd.pagemaker
   x-fmt/182:
     extensions:
-    - '*.qxp'
-    - '*.qxb'
-    - '*.qwd'
-    - '*.qpt'
-    - '*.qxl'
     - '*.qcd'
-    - '*.qwt'
     - '*.qxd'
+    - '*.qpt'
+    - '*.qxp'
+    - '*.qxl'
+    - '*.qwt'
     - '*.qxt'
+    - '*.qwd'
+    - '*.qxb'
     hasMagic: true
     mimetypes:
     - application/vnd.Quark.QuarkXPress
@@ -18266,16 +18266,16 @@ formats:
     - '*.ram'
     hasMagic: true
     mimetypes:
-    - audio/vnd.rn-realaudio
     - audio/x-pn-realaudio
+    - audio/vnd.rn-realaudio
     name: RealAudio Metafile
     primary_mimetype: audio/vnd.rn-realaudio
     source: droid-signature-file.xml#L52680
     supertype: null
   x-fmt/184:
     extensions:
-    - '*.ras'
     - '*.sun'
+    - '*.ras'
     hasMagic: true
     mimetypes:
     - image/x-sun-raster
@@ -18376,8 +18376,8 @@ formats:
     supertype: null
   x-fmt/195:
     extensions:
-    - '*.sgml'
     - '*.sgm'
+    - '*.sgml'
     hasMagic: false
     mimetypes:
     - text/sgml
@@ -18460,10 +18460,10 @@ formats:
     supertype: null
   x-fmt/203:
     extensions:
+    - '*.wp5'
     - '*.wpd'
     - '*.w52'
     - '*.wp'
-    - '*.wp5'
     hasMagic: false
     mimetypes:
     - application/vnd.wordperfect; version="5.2"
@@ -18490,9 +18490,9 @@ formats:
     supertype: null
   x-fmt/206:
     extensions:
-    - '*.ws'
-    - '*.wsw'
     - '*.wsd'
+    - '*.wsw'
+    - '*.ws'
     hasMagic: false
     mimetypes: []
     name: WordStar for Windows Document 1.0
@@ -18562,8 +18562,8 @@ formats:
   x-fmt/213:
     extensions:
     - '*.qel'
-    - '*.qdf'
     - '*.abd'
+    - '*.qdf'
     hasMagic: false
     mimetypes: []
     name: Quicken Data File
@@ -18683,28 +18683,28 @@ formats:
     supertype: null
   x-fmt/226:
     extensions:
-    - '*.e08'
-    - '*.e01'
-    - '*.e17'
-    - '*.e13'
-    - '*.e03'
-    - '*.e12'
-    - '*.e16'
-    - '*.e18'
-    - '*.e20'
-    - '*.e10'
-    - '*.e07'
     - '*.e11'
-    - '*.e15'
-    - '*.e19'
-    - '*.e00'
     - '*.e04'
-    - '*.x00'
-    - '*.e06'
+    - '*.e18'
     - '*.e14'
-    - '*.e09'
-    - '*.e02'
+    - '*.e19'
     - '*.e05'
+    - '*.e07'
+    - '*.e08'
+    - '*.e17'
+    - '*.e20'
+    - '*.e00'
+    - '*.e09'
+    - '*.e15'
+    - '*.e06'
+    - '*.e10'
+    - '*.e16'
+    - '*.e13'
+    - '*.e02'
+    - '*.e12'
+    - '*.e01'
+    - '*.e03'
+    - '*.x00'
     hasMagic: true
     mimetypes: []
     name: ESRI Arc/Info Export File
@@ -18746,8 +18746,8 @@ formats:
     supertype: null
   x-fmt/230:
     extensions:
-    - '*.midi'
     - '*.mid'
+    - '*.midi'
     hasMagic: true
     mimetypes:
     - audio/midi
@@ -18816,10 +18816,10 @@ formats:
     supertype: null
   x-fmt/238:
     extensions:
-    - '*.mda'
-    - '*.mde'
-    - '*.mdt'
     - '*.mdb'
+    - '*.mde'
+    - '*.mda'
+    - '*.mdt'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 95
@@ -18827,10 +18827,10 @@ formats:
     supertype: null
   x-fmt/239:
     extensions:
-    - '*.mda'
-    - '*.mde'
-    - '*.mdt'
     - '*.mdb'
+    - '*.mde'
+    - '*.mda'
+    - '*.mdt'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 97
@@ -18846,8 +18846,8 @@ formats:
     supertype: null
   x-fmt/240:
     extensions:
-    - '*.mde'
     - '*.mdb'
+    - '*.mde'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 2000
@@ -18855,8 +18855,8 @@ formats:
     supertype: null
   x-fmt/241:
     extensions:
-    - '*.mde'
     - '*.mdb'
+    - '*.mde'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 2002
@@ -19017,8 +19017,8 @@ formats:
   x-fmt/258:
     extensions:
     - '*.vsd'
-    - '*.vss'
     - '*.vst'
+    - '*.vss'
     hasMagic: false
     mimetypes:
     - application/vnd.visio; version="2000-2002"
@@ -19035,8 +19035,8 @@ formats:
     supertype: null
   x-fmt/26:
     extensions:
-    - '*.bp2'
     - '*.bpl'
+    - '*.bp2'
     hasMagic: false
     mimetypes: []
     name: AutoCAD Batch Plot File 1.0-R14
@@ -19053,8 +19053,8 @@ formats:
     supertype: null
   x-fmt/261:
     extensions:
-    - '*.ws'
     - '*.ws7'
+    - '*.ws'
     hasMagic: true
     mimetypes: []
     name: WordStar for MS-DOS Document 7.0
@@ -19062,8 +19062,8 @@ formats:
     supertype: null
   x-fmt/262:
     extensions:
-    - '*.ws'
     - '*.wsw'
+    - '*.ws'
     hasMagic: false
     mimetypes: []
     name: WordStar for Windows Document 2.0
@@ -19385,8 +19385,8 @@ formats:
     supertype: null
   x-fmt/295:
     extensions:
-    - '*.drt'
     - '*.drw'
+    - '*.drt'
     hasMagic: true
     mimetypes: []
     name: Micrografx Draw 4.0
@@ -19402,8 +19402,8 @@ formats:
     supertype: null
   x-fmt/297:
     extensions:
-    - '*.psp'
     - '*.pspimage'
+    - '*.psp'
     hasMagic: true
     mimetypes: []
     name: Paint Shop Pro Image 6.0
@@ -19411,8 +19411,8 @@ formats:
     supertype: null
   x-fmt/298:
     extensions:
-    - '*.psp'
     - '*.pspimage'
+    - '*.psp'
     hasMagic: true
     mimetypes: []
     name: Paint Shop Pro Image 7
@@ -19575,11 +19575,11 @@ formats:
   x-fmt/314:
     extensions:
     - '*.dt1'
-    - '*.min'
-    - '*.max'
-    - '*.dted'
     - '*.dt0'
     - '*.avg'
+    - '*.min'
+    - '*.dted'
+    - '*.max'
     - '*.dt2'
     hasMagic: true
     mimetypes: []
@@ -19612,10 +19612,10 @@ formats:
     supertype: null
   x-fmt/318:
     extensions:
-    - '*.fm'
+    - '*.fp3'
     - '*.fp'
     - '*.fmp'
-    - '*.fp3'
+    - '*.fm'
     hasMagic: true
     mimetypes:
     - application/x-filemaker; version="3"
@@ -19625,10 +19625,10 @@ formats:
     supertype: application/x-filemaker
   x-fmt/319:
     extensions:
-    - '*.fm'
     - '*.fp'
-    - '*.fp5'
     - '*.fmp'
+    - '*.fp5'
+    - '*.fm'
     hasMagic: true
     mimetypes: []
     name: FileMaker Pro Database 5
@@ -19652,8 +19652,8 @@ formats:
     supertype: null
   x-fmt/321:
     extensions:
-    - '*.fw2'
     - '*.fw'
+    - '*.fw2'
     hasMagic: false
     mimetypes: []
     name: Framework Database II
@@ -19742,8 +19742,8 @@ formats:
     supertype: null
   x-fmt/331:
     extensions:
-    - '*.fm1'
     - '*.fmt'
+    - '*.fm1'
     hasMagic: true
     mimetypes: []
     name: Lotus 1-2-3 Spreadsheet Formatting File 2.3-2.4
@@ -19789,8 +19789,8 @@ formats:
     supertype: null
   x-fmt/336:
     extensions:
-    - '*.ns2'
     - '*.nsf'
+    - '*.ns2'
     hasMagic: false
     mimetypes:
     - application/vnd.lotus-notes; version="2"
@@ -19849,8 +19849,8 @@ formats:
     supertype: application/lwp
   x-fmt/341:
     extensions:
-    - '*.dir'
     - '*.dxr'
+    - '*.dir'
     hasMagic: true
     mimetypes:
     - application/x-director; version="PC"
@@ -19861,9 +19861,9 @@ formats:
   x-fmt/342:
     extensions:
     - '*.vct'
+    - '*.pjt'
     - '*.frt'
     - '*.fpt'
-    - '*.pjt'
     hasMagic: true
     mimetypes: []
     name: Microsoft FoxPro Memo
@@ -19953,8 +19953,8 @@ formats:
     supertype: null
   x-fmt/352:
     extensions:
-    - '*.pm4'
     - '*.pt4'
+    - '*.pm4'
     hasMagic: true
     mimetypes:
     - application/vnd.pagemaker; version="4.0"
@@ -20077,12 +20077,12 @@ formats:
     supertype: null
   x-fmt/367:
     extensions:
-    - '*.tga'
-    - '*.icb'
     - '*.vda'
-    - '*.vst'
-    - '*.afi'
+    - '*.tga'
     - '*.bpx'
+    - '*.vst'
+    - '*.icb'
+    - '*.afi'
     hasMagic: true
     mimetypes: []
     name: Truevision TGA Bitmap 1.0
@@ -20251,8 +20251,8 @@ formats:
     supertype: null
   x-fmt/385:
     extensions:
-    - '*.mpg'
     - '*.mpeg'
+    - '*.mpg'
     hasMagic: true
     mimetypes:
     - video/mpeg
@@ -20262,9 +20262,9 @@ formats:
     supertype: null
   x-fmt/386:
     extensions:
+    - '*.mpeg'
     - '*.mpg'
     - '*.mod'
-    - '*.mpeg'
     hasMagic: true
     mimetypes:
     - video/mpeg
@@ -20346,11 +20346,11 @@ formats:
     supertype: null
   x-fmt/393:
     extensions:
-    - '*.w50'
-    - '*.wpd'
-    - '*.wp'
     - '*.doc'
+    - '*.w50'
     - '*.wp5'
+    - '*.wp'
+    - '*.wpd'
     hasMagic: true
     mimetypes:
     - application/vnd.wordperfect; version="5.0"
@@ -20360,11 +20360,11 @@ formats:
     supertype: application/vnd.wordperfect
   x-fmt/394:
     extensions:
-    - '*.wpd'
-    - '*.wp'
-    - '*.w51'
     - '*.doc'
     - '*.wp5'
+    - '*.wp'
+    - '*.w51'
+    - '*.wpd'
     hasMagic: true
     mimetypes:
     - application/vnd.wordperfect; version="5.1"
@@ -20542,8 +20542,8 @@ formats:
     supertype: null
   x-fmt/411:
     extensions:
-    - '*.dll'
     - '*.exe'
+    - '*.dll'
     - '*.sys'
     hasMagic: true
     mimetypes:
@@ -20617,8 +20617,8 @@ formats:
     supertype: null
   x-fmt/419:
     extensions:
-    - '*.ifo'
     - '*.bup'
+    - '*.ifo'
     hasMagic: true
     mimetypes: []
     name: DVD data file and backup data file
@@ -20729,8 +20729,8 @@ formats:
     supertype: null
   x-fmt/430:
     extensions:
-    - '*.oft'
     - '*.msg'
+    - '*.oft'
     hasMagic: true
     mimetypes: []
     name: Microsoft Outlook Email Message 97-2003
@@ -20803,13 +20803,13 @@ formats:
     supertype: null
   x-fmt/44:
     extensions:
-    - '*.w61'
-    - '*.wpd'
-    - '*.wp'
-    - '*.wp6'
-    - '*.w62'
-    - '*.w60'
     - '*.doc'
+    - '*.w61'
+    - '*.w62'
+    - '*.wp'
+    - '*.wpd'
+    - '*.w60'
+    - '*.wp6'
     hasMagic: true
     mimetypes:
     - application/vnd.wordperfect; version="6.x"
@@ -20925,9 +20925,9 @@ formats:
     supertype: null
   x-fmt/450:
     extensions:
-    - '*.indd'
     - '*.indt'
     - '*.ind'
+    - '*.indd'
     hasMagic: true
     mimetypes:
     - application/octet-stream; version="Generic"
@@ -20937,8 +20937,8 @@ formats:
     supertype: application/octet-stream
   x-fmt/451:
     extensions:
-    - '*.skp'
     - '*.skb'
+    - '*.skp'
     hasMagic: true
     mimetypes: []
     name: SketchUp Document
@@ -21010,12 +21010,12 @@ formats:
     - '*.dwf'
     hasMagic: true
     mimetypes:
-    - image/x-dwf; version="6.0"
-    - application/dwf; version="6.0"
     - drawing/x-dwf; version="6.0"
     - model/vnd.dwf; version="6.0"
-    - application/x-dwf; version="6.0"
+    - application/dwf; version="6.0"
     - image/vnd.dwf; version="6.0"
+    - image/x-dwf; version="6.0"
+    - application/x-dwf; version="6.0"
     name: AutoCAD Design Web Format 6.0
     primary_mimetype: application/dwf; version="6.0"
     source: droid-signature-file.xml#L52087
@@ -21172,8 +21172,8 @@ formats:
     supertype: application/msword
   x-fmt/66:
     extensions:
-    - '*.mda'
     - '*.mdb'
+    - '*.mda'
     hasMagic: true
     mimetypes: []
     name: Microsoft Access Database File 2.0
@@ -21302,8 +21302,8 @@ formats:
     supertype: null
   x-fmt/80:
     extensions:
-    - '*.pct'
     - '*.pict'
+    - '*.pct'
     hasMagic: true
     mimetypes:
     - image/x-pict; version="1.0"
@@ -21434,8 +21434,8 @@ formats:
     supertype: null
   x-fmt/94:
     extensions:
-    - '*.pwd'
     - '*.psw'
+    - '*.pwd'
     hasMagic: true
     mimetypes: []
     name: Pocket Word Document
