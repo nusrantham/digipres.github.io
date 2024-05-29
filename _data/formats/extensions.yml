@@ -5449,8 +5449,6 @@ extensions:
       regId: ffw
     - formatId: quark
       regId: ffw
-    - formatId: fold (j. turin)
-      regId: ffw
     - formatId: ark-quark
       regId: trid
     - formatId: Q105853933
@@ -28254,8 +28252,6 @@ extensions:
   '*.fol':
     identifiers:
     - formatId: pfs:first choice
-      regId: ffw
-    - formatId: fold (j. turin)
       regId: ffw
     - formatId: fmt/1284
       regId: pronom
